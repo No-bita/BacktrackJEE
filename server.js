@@ -7,7 +7,7 @@ const fs = require("fs");
 const http = require("http");
 const { Server } = require("socket.io");
 const { connectDB } = require("./config/db");
-const Question = require("./models/Question"); // ✅ Import schema (Do NOT define again)
+const Question = require("./models/question"); // ✅ Import schema (Do NOT define again)
 require("dotenv").config();
 require("./config/passport");
 
