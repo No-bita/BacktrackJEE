@@ -1,0 +1,1028 @@
+[
+    {
+        "question_id": 1,
+        "question": "The angle between vector Q→ and the resultant of (2Q→ +2P→) and (2Q→ −2P→) is : 2Q→+2P→",
+        "type": "MCQ",
+        "options": [
+            "(1) tan−1",
+            "(2) 0∘",
+            "(3) tan−1",
+            "(4) tan−1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 2,
+        "question": "Time periods of oscillation of the same simple pendulum measured using four different measuring clocks were recorded as 4.62 s,4.632 s,4.6 s and 4.64 s. The arithmetic mean of these readings in correct significant figure is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 5 s",
+            "(2) 4.623 s",
+            "(3) 4.6 s",
+            "(4) 4.62 s"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 3,
+        "question": "If G be the gravitational constant and u be the energy density then which of the following quantity have the dimensions as that of the √uG :",
+        "type": "MCQ",
+        "options": [
+            "(1) pressure gradient per unit mass",
+            "(2) Gravitational potential",
+            "(3) Energy per unit mass",
+            "(4) Force per unit mass"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 4,
+        "question": "A wooden block of mass 5 kg rests on a soft horizontal floor. When an iron cylinder of mass 25 kg is placed on the top of the block, the floor yields and the block and the cylinder together go down with an acceleration of 0.1 ms−2. The action force of the system on the floor is equal to:",
+        "type": "MCQ",
+        "options": [
+            "(1) 196 N",
+            "(2) 291 N",
+            "(3) 294 N",
+            "(4) 297 N"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 5,
+        "question": "A body of mass 50 kg is lifted to a height of 20 m from the ground in the two different ways as shown in the figures. The ratio of work done against the gravity in both the respective cases, will be :",
+        "type": "MCQ",
+        "options": [
+            "(1) 1 : 2",
+            "(2) √3 : 2",
+            "(3) 2 : 1",
+            "(4) 1 : 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 6,
+        "question": "Ratio of radius of gyration of a hollow sphere to that of a solid cylinder of equal mass, for moment of Inertia about their diameter axis AB as shown in figure is √8/x. The value of x is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 51",
+            "(2) 34",
+            "(3) 17",
+            "(4) 67"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 7,
+        "question": "A simple pendulum doing small oscillations at a place R height above earth surface has time period of T 1 = 4 s. T 2 would be it's time period if it is brought to a point which is at a height 2R from earth surface. Choose the correct relation [R = radius of earth ] :",
+        "type": "MCQ",
+        "options": [
+            "(1) 2 T 1 = T 2",
+            "(2) 2 T 1 = 3 T 2",
+            "(3) T 1 = T 2",
+            "(4) 3 T 1 = 2 T 2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 8,
+        "question": "In hydrogen like system the ratio of coul0mbian force and gravitational force between an electron and a proton is in the order of : 1039 1029 1019 1036",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 9,
+        "question": "Match List I with List II :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 10,
+        "question": "Given below are two statements : Statement I : When a capillary tube is dipped into a liquid, the liquid neither rises nor falls in the capillary. The contact angle may be 0∘. Statement II : The contact angle between a solid and a liquid is a property of the material of the solid and liquid as well. In the light of the above statement, choose the correct answer from the options given below.",
+        "type": "MCQ",
+        "options": [
+            "(1) Both Statement I and Statement II are false",
+            "(2) Both Statement I and Statement II are true",
+            "(3) Statement I is false but Statement II is true",
+            "(4) Statement I is true and Statement II is false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 11,
+        "question": "The heat absorbed by a system in going through the given cyclic process is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 19.6 J",
+            "(2) 61.6 J",
+            "(3) 616 J",
+            "(4) 431.2 J"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 12,
+        "question": "If the collision frequency of hydrogen molecules in a closed chamber at 27∘C is Z, then the collision frequency of the same system at 127∘C is : 2 √3 3Z 4Z 4 3",
+        "type": "MCQ",
+        "options": [
+            "(1) √3z",
+            "(2) 2 Z",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 13,
+        "question": "In the given figure R 1 = 10Ω,R 2 = 8Ω,R 3 = 4Ω and R 4 = 8Ω. Battery is ideal with emf 12 V. Equivalent resistant of the circuit and current supplied by battery are respectively :",
+        "type": "MCQ",
+        "options": [
+            "(1) 10.5Ω and 1.14 A",
+            "(2) 12Ω and 1 A",
+            "(3) 10.5Ω and 1 A",
+            "(4) 12Ω and 11.4 A"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 14,
+        "question": "In a co-axial straight cable, the central conductor and the outer conductor carry equal currents in opposite directions. The magnetic field is zero :",
+        "type": "MCQ",
+        "options": [
+            "(1) outside the cable",
+            "(2) inside the outer conductor",
+            "(3) inside the inner conductor",
+            "(4) in between the two conductors"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 15,
+        "question": "Two conducting circular loops A and B are placed in the same plane with their centers coinciding as shown in figure. The mutual inductance between them is : 2a 2π a 2π b 2b",
+        "type": "MCQ",
+        "options": [
+            "(1) μ0πb2",
+            "(2) μ o ⋅ b2",
+            "(3) μ 0 ⋅ a2",
+            "(4) μ 0πa2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 16,
+        "question": "An alternating voltage of amplitude 40 V and frequency 4kHz is applied directly across the capacitor of 12μF. The maximum displacement current between the plates of the capacitor is nearly :",
+        "type": "MCQ",
+        "options": [
+            "(1) 10 A",
+            "(2) 12 A",
+            "(3) 8 A",
+            "(4) 13 A"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 17,
+        "question": "Light emerges out of a convex lens when a source of light kept at its focus. The shape of wavefront of the light is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) both spherical and cylindrical",
+            "(2) plane",
+            "(3) spherical",
+            "(4) cylindrical"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 18,
+        "question": "Given below are two statements : Statement I : Figure shows the variation of stopping potential with frequency (v) for the two photosensitive materials M 1 and M 2. The slope gives value of h e, where h is Planck's constant, e is the charge of electron. Statement II : M 2 will emit photoelectrons of greater kinetic energy for the incident radiation having same frequency. In the light of the above statements, choose the most appropriate answer from the options given below. incorrect",
+        "type": "MCQ",
+        "options": [
+            "(1) Both Statement I and Statement II are correct",
+            "(2) Statement I is incorrect but Statement II is correct",
+            "(3) Both Statement I and Statement II are incorrect",
+            "(4) Statement I is correct and Statement II is"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 19,
+        "question": "An electron rotates in a circle around a nucleus having positive charge Ze. Correct relation between total energy (E) of electron to its potential energy (U) is :",
+        "type": "MCQ",
+        "options": [
+            "(1) E = U",
+            "(2) 2E = U",
+            "(3) 2E = 3U",
+            "(4) E = 2U"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 20,
+        "question": "Following gates section is connected in a complete suitable circuit. Forwhichof thefollowingcombination,bulbwillglow(ON):",
+        "type": "MCQ",
+        "options": [
+            "(1) A = 0, B = 0,C = 0,D = 1",
+            "(2) A = 0, B = 1,C = 1,D = 1",
+            "(3) A = 1, B = 0,C = 0,D = 0",
+            "(4) A = 1, B = 1,C = 1,D = 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 21,
+        "question": "A body moves on a frictionless plane starting from rest. If S n is distance moved between t = n−1 and t = n and S n−1 is distance moved between t = n−2 and t = n−1, then the ratio S n S−1 is (1− x2) for n = 10. The n value of x is ______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 22,
+        "question": "Three blocks M 1,M 2,M 3 having masses 4 kg,6 kg and 10 kg respectively are hanging from a smooth pully using rope 1,2 and 3 as shown in figure. The tension in the rope 1,T 1 when they are moving upward with Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo acceleration of 2 ms−2 is _____N( if g = 10 m/s2 ).",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 23,
+        "question": "The density and breaking stress of a wire are 6×104 kg/m3 and 1.2×108 N/m2 respectively. The wire is 1rd suspended from a rigid support on a planet where acceleration due to gravity is of the value on the surface 3 of earth. The maximum length of the wire with breaking is _____ m (take, g = 10 m/s2 ).",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 24,
+        "question": "Three capacitors of capacitances 25μF,30μF and 45μF are connected in parallel to a supply of 100 V. Energy stored in the above combination is E. When these capacitors are connected in series to the same supply, the stored energy is 9E. The value of x is _____. x",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 25,
+        "question": "The electric field between the two parallel plates of a capacitor of 1.5μF capacitance drops to one third of its initial value in 6.6μs when the plates are connected by a thin wire. The resistance of this wire is _____Ω. (Given, log3 = 1.1 )",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 26,
+        "question": "In the experiment to determine the galvanometer resistance by half-deflection method, the plot of 1/θ vs the resistance (R) of the resistance box is shown in the figure. The figure of merit of the galvanometer is _____ ×10−1 A/ division. [The source has emf 2V]",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 27,
+        "question": "A 2 A current carrying straight metal wire of resistance 1Ω, resistivity 2×10−6Ωm, area of cross-section 10 mm2 and mass 500 g is suspended horizontally in mid air by applying a uniform magnetic field B→ . The magnitude of B is _____×10−1 T (given, g = 10 m/s2 ). Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 28,
+        "question": "An ac source is connected in given series LCR circuit. The rms potential difference across the capacitor of 20μF is _____V.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 29,
+        "question": "In Young's double slit experiment, carried out with light of wavelength 5000\\AA, the distance between the slits is 0.3 mm and the screen is at 200 cm from the slits. The central maximum is at x = 0 cm. The value of x for third maxima is _____mm.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 30,
+        "question": "If three helium nuclei combine to form a carbon nucleus then the energy released in this reaction is _____ ×10−2MeV. (Given 1u = 931MeV/c2, atomic mass of helium = 4.002603u )",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 31,
+        "question": "An organic compound has 42.1% carbon, 6.4% hydrogen and remainder is oxygen. If its molecular weight is 342, then its molecular formula is :",
+        "type": "MCQ",
+        "options": [
+            "(1) C 11H 18O 12",
+            "(2) C 12H 20O 12",
+            "(3) C 12H 22O 11",
+            "(4) C 14H 20O 10"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 32,
+        "question": "The incorrect postulates of the Dalton's atomic theory are : (A) Atoms of different elements differ in mass. (B) Matter consists of divisible atoms. (C) Compounds are formed when atoms of different element combine in a fixed ratio. (D) All the atoms of given element have different properties including mass. (E) Chemical reactions involve reorganisation of atoms. Choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 33,
+        "question": "Given below are two statements : Statement I : In group 13, the stability of +1 oxidation state increases down the group. Statement II : The atomic size of gallium is greater than that of aluminium. In the light of the above statements, choose the most appropriate answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) Both Statement I and Statement II are correct",
+            "(2) Statement I is incorrect but Statement II is correct",
+            "(3) Both Statement I and Statement II are incorrect",
+            "(4) Statement I is correct but Statement II is incorrect"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 34,
+        "question": "The statement(s) that are correct about the species O2−,F−,Na+ and Mg2+ . (A) All are isoelectronic (B) All have the same nuclear charge (C) O2− has the largest ionic radii (D) Mg2+ has the smallest ionic radii Choose the most appropriate answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 35,
+        "question": "Given below are two statements : One is labelled as Assertion (A) and the other is labelled as Reason (R) Assertion (A) : Enthalpy of neutralisation of strong monobasic acid with strong monoacidic base is always −57 kJ mol−1 . Reason (R) : Enthalpy of neutralisation is the amount of heat liberated when one mole of H+ ions furnished by acid combine with one mole of OH− ions furnished by base to form one mole of water. In the light of the above statements, choose the correct answer from the options given below. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo correct explanation of (A) explanation of (A)",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) Both",
+            "(3) Both",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 36,
+        "question": "The following reaction occurs in the Blast furnance where iron ore is reduced to iron metal Fe 2O 3( s)+3CO (g) ⇌ Fe (l)+3CO 2( g) Using the Le-chatelier's principle, predict which one of the following will not disturb the equilibrium.",
+        "type": "MCQ",
+        "options": [
+            "(1) Addition of CO 2",
+            "(2) Removal of CO 2",
+            "(3) Addition of Fe 2O 3",
+            "(4) Removal of CO"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 37,
+        "question": "The number of neutrons present in the more abundant isotope of boron is ' x '. Amorphous boron upon heating with air forms a product, in which the oxidation state of boron is ' y '. The value of x+y is _______",
+        "type": "MCQ",
+        "options": [
+            "(1) 3",
+            "(2) 9",
+            "(3) 4",
+            "(4) 6"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 38,
+        "question": "Number of σ and π bonds present in ethylene molecule is respectively :",
+        "type": "MCQ",
+        "options": [
+            "(1) 4 and 1",
+            "(2) 5 and 2",
+            "(3) 3 and 1",
+            "(4) 5 and 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 39,
+        "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : Cis form of alkene is found to be more polar than the trans form. Reason (R): Dipole moment of trans isomer of 2-butene is zero. In the light of the above statements, choose the correct answer from the options given below : explanation of (A) correct explanation of (A)",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) Both",
+            "(3) ",
+            "(4) Both"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 40,
+        "question": "For the Compounds : (A) H 3C−CH 2 −O−CH 2 −CH 2 −CH 3 (B) H 3C−CH2 2 −CH 2 −CH 2 −CH 3 (C) (D) The increasing order of boiling point is : Choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 41,
+        "question": "Given below are two statements: Statement I : Nitration of benzene involves the following step - Statement II : Use of Lewis base promotes the electrophilic substitution of benzene. In the light of the above statements, choose the most appropriate answer from the options given below : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is correct but Statement II is incorrect",
+            "(2) Statement I is incorrect but Statement II is correct",
+            "(3) Both Statement I and Statement II are correct",
+            "(4) Both Statement I and Statement II are incorrect"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 42,
+        "question": "The reaction at cathode in the cells commonly used in clocks involves.",
+        "type": "MCQ",
+        "options": [
+            "(1) reduction of Mn from +7 to +2",
+            "(2) reduction of Mn from +4 to +3",
+            "(3) oxidation of Mn from +3 to +4",
+            "(4) oxidation of Mn from +2 to +7"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 43,
+        "question": "Molar ionic conductivities of divalent cation and anion are 57 S cm2 mol−1 and 73 S cm2 mol−1 respectively. The molar conductivity of solution of an electrolyte with the above cation and anion will be :",
+        "type": "MCQ",
+        "options": [
+            "(1) 187 S cm2 mol−1",
+            "(2) 260 S cm2 mol−1",
+            "(3) 130 S cm2 mol−1",
+            "(4) 65 S cm2 mol−1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 44,
+        "question": "The metal that shows highest and maximum number of oxidation state is :",
+        "type": "MCQ",
+        "options": [
+            "(1) Fe",
+            "(2) Mn",
+            "(3) Co",
+            "(4) Ti"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 45,
+        "question": "Which one of the following complexes will exhibit the least paramagnetic behaviour? [Atomic number, Cr = 24,Mn = 25,Fe = 26,Co = 27 ]",
+        "type": "MCQ",
+        "options": [
+            "(1) [Cr",
+            "(2) [Fe",
+            "(3) [Co",
+            "(4) [Mn"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 46,
+        "question": "The correct order of ligands arranged in increasing field strength.",
+        "type": "MCQ",
+        "options": [
+            "(1) F− < Br− < I− < NH 3",
+            "(2) Br− < F− < H 2O < NH 3",
+            "(3) H 2O < −OH < CN− < NH 3",
+            "(4) Cl− < −OH < Br− < CN−"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 47,
+        "question": "Given below are two statement: Statements I : Bromination of phenol in solvent with low polarity such as CHCl 3 or CS 2 requires Lewis acid catalyst. Statements II : The Lewis acid catalyst polarises the bromine to generate Br+ . In the light of the above statements, choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) Both Statement I and Statement II are true",
+            "(2) Statement I is true but Statement II is false",
+            "(3) Statement I is false but Statement II is true",
+            "(4) Both Statement I and Statement II are false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 48,
+        "question": "Identify compound (Z) in the following reaction sequence. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 49,
+        "question": "Identify ' A ' in the following reaction:",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 50,
+        "question": "Which of the following gives a positive test with ninhydrin?",
+        "type": "MCQ",
+        "options": [
+            "(1) Starch",
+            "(2) Egg albumin",
+            "(3) Polyvinyl chloride",
+            "(4) Cellulose"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 51,
+        "question": "9.3 g of pure aniline is treated with bromine water at room temperature to give a white precipitate of the product ' P '. The mass of product ' P ' obtaind is 26.4 g. The percentage yield is _______ %.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 52,
+        "question": "The value of Rydberg constant (R H) is 2.18×10−18 J. The velocity of electron having mass 9.1×10−31 kg in Bohr's first orbit of hydrogen atom = _______ ×105 ms−1 (nearest integer).",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 53,
+        "question": "In the lewis dot structure for NO− , total number of valence electrons around nitrogen is _______ 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 54,
+        "question": "The heat of combustion of solid benzoic acid at constant volume is −321.30 kJ at 27∘C. The heat of combustion at constant pressure is (−321.30−xR)kJ, the value of x is _______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 55,
+        "question": "An artificial cell is made by encapsulating 0.2M glucose solution within a semipermeable membrane. The osmotic pressure developed when the artificial cell is placed within a 0.05M solution of NaCl at 300 K is _______ ×10−1 bar. (nearest integer). [Given : R = 0.083 Lbarmol−1 K−1 ] Assume complete dissociation of NaCl",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 56,
+        "question": "During Kinetic study of reaction 2A+B → C+D, the following results were obtained : A[M] B[M] initialrateof formationof D I 0.1 0.1 6.0×10−3 II 0.3 0.2 7.20×10−2 Based on above data, overall order of the reaction is III 0.3 0.4 2.88×10−1 IV 0.4 0.1 2.40×10−2 ______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 57,
+        "question": "The spin-only magnetic moment value of the ion among Ti2+,V2+,Co3+ and Cr2+ , that acts as strong oxidising agent in aqueous solution is _______ BM (Near integer). (Given atomic numbers : Ti : 22, V : 23,Cr : 24,Co : 27)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 58,
+        "question": "The number of halobenzenes from the following that can be prepared by Sandmeyer's reaction is _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 59,
+        "question": "Consider the given chemical reaction sequence : Total sum of oxygen atoms in Product A and Product B are _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 60,
+        "question": "In a borax bead test under hot condition, a metal salt (one from the given) is heated at point B of the flame, Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣ JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo resulted in green colour salt bead. The spin-only magnetic moment value of the salt is _______ BM (Nearest integer) [Given atomic number of Cu = 29,Ni = 28,Mn = 25,Fe = 26]",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 61,
+        "question": "Consider the following two statements : Statement I : For any two non-zero complex numbers z 1,z 2, (|z |+|z |) z1 + z2 ≤ 2(|z |+|z |),and 1 2 |z | |z | 1 2 1 2 Statement II : If x,y,z are three distinct complex numbers and a,b,c are three positive real numbers such that a = b = c , then a2 + b2 + c2 = 1. |y−z| |z−x| |x−y| y−z z−x x−y Between the above two statements, incorrect. correct.",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is correct but Statement II is",
+            "(2) both Statement I and Statement II are correct.",
+            "(3) both Statement I and Statement II are incorrect.",
+            "(4) Statement I is incorrect but Statement II is"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 62,
+        "question": "If 1 + 1 +…+ 1 = m and 1 + 1 +…+ 1 = n, then the point (m,n) lies on the √1+√2 √2+√3 √99+√100 1⋅2 2⋅3 99⋅100 line",
+        "type": "MCQ",
+        "options": [
+            "(1) 11",
+            "(2) 11x−100y = 0",
+            "(3) 11",
+            "(4) 11"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 63,
+        "question": "Suppose θϵ[0, π] is a solution of 4cosθ−3sinθ = 1. Then cosθ is equal to : 4 4 6+√6 (3√6+2) (3√6+2) 4 6−√6 (3√6−2) (3√6−2)",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 64,
+        "question": "Let two straight lines drawn from the origin O intersect the line 3x+4y = 12 at the points P and Q such that △OPQ is an isosceles triangle and ∠POQ = 90∘ . If l = OP2 +PQ2 +QO2 , then the greatest integer less than or equal to l is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 42",
+            "(2) 46",
+            "(3) 44",
+            "(4) 48"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 65,
+        "question": "If A(1,−1,2),B(5,7,−6),C(3,4,−10) and D(−1,−4,−2) are the vertices of a quadrilateral ABCD, then its area is : 48√7 12√29 24√7 24√29",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 66,
+        "question": "Let a circle C of radius 1 and closer to the origin be such that the lines passing through the point (3,2) and parallel to the coordinate axes touch it. Then the shortest distance of the circle C from the point (5,5) is : 2√2 4√2",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) 4",
+            "(4) 5"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 67,
+        "question": "Let the line 2x+3y−k = 0,k > 0, intersect the x-axis and y-axis at the points A and B, respectively. If the equation of the circle having the line segment AB as a diameter is x2 +y2 −3x−2y = 0 and the length of the latus rectum of the ellipse x2 +9y2 = k2 is m , where m and n are coprime, then 2 m+n is equal to n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣ JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 11",
+            "(2) 10",
+            "(3) 12",
+            "(4) 13"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 68,
+        "question": "Let A and B be two square matrices of order 3 such that |A| = 3 and |B| = 2. Then ATA(adj(2 A))−1(adj(4 B))(adj(AB))−1AAT is equal to : 11x+y+λz = −5",
+        "type": "MCQ",
+        "options": [
+            "(1) 108",
+            "(2) 32",
+            "(3) 81",
+            "(4) 64"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 69,
+        "question": "If the system of equations 2x+3y+5z = 3 has infinitely many solutions, then λ4 −μ is equal to : 8x−19y−39z = μ",
+        "type": "MCQ",
+        "options": [
+            "(1) 51",
+            "(2) 45",
+            "(3) 47",
+            "(4) 49"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 70,
+        "question": "Let A = {1,3,7,9,11} and B = {2,4,5,7,8,10,12}. Then the total number of one-one maps f : A → B,",
+        "type": "MCQ",
+        "options": [
+            "(1) +f",
+            "(3) = 14, is :",
+            "(1) 480",
+            "(2) 240",
+            "(3) 120",
+            "(4) 180"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 71,
+        "question": "Let f(x) = x5 +2x3 +3x+1,x ∈ R, and g(x) be a function such that g(f(x)) = x for all x ∈ R. Then g(7) is equal to :",
+        "type": "MCQ",
+        "options": [
+            "(7) ",
+            "(1) 14",
+            "(2) 42",
+            "(3) 7",
+            "(4) 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 72,
+        "question": "If the function f(x) = sin3x+αsinx−βcos3x,x ∈ R, is continuous at x = 0, then f(0) is equal to : x3",
+        "type": "MCQ",
+        "options": [
+            "(1) 2",
+            "(2) -2",
+            "(3) 4",
+            "(4) -4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 73,
+        "question": "Let a rectangle ABCD of sides 2 and 4 be inscribed in another rectangle PQRS such that the vertices of the rectangle ABCD lie on the sides of the rectangle PQRS. Let a and b be the sides of the rectangle PQRS when its area is maximum. Then (a+b)2 is equal to :",
+        "type": "MCQ",
+        "options": [
+            "(1) 72",
+            "(2) 60",
+            "(3) 64",
+            "(4) 80"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 74,
+        "question": "For the function f(x) = sinx+3x− 2(x2 +x), where x ∈ [0, π], consider the following two statements : π 2 (I) f is increasing in (0, π). (II) f′ is decreasing in (0, π). 2 2 Between the above two statements,",
+        "type": "MCQ",
+        "options": [
+            "(1) only",
+            "(2) only",
+            "(3) neither",
+            "(4) both"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 75,
+        "question": "The value of ∫π 2y(1+siny)dy is : −π 1+cos2y 2π2 π2 2 π π2 2",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 76,
+        "question": "The integral ∫π/4 136sinx dx is equal to : 0 3sinx+5cosx e e e e e e e e",
+        "type": "MCQ",
+        "options": [
+            "(1) 3π−50log 2+20log 5",
+            "(2) 3π−25log 2+10log 5",
+            "(3) 3π−10log",
+            "(4) 3π−30log 2+20log 5"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 77,
+        "question": "If y = y(x) is the solution of the differential equation dy +2y = sin(2x),y(0) = 3 , then y(π) is equal to: dx 4 8 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) eπ/8",
+            "(2) eπ/4",
+            "(3) e−π/4",
+            "(4) e−π/8"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 78,
+        "question": "If the line 2−x = 3y−2 = 4−z makes a right angle with the line x+3 = 1−2y = 5−z , then 4λ+9μ is equal 3 4λ+1 3μ 6 7 to :",
+        "type": "MCQ",
+        "options": [
+            "(1) 4",
+            "(2) 13",
+            "(3) 5",
+            "(4) 6"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 79,
+        "question": "Let d be the distance of the point of intersection of the lines x+6 = y = z+1 and x−7 = y−9 = z−4 from the 3 2 1 4 3 2 point (7,8,9). Then d2 +6 is equal to :",
+        "type": "MCQ",
+        "options": [
+            "(1) 69",
+            "(2) 78",
+            "(3) 72",
+            "(4) 75"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 80,
+        "question": "The coefficients a,b,c in the quadratic equation ax2 +bx+c = 0 are chosen from the set {1,2,3,4,5,6,7,8} . The probability of this equation having repeated roots is : 1 1 128 64 3 3 256 128",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 81,
+        "question": "The number of ways of getting a sum 16 on throwing a dice four times is______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 82,
+        "question": "Let a 1,a 2,a 3,… be in an arithmetic progression of positive terms. Let A k = a2 1 −a2 2 +a2 3 −a2 4 +…+a2 2k−1 −a2 2k. If A 3 = −153, A 5 = −435 and a2 1 +a2 2 +a2 3 = 66, then a 17 −A 7 is equal to______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 83,
+        "question": "If the constant term in the expansion of (1+2x−3x3)(3x2 − 1 )9 is p, then 108p is equal to 2 3x",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 84,
+        "question": "Suppose AB is a focal chord of the parabola y2 = 12x of length l and slope m < √3. If the distance of the chord AB from the origin is d, then l d2 is equal to _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 85,
+        "question": "Let f be a differentiable function in the interval (0,∞) such that f(1) = 1 and lim t→x t2f(x t) −− xx2f(t) = 1 for",
+        "type": "MCQ",
+        "options": [
+            "(2) +3f",
+            "(3) is equal to _______"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 86,
+        "question": "From a lot of 10 items, which include 3 defective items, a sample of 5 items is drawn at random. Let the random variable X denote the number of defective items in the sample. If the variance of X is σ2 , then 96σ2 is equal to ______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 87,
+        "question": "The number of distinct real roots of the equation |x||x+2|−5|x+1|−1 = 0 is_______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 88,
+        "question": "If S = {a ∈ R : |2a−1| = 3[a]+2{a}}, where [t] denotes the greatest integer less than or equal to t and {t} represents the fractional part of t, then 72∑ a is equal to ______ a∈S",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 89,
+        "question": "The area of the region enclosed by the parabolas y = x2 −5x and y = 7x−x2 is",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 90,
+        "question": "Let → a =^i−3^j+7k^,→ b = 2^i−^j+k^ and→ c be a vector such that (→ a+2→ b)×→ c = 3(→ c×→ a). If a→⋅c→= 130, then →b⋅c→ is equal to _______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    }
+]

@@ -1,0 +1,1022 @@
+[
+    {
+        "question_id": 1,
+        "question": "If the percentage errors in measuring the length and the diameter of a wire are 0.1% each. The percentage error in measuring its resistance will be:",
+        "type": "MCQ",
+        "options": [
+            "(1) 0.2%",
+            "(2) 0.3%",
+            "(3) 0.1%",
+            "(4) 0.144%"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 2,
+        "question": "A force is represented by 𝐹 = 𝑎𝑥2+𝑏𝑡1 2, where 𝑥 = distance and 𝑡 = time. The dimensions of 𝑏2 are : 𝑎",
+        "type": "MCQ",
+        "options": [
+            "(1) \u0000𝑀𝐿3 𝑇 –3 \u0000",
+            "(2) \u0000𝑀𝐿𝑇–2\u0000",
+            "(3) \u0000𝑀𝐿–1 𝑇–1\u0000",
+            "(4) \u0000𝑀𝐿2 𝑇–3\u0000"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 3,
+        "question": "The relation between time ‘𝑡’ and distance ‘𝑥’ is 𝑡 = 𝛼𝑥2+𝛽𝑥, where 𝛼 and 𝛽 are constants. The relation between acceleration 𝑎 and velocity 𝑣 is:",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝑎 = -2𝛼𝑣3",
+            "(2) 𝑎 = -5𝛼𝑣5",
+            "(3) 𝑎 = -3𝛼𝑣2",
+            "(4) 𝑎 = -4𝛼𝑣4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 4,
+        "question": "A small steel ball is dropped into a long cylinder containing glycerine. Which one of the following is the correct representation of the velocity time graph for the transit of the ball?",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 5,
+        "question": "In the given arrangement of a doubly inclined plane two blocks of masses 𝑀 and 𝑚 are placed. The blocks are connected by a light string passing over an ideal pulley as shown. The coefficient of friction between the surface of the plane and the blocks is 0.25. The value of 𝑚, for which 𝑀 = 10 kg will move down with an acceleration of 2 m s-2, is: (take 𝑔 = 10 m s-2 and tan 37° = 3 ) 4",
+        "type": "MCQ",
+        "options": [
+            "(1) 9 kg",
+            "(2) 4.5 kg",
+            "(3) 6.5 kg",
+            "(4) 2.25 kg"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 6,
+        "question": "A coin is placed on a disc. The coefficient of friction between the coin and the disc is 𝜇. If the distance of the coin from the center of the disc is 𝑟, the maximum angular velocity which can be given to the disc, so that the coin does not slip away, is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo 𝜇𝑔 𝑟 𝑟 \u0000 𝜇𝑔 𝜇𝑔 𝜇 \u0000 𝑟 √𝑟𝑔",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 7,
+        "question": "An artillery piece of mass 𝑀 fires a shell of mass 𝑀 horizontally. Instantaneously after the firing, the ratio of 1 2 kinetic energy of the artillery and that of the shell is : 𝑀 𝑀 \u0000𝑀 +𝑀 \u0000 𝑀 1 2 1 𝑀 𝑀 \u0000𝑀 +𝑀 \u0000 𝑀 1 2 2",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 2",
+            "(4) 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 8,
+        "question": "Four identical particles of mass 𝑚 are kept at the four corners of a square. If the gravitational force exerted on one of the masses by the other masses is 2√2+1𝐺𝑚2 , the length of the sides of the square is 32 𝐿2 𝐿 2",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) 4𝐿",
+            "(3) 3𝐿",
+            "(4) 2𝐿"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 9,
+        "question": "Two conductors have the same resistances at 0 °C but their temperature coefficients of resistance are 𝛼 and 𝛼 1 2 . The respective temperature coefficients for their series and parallel combinations are : 𝛼 +𝛼 𝛼 +𝛼 𝛼 +𝛼 1 2 2 2 2 𝛼 𝛼 𝛼 +𝛼 1 2 1 2 𝛼 +𝛼 2 1 2",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝛼 +𝛼 , 1 2",
+            "(2) 1 2, 1 2",
+            "(3) 𝛼 +𝛼 , 1 2",
+            "(4) 1 2, 𝛼 +𝛼"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 10,
+        "question": "The given figure represents two isobaric processes for the same mass of an ideal gas, then 2 1 2 1 1 2 1 2",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝑃 ≥ 𝑃",
+            "(2) 𝑃 > 𝑃",
+            "(3) 𝑃 = 𝑃",
+            "(4) 𝑃 > 𝑃"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 11,
+        "question": "The parameter that remains the same for molecules of all gases at a given temperature is :",
+        "type": "MCQ",
+        "options": [
+            "(1) kinetic energy",
+            "(2) momentum",
+            "(3) mass",
+            "(4) speed"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 12,
+        "question": "The fundamental frequency of a closed organ pipe is equal to the first overtone frequency of an open organ pipe. If length of the open pipe is 60 cm, the length of the closed pipe will be :",
+        "type": "MCQ",
+        "options": [
+            "(1) 60 cm",
+            "(2) 45 cm",
+            "(3) 30 cm",
+            "(4) 15 cm"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 13,
+        "question": "Two charges 𝑞 and 3𝑞 are separated by a distance ‘𝑟’ in air. At a distance 𝑥 from charge 𝑞, the resultant electric field is zero. The value of 𝑥 is : 𝑟 3\u00001+√3\u0000 𝑟 \u00001+√3\u0000 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) \u00001+√3\u0000",
+            "(2) 𝑟",
+            "(3) ",
+            "(4) 𝑟\u00001+√3\u0000"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 14,
+        "question": "A rigid wire consists of a semicircular portion of radius 𝑅 and two straight sections. The wire is partially ^ immerged in a perpendicular magnetic field 𝐵 = 𝐵 j as shown in figure. The magnetic force on the wire if it 0 has a current 𝑖 is : ^ ^ ^ ^",
+        "type": "MCQ",
+        "options": [
+            "(1) -𝑖𝐵𝑅 j",
+            "(2) 2𝑖𝐵𝑅 j",
+            "(3) 𝑖𝐵𝑅 j",
+            "(4) -2𝑖𝐵𝑅 j"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 15,
+        "question": "A coil is placed perpendicular to a magnetic field of 5000 T. When the field is changed to 3000 T in 2 s, an induced emf of 22 V is produced in the coil. If the diameter of the coil is 0.02 m, then the number of turns in the coil is:",
+        "type": "MCQ",
+        "options": [
+            "(1) 7",
+            "(2) 70",
+            "(3) 35",
+            "(4) 140"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 16,
+        "question": "In a plane EM wave, the electric field oscillates sinusoidally at a frequency of 5×1010 Hz and an amplitude of 50 V m–1. The total average energy density of the electromagnetic field of the wave is : [Use 𝜀 = 8.85×10–12 C2 N-1 m-2] 0 𝐴",
+        "type": "MCQ",
+        "options": [
+            "(1) 1.106×10–8 J m–3",
+            "(2) 4.425×10–8 J m–3",
+            "(3) 2.212×10–8 J m–3",
+            "(4) 2.212×10–10 J m–3"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 17,
+        "question": "The refractive index of a prism with apex angle 𝐴 is 𝑐𝑜𝑡 . The angle of minimum deviation is : 2 𝑚 𝑚 𝑚 𝑚",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝛿 = 180°-𝐴",
+            "(2) 𝛿 = 180°-3𝐴",
+            "(3) 𝛿 = 180°-4𝐴",
+            "(4) 𝛿 = 180°-2𝐴"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 18,
+        "question": "When a metal surface is illuminated by light of wavelength 𝜆, the stopping potential is 8 V. When the same surface is illuminated by light of wavelength 3𝜆, stopping potential is 2 V. The threshold wavelength for this surface is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 5𝜆",
+            "(2) 3𝜆",
+            "(3) 9𝜆",
+            "(4) 4.5𝜆"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 19,
+        "question": "If the wavelength of the first member of Lyman series of hydrogen is 𝜆. The wavelength of the second member will be 27 32 32 27 27 5 5 27",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝜆",
+            "(2) 𝜆",
+            "(3) 𝜆",
+            "(4) 𝜆"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 20,
+        "question": "Identify the logic operation performed by the given circuit. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) NAND",
+            "(2) NOR",
+            "(3) OR",
+            "(4) AND"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 21,
+        "question": "A body starts falling freely from height 𝐻 hits an inclined plane in its path at height ℎ. As a result of this 𝐻 perfectly elastic impact, the direction of the velocity of the body becomes horizontal. The value of for which ℎ the body will take the maximum time to reach the ground is _____.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 22,
+        "question": "A solid circular disc of mass 50 kg rolls along a horizontal floor so that its center of mass has a speed of 0.4 m s-1. The absolute value of work done on the disc to stop it is ______ J.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 23,
+        "question": "The depth below the surface of sea to which a rubber ball be taken so as to decrease its volume by 0.02% is _____ m. (Take density of sea water = 103 kg m-3, Bulk modulus of rubber = 9×108 N m-2, and 𝑔 = 10 m s-2)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 24,
+        "question": "A particle performs simple harmonic motion with amplitude 𝐴. Its speed is increased to three times at an 2𝐴 𝑛𝐴 instant when its displacement is . The new amplitude of motion is . The value of 𝑛 is _____. 3 3",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 25,
+        "question": "A parallel plate capacitor with plate separation 5 mm is charged up by a battery. It is found that on introducing a dielectric sheet of thickness 2 mm, while keeping the battery connections intact, the capacitor draws 25% more charge from the battery than before. The dielectric constant of the sheet is ____.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 26,
+        "question": "Equivalent resistance of the following network is ________ 𝛺. \u0000\u0000 ^ ^",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 27,
+        "question": "An electron moves through a uniform magnetic field 𝐵 = 𝐵 i +2𝐵 j T. At a particular instant of time, the 0 0 velocity of electron is → 𝑢 = 3^ i +5^ j m s-1. If the magnetic force acting on electron is → 𝐹 = 5𝑒k^ N, where 𝑒 is the charge of electron, then the value of 𝐵 is ____ T. 0",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 28,
+        "question": "A small square loop of wire of side 𝑙 is placed inside a large square loop of wire of side 𝐿𝐿 = 𝑙2. The loops are coplanar and their centers coincide. The value of the mutual inductance of the system is 𝑥 ×10-7 H, where √ 𝑥 = ______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 29,
+        "question": "Two waves of intensity ratio 1 : 9 cross each other at a point. The resultant intensities at the point, when (a) Waves are incoherent is 𝐼 𝑏 Waves are coherent is 𝐼 and differ in phase by 60o. If 𝐼 1 = 10 , then 𝑥 = 1 2 𝐼 𝑥 2 _________. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 30,
+        "question": "The mass defect in a particular reaction is 0.4 g. The amount of energy liberated is 𝑛×107 kW h, where 𝑛 = _____. (speed of light = 3×108 m s-1)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 31,
+        "question": "The correct sequence of electron gain enthalpy of the elements listed below is A. Ar B. Br C. F D. S Choose the most appropriate from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) C > B > D > A",
+            "(2) A > D > B > C",
+            "(3) A > D > C > B",
+            "(4) D > C > B > A"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 32,
+        "question": "The linear combination of atomic orbitals to form molecular orbitals takes place only when the combining atomic orbitals A. have the same energy B. have the minimum overlap C. have same symmetry about the molecular axis D. have different symmetry about the molecular axis Choose the most appropriate from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A, B, C only",
+            "(2) A and C only",
+            "(3) B, C, D only",
+            "(4) B and D only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 33,
+        "question": "For the given reaction, choose the correct expression of K from the following: C Fe3+ aq+SCN- aq ⇌ \u0000FeSCN)2+ aq 𝐹𝑒𝑆𝐶𝑁2+ 𝐹𝑒3+𝑆𝐶𝑁- 𝐶 𝐹𝑒3+𝑆𝐶𝑁- 𝐶 𝐹𝑒𝑆𝐶𝑁2+ 𝐾 = 𝐹𝑒𝑆𝐶𝑁2+ 𝐹𝑒𝑆𝐶𝑁2+2 𝐶 𝐹𝑒3+2 𝑆𝐶𝑁-2 𝐾 𝐶 = 𝐹𝑒3+𝑆𝐶𝑁-",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝐾 =",
+            "(2) 𝐾 =",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 34,
+        "question": "Consider the oxides of group 14 elements 𝑆𝑖𝑂 , 𝐺𝑒𝑂 , 𝑆𝑛𝑂 , 𝑃𝑏𝑂 , 𝐶𝑂 and 𝐺𝑒𝑂. The amphoteric 2 2 2 2 oxides are 2 2 2 2 2 2",
+        "type": "MCQ",
+        "options": [
+            "(1) GeO, GeO",
+            "(2) SiO , GeO",
+            "(3) SnO , PbO",
+            "(4) SnO , CO"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 35,
+        "question": "A species having carbon with sextet of electrons and can act as electrophile is called",
+        "type": "MCQ",
+        "options": [
+            "(1) carbon free radical",
+            "(2) carbanion",
+            "(3) carbocation",
+            "(4) pentavalent carbon"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 36,
+        "question": "‘Adsorption’ principle is used for which of the following purification method?",
+        "type": "MCQ",
+        "options": [
+            "(1) Extraction",
+            "(2) Chromatography",
+            "(3) Distillation",
+            "(4) Sublimation"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 37,
+        "question": "Given below are two statements: Statement I: IUPAC name of HO-CH 2- \u0000CH 2) -CH 2-COCH 3 is 7-hydroxyheptan-2-one. 3 Statement II: 2-oxoheptan-7-ol is the correct IUPAC name for the above compound. In the light of the above statements, Choose the most appropriate answer from the options given below: incorrect. correct. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is correct but Statement II is",
+            "(2) Both Statement I and Statement II are incorrect.",
+            "(3) Both Statement I and Statement II are correct.",
+            "(4) Statement I is incorrect but Statement II is"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 38,
+        "question": "Match List I with List II LIST I (Technique) LIST II (Application) A.Distillation I. Separation of glycerol from spent-lye B.Fractional distillation II. Aniline - Water mixture C.Steam distillation III.Separation of crude oil fractions D.Distillation under reduced pressure IV. Chloroform-Aniline Choose the correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-IV, B-I, C-II, D-III",
+            "(2) A-IV, B-III, C-II. D-I",
+            "(3) A-I. B-II, C-IV, D-III",
+            "(4) A-II, B-III. C-I, D-IV"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 39,
+        "question": "The product (C) in the below mentioned reaction is: KOH HBr ∆ alc CH -CH -CH -Br\u0000⎯⎯⎯\u0000 A\u0000\u0000 B\u0000⎯⎯\u0000 C 3 2 2 ∆ KOHaq",
+        "type": "MCQ",
+        "options": [
+            "(1) Propan-1-ol",
+            "(2) Propene",
+            "(3) Propyne",
+            "(4) Propan-2-ol"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 40,
+        "question": "Identify the mixture that shows positive deviations from Raoult's Law 3) 6 5 2 3 6 6 2 3 3) 3) 2 2 2",
+        "type": "MCQ",
+        "options": [
+            "(1) \u0000CH CO+C H NH",
+            "(2) CHCl +C H",
+            "(3) CHCl + \u0000CH CO",
+            "(4) \u0000CH CO+CS"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 41,
+        "question": "The metals that are employed in the battery industries are A. Fe, B. Mn, C. Ni, D. Cr, E. Cd Choose the correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) B, C and E only",
+            "(2) A, B, C, D and E",
+            "(3) A, B, C and D only",
+            "(4) B, D and E only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 42,
+        "question": "Identify the factor from the following that does not affect electrolytic conductance of a solution.",
+        "type": "MCQ",
+        "options": [
+            "(1) The nature of the electrolyte added.",
+            "(2) The nature of the electrode used.",
+            "(3) Concentration of the electrolyte.",
+            "(4) The nature of solvent used."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 43,
+        "question": "Integrated rate law equation for a first order gas phase reaction is given by (where 𝑃 is initial pressure and 𝑃 𝑖 𝑡 is total pressure at time 𝑡) 2.303 𝑃 2.303 2𝑃 𝑡 2𝑃 𝑖-𝑃𝑡 𝑡 2𝑃 𝑖-𝑃𝑡 2.303 2𝑃 -𝑃 2.303 𝑃 𝑡 𝑃 𝑡 2𝑃 -𝑃 𝑖 𝑖 𝑡",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝑘 = ×log 𝑖",
+            "(2) 𝑘 = ×log 𝑖",
+            "(3) 𝑘 = ×log 𝑖 𝑡",
+            "(4) 𝑘 = × 𝑖"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 44,
+        "question": "Give below are two statements: Statement-I : Noble gases have very high boiling points. Statement-II: Noble gases are monoatomic gases. They are held together by strong dispersion forces. Because of this they are liquefied at very low temperature. Hence, they have very high boiling points. In the light of the above statements. choose the correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is false but Statement II is true",
+            "(2) Both Statement I and Statement II are true",
+            "(3) Statement I is true but Statement II is false",
+            "(4) Both Statement I and Statement II are false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 45,
+        "question": "Identify correct statements from below: A. The chromate ion is square planar. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo B. Dichromates are generally prepared from chromates. C. The green manganate ion is diamagnetic. D. Dark green coloured K MnO disproportionates in a neutral or acidic medium to give permanganate. 2 4 E. With increasing oxidation number of transition metal, ionic character of the oxides decreases. Choose the correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) B, C, D only",
+            "(2) A, D, E only",
+            "(3) A, B, C only",
+            "(4) B, D, E only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 46,
+        "question": "The correct statements from the following are: A. The strength of anionic ligands can be explained by crystal field theory. B. Valence bond theory does not give a quantitative interpretation of kinetic stability of coordination compounds. C. The hybridization involved in formation of \u0000Ni\u0000CN \u0000 2– complex is dsp2. ) 4 D. The number of possible isomer(s) of cis-\u0000PtCl \u0000en \u0000 2+ is one 2 ) 2 Choose the correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A, D only",
+            "(2) A, C only",
+            "(3) B, D only",
+            "(4) B, C only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 47,
+        "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R: Assertion A: 𝑝𝐾 value of phenol is 10.0 while that of ethanol is 15.9. 𝑎 Reason R: Ethanol is stronger acid than phenol. In the light of the above statements, choose the correct answer from the options given below: explanation of A explanation of A.",
+        "type": "MCQ",
+        "options": [
+            "(1) A is true but R is false",
+            "(2) A is false but R is true",
+            "(3) Both A and R are true and R is the correct",
+            "(4) Both A and R are true but R is NOT the correct"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 48,
+        "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R: Assertion A: Alcohols react both as nucleophiles and electrophiles. Reason R: Alcohols react with active metals such as sodium, potassium and aluminum to yield corresponding alkoxides and liberate hydrogen. In the light of the above statements, choose the correct answer from the options given below: explanation of A explanation of A",
+        "type": "MCQ",
+        "options": [
+            "(1) A is false but R is true.",
+            "(2) A is true but R is false.",
+            "(3) Both A and R are true and R is the correct",
+            "(4) Both A and R are true but R is NOT the correct"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 49,
+        "question": "The compound that is white in color is",
+        "type": "MCQ",
+        "options": [
+            "(1) ammonium sulphide",
+            "(2) lead sulphate",
+            "(3) lead iodide",
+            "(4) ammonium arsinomolybdate"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 50,
+        "question": "Match List I with List II List-I List-II A. Glucose/NaHCO /∆ I. Gluconic acid 3 B. Glucose/HNO II. No reaction 3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo C. Glucose/HI/∆ III. n-hexane D. Glucose/Bromine water IV. Saccharic acid Choose the correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-IV, B-I, C-III, D-II",
+            "(2) A-II, B-IV, C-III, D-I",
+            "(3) A-III, B-II, C-I, D-IV",
+            "(4) A-I, B-IV, C-III, D-II"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 51,
+        "question": "Number of moles of methane required to produce 22g CO after combustion is x×10–2 moles. The value 2\u0000g\u0000 of x is",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 52,
+        "question": "The ionization energy of sodium in kJ mol–1 . If electromagnetic radiation of wavelength 242 nm is just sufficient to ionize sodium atom is ______.(nearest integer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 53,
+        "question": "The number of species from the following in which the central atom uses sp3 hybrid orbitals in its bonding is _________. NH , SO , SiO , BeCl , CO , H O, CH , BF 3 2 2 2 2 2 4 3",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 54,
+        "question": "Consider the following reaction at 298 K. 3 O ⇌ O .K = 2.47×10-29 2g 3g p 2 ∆ G0 for the reaction is _________ kJ. (Given R = 8.314 JK–1 mol–1) r Round off your answer to the nearest integer.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 55,
+        "question": "Number of alkanes obtained on electrolysis of a mixture of CH COONa and C H COONa is_____. 3 2 5",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 56,
+        "question": "One Faraday of electricity liberates x×10–1 gram atom of copper from copper sulphate, x is______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 57,
+        "question": "The 'Spin only’ Magnetic moment for \u0000Ni\u0000NH 3) \u0000 2+ is______× 10–1 BM. (given = Atomic number of 6 Ni : 28) Round off your answer to the nearest integer.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 58,
+        "question": "The total number of hydrogen atoms in product 𝐴 and product 𝐵 is__________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 59,
+        "question": "The product of the following reaction is 𝑃. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo The number of hydroxyl groups present in the product 𝑃 is________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 60,
+        "question": "Molar mass of the salt from NaBr, NaNO , KI and CaF which does not evolve coloured vapours on heating 3 2 with concentrated H SO is ____ g mol–1, (Molar mass in 2 4 g mol–1 : Na : 23, N : 14, K : 39, O : 16, Br : 80, I : 127, F : 19, Ca : 40 )",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 61,
+        "question": "Let 𝑆 be the set of positive integral values of 𝑎 for which 𝑎𝑥2+2𝑎+1𝑥+9𝑎+4 < 0, ∀𝑥 ∈ ℝ. Then, the number 𝑥2-8𝑥+32 of elements in 𝑆 is:",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 0",
+            "(3) ∞",
+            "(4) 3"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 62,
+        "question": "For 0 < 𝑐 < 𝑏 < 𝑎, let \u0000𝑎+𝑏 – 2𝑐\u0000𝑥2+ \u0000𝑏+𝑐 – 2𝑎\u0000𝑥+ \u0000𝑐+𝑎 – 2𝑏\u0000 = 0 and 𝛼 ≠ 1 be one of its root. Then, among the two statements (I) If 𝛼 ∈ -1, 0, then 𝑏 cannot be the geometric mean of 𝑎 and 𝑐. (II) If 𝛼 ∈ 0, 1, then 𝑏 may be the geometric mean of 𝑎 and 𝑐. 1 2 3",
+        "type": "MCQ",
+        "options": [
+            "(1) Both",
+            "(2) Neither",
+            "(3) Only",
+            "(4) Only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 63,
+        "question": "The sum of the series + + + . ... up to 10 terms is 1−3⋅12+14 1−3⋅22+24 1−3⋅32+34 45 45 109 109 55 55 109 109",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) -",
+            "(3) ",
+            "(4) -"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 64,
+        "question": "Let 𝛼, 𝛽, 𝛾, 𝛿 ∈ 𝑍 and let 𝐴𝛼, 𝛽, 𝐵1, 0, 𝐶𝛾, 𝛿 and 𝐷1, 2 be the vertices of a parallelogram 𝐴𝐵𝐶𝐷. If 𝐴𝐵 = √10 and the points 𝐴 and 𝐶 lie on the line 3𝑦 = 2𝑥+1, then 2𝛼+𝛽+𝛾+𝛿 is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 10",
+            "(2) 5",
+            "(3) 12",
+            "(4) 8"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 65,
+        "question": "If one of the diameters of the circle 𝑥2+𝑦2-10𝑥+4𝑦+13 = 0 is a chord of another circle 𝐶, whose center is the point of intersection of the lines 2𝑥+3𝑦 = 12 and 3𝑥-2𝑦 = 5, then the radius of the circle 𝐶 is",
+        "type": "MCQ",
+        "options": [
+            "(1) √20",
+            "(2) 4",
+            "(3) 6",
+            "(4) 3√2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 66,
+        "question": "𝑥2 𝑦2 15 If the foci of a hyperbola are same as that of the ellipse + = 1 and the eccentricity of the hyperbola is 9 25 8 14 2 times the eccentricity of the ellipse, then the smaller focal distance of the point √2, \u0000 on the hyperbola, 3 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo is equal to 5 3 5 3 5 3 5 3",
+        "type": "MCQ",
+        "options": [
+            "(1) 7\u00002 - 8",
+            "(2) 14\u00002 - 4",
+            "(3) 14\u00002 - 16",
+            "(4) 7\u00002 + 8"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 67,
+        "question": "lim 𝑒2sin𝑥-2sin𝑥-1 𝑥→0 𝑥2",
+        "type": "MCQ",
+        "options": [
+            "(1) is equal to -1",
+            "(2) does not exist",
+            "(3) is equal to 1",
+            "(4) is equal to 2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 68,
+        "question": "Let 𝑎 be the sum of all coefficients in the expansion of \u00001 – 2𝑥+2𝑥2 )2023 \u00003-4𝑥2+2𝑥3 )2024 and 𝑥 log1+𝑡 ∫ 𝑑𝑡 𝑏 = lim 0𝑡2024+1 . If the equations 𝑐𝑥2+𝑑𝑥+𝑒 = 0 and 2𝑏𝑥2+𝑎𝑥+4 = 0 have a common root, where 𝑥→0 𝑥2 𝑐, 𝑑, 𝑒 ∈ 𝑅, then 𝑑 : 𝑐 : 𝑒 equals",
+        "type": "MCQ",
+        "options": [
+            "(1) 2 : 1 : 4",
+            "(2) 4 : 1 : 4",
+            "(3) 1 : 2 : 4",
+            "(4) 1 : 1 : 4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 69,
+        "question": "𝑥3 2𝑥2+1 1+3𝑥 If 𝑓𝑥 = 3𝑥2+2 2𝑥 𝑥3+6 for all 𝑥 ∈ ℝ, then 2𝑓0+𝑓'0 is equal to 𝑥3−𝑥 4 𝑥2−2",
+        "type": "MCQ",
+        "options": [
+            "(1) 48",
+            "(2) 24",
+            "(3) 42",
+            "(4) 18"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 70,
+        "question": "If the system of linear equations 𝑥-2𝑦+𝑧 = -4 2𝑥+𝛼𝑦+3𝑧 = 5 3𝑥-𝑦+𝛽𝑧 = 3 has infinitely many solutions, then 12𝛼+13𝛽 is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 60",
+            "(2) 64",
+            "(3) 54",
+            "(4) 58"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 71,
+        "question": "For 𝛼,𝛽,𝛾 ≠ 0. If sin−1𝛼+sin−1𝛽+sin−1𝛾 = 𝜋 and 𝛼+𝛽+𝛾𝛼−𝛾+𝛽 = 3𝛼𝛽, then 𝛾 equal to 2 √2 2√2 4𝑥+3 2 2 2",
+        "type": "MCQ",
+        "options": [
+            "(1) √3",
+            "(2) 1",
+            "(3) √3-1",
+            "(4) √3"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 72,
+        "question": "If 𝑓𝑥 = , 𝑥 ≠ and \u0000𝑓𝑜𝑓\u0000 \u0000𝑥\u0000 = 𝑔\u0000𝑥\u0000, where 𝑔:𝑅- → 𝑅- , then \u0000𝑔𝑜𝑔𝑜𝑔\u0000 \u00004\u0000 is equal to 6𝑥-4 3 3 3 19 19 20 20",
+        "type": "MCQ",
+        "options": [
+            "(1) -",
+            "(2) ",
+            "(3) -4",
+            "(4) 4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 73,
+        "question": "𝑔𝑥, 𝑥 ≤ 0 Let 𝑔𝑥 be a linear function and 𝑓𝑥 = 1 , is continuous at 𝑥 = 0. If 𝑓'1 = 𝑓−1, then the value of 1+𝑥𝑥, 𝑥 > 0 2+𝑥 𝑔3 is Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo 1 4 1 4 3 𝑒 1 3 𝑒9 9𝑒3 4 4 𝑒9 𝑒 1 9𝑒3 𝑥𝑦𝑥-1𝑥-2",
+        "type": "MCQ",
+        "options": [
+            "(1) log",
+            "(2) log +1",
+            "(3) log −1",
+            "(4) log"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 74,
+        "question": "The area of the region 𝑥, 𝑦:𝑦2 ≤ 4𝑥, 𝑥 < 4, > 0, 𝑥 ≠ 3 is 𝑥-3𝑥-4 16 64 3 3 8 32 3 3 𝑑𝑥",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 75,
+        "question": "The solution curve of the differential equation 𝑦 = 𝑥log 𝑥-log 𝑦+1, 𝑥 > 0, 𝑦 > 0 passing through the 𝑑𝑦 𝑒 𝑒 point (𝑒, 1) is 𝑦 𝑦 𝑒𝑥 𝑒𝑥 𝑥 𝑥 𝑒𝑦 𝑒𝑦 𝑑𝑦 tan𝑥+𝑦 𝜋",
+        "type": "MCQ",
+        "options": [
+            "(1) log = 𝑥",
+            "(2) log = 𝑦2",
+            "(3) log = 𝑦",
+            "(4) 2log = 𝑦+1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 76,
+        "question": "Let 𝑦 = 𝑦\u0000𝑥\u0000 be the solution of the differential equation = , 𝑥 ∈ 0, satisfying the 𝑑𝑥 sin𝑥sec𝑥-sin𝑥tan𝑥 2 𝜋 𝜋 condition 𝑦 = 2. Then, 𝑦 is 4 3 𝑒 2 𝑒 𝑒 𝑒",
+        "type": "MCQ",
+        "options": [
+            "(1) √32+log √3",
+            "(2) √3 2+log 3",
+            "(3) √31+2log 3",
+            "(4) √32+log 3"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 77,
+        "question": "Let → 𝑎 = 3^ 𝑖+^ 𝑗−2𝑘^ , → 𝑏 = 4^ 𝑖+^ 𝑗+7𝑘^ and → 𝑐 = ^ 𝑖−3^ 𝑗+4𝑘^ be three vectors. If a vectors → 𝑝 satisfies → → → → → → → ^ ^ ^ 𝑝×𝑏 = 𝑐×𝑏 and 𝑝⋅𝑎 = 0, then 𝑝⋅𝑖−𝑗−𝑘 is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 24",
+            "(2) 36",
+            "(3) 28",
+            "(4) 32"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 78,
+        "question": "The distance of the point 𝑄\u00000, 2, – 2\u0000 form the line passing through the point 𝑃(5, – 4, 3) and → ^ ^ ^ ^ ^ perpendicular to the lines 𝑟 = −3𝑖+2𝑘+𝜆2𝑖+3𝑗+5𝑘, 𝜆 ∈ ℝ and → ^ ^ ^ ^ ^ ^ 𝑟 = 𝑖−2𝑗+𝑘+𝜇−𝑖+3𝑗+2𝑘, 𝜇 ∈ ℝ is",
+        "type": "MCQ",
+        "options": [
+            "(1) √86",
+            "(2) √20",
+            "(3) √54",
+            "(4) √74"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 79,
+        "question": "Two marbles are drawn in succession from a box containing 10 red, 30 white, 20 blue and 15 orange marbles, with replacement being made after each drawing. Then the probability, that first drawn marble is red and second drawn marble is white, is 2 4 25 25 2 4 3 75",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 80,
+        "question": "Three rotten apples are accidently mixed with fifteen good apples. Assuming the random variable 𝑥 to be the number of rotten apples in a draw of two apples, the variance of 𝑥 is 37 57 153 153 47 40 153 153",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 81,
+        "question": "If 𝛼 denotes the number of solutions of 1−𝑖𝑥 = 2𝑥 and 𝛽 = 𝑧 , where 𝑧 = 𝜋 1+𝑖41−√𝜋·𝑖 + √𝜋−𝑖 , arg𝑧 4 𝜋+𝑖 1+ 𝜋·𝑖 √ √ 𝑖 = √−1, then the distance of the point 𝛼, 𝛽 from the line 4𝑥−3𝑦 = 7 is ______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (31 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 82,
+        "question": "The total number of words (with or without meaning) that can be formed out of the letters of the word \"DISTRIBUTION\" taken four at a time, is equal to ______. 5",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 83,
+        "question": "In the expansion of 1+𝑥1−𝑥21+ 3 + 3 + 1 , 𝑥 ≠ 0, the sum of the coefficient of 𝑥3 and 𝑥-13 is equal to 𝑥 𝑥2 𝑥3 ______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 84,
+        "question": "Let the foci and length of the latus rectum of an ellipse 𝑥2 + 𝑦2 = 1, 𝑎 > 𝑏 be ±5, 0 and √50, respectively. 𝑎2 𝑏2 𝑥2 𝑦2 Then, the square of the eccentricity of the hyperbola − = 1 equals 𝑏2 𝑎2𝑏2",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 85,
+        "question": "Let 𝐴 = 1, 2, 3, 4 and 𝑅 = (1, 2), (2, 3), (1, 4) be a relation on 𝐴. Let 𝑆 be the equivalence relation on 𝐴 such that 𝑅 ⊂ 𝑆 and the number of elements in 𝑆 is 𝑛. Then, the minimum value of 𝑛 is _______ 𝑓1−𝑎",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 86,
+        "question": "Let 𝑓:ℝ → ℝ be a function defined by 𝑓𝑥 = 4𝑥 and 𝑀 = ∫ 𝑥sin4𝑥1−𝑥𝑑𝑥, 4𝑥+2 𝑓𝑎 𝑓1−𝑎 𝑁 = ∫ sin4𝑥1−𝑥𝑑𝑥; 𝑎 ≠ 1 . If 𝛼𝑀 = 𝛽𝑁,𝛼, 𝛽 ∈ ℕ, then the least value of 𝛼2+𝛽2 is equal to ______ 2 𝑓𝑎 𝑥",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 87,
+        "question": "Let 𝑆 = −1, ∞ and 𝑓:𝑆 → ℝ be defined as 𝑓𝑥 = ∫ 𝑒𝑡−111 2𝑡−15𝑡−27𝑡−3122𝑡−1061𝑑𝑡. Let 𝑝 = Sum −1 of square of the values of 𝑥, where 𝑓𝑥 attains local maxima on 𝑆. and 𝑞 = Sum of the values of 𝑥, where 𝑓𝑥 attains local minima on 𝑆. Then, the value of 𝑝2+2𝑞 is ________ 𝜋 1",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 88,
+        "question": "2 11 5 2 If the integral 525∫sin2𝑥 cos2 𝑥1+cos2𝑥 𝑑𝑥 is equal to 𝑛√2 −64, then 𝑛 is equal to ________ 0",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 89,
+        "question": "Let → 𝑎 and → 𝑏 be two vectors such that → 𝑎 = 1, → 𝑏 = 4 and → 𝑎⋅→ 𝑏 = 2. If → 𝑐 = 2→ 𝑎×→ 𝑏−3→ 𝑏 and the angle between → 𝑏 and→ 𝑐 is 𝛼, then 192sin2𝛼 is equal to _________",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 90,
+        "question": "Let 𝑄 and 𝑅 be the feet of perpendiculars from the point 𝑃𝑎, 𝑎, 𝑎 on the lines 𝑥 = 𝑦, 𝑧 = 1 and 𝑥 = −𝑦, 𝑧 = −1 respectively. If ∠𝑄𝑃𝑅 is a right angle, then 12𝑎2 is equal to ________ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    }
+]

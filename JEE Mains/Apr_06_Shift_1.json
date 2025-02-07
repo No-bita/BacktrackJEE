@@ -1,0 +1,1019 @@
+[
+    {
+        "question_id": 1,
+        "question": "To find the spring constant (k) of a spring experimentally, a student commits 2% positive error in the measurement of time and 1% negative error in measurement of mass. The percentage error in determining value of k is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 5%",
+            "(2) 1%",
+            "(3) 3%",
+            "(4) 4%"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 2,
+        "question": "LISTI LISTII A. Torque I. [M1L1T−2A−2] B. Magneticfield II. [L2A1] Match List I with List II Choose the correct C. Magneticmoment III. [M1T−2A−1] D. Permeabilityof freespace IV. [M1L2T−2] answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-III, B-I, C-II, D-IV",
+            "(2) A-IV, B-II, C-III, D-I",
+            "(3) A-IV, B-III, C-II, D-I",
+            "(4) A-I, B-III, C-II, D-IV"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 3,
+        "question": "A train starting from rest first accelerates uniformly up to a speed of 80 km/h for time t, then it moves with a constant speed for time 3t. The average speed of the train for this duration of journey will be (in km/h ) :",
+        "type": "MCQ",
+        "options": [
+            "(1) 40",
+            "(2) 80",
+            "(3) 30",
+            "(4) 70"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 4,
+        "question": "A light string passing over a smooth light pulley connects two blocks of masses m 1 and m 2 (where m 2 > m 1 ). g m If the acceleration of the system is , then the ratio of the masses 1 is: √2 m 2 1+√5 √2−1 √5−1 √2+1 1+√5 √3+1 √2−1 √2−1",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 5,
+        "question": "A bullet of mass 50 g is fired with a speed 100 m/s on a plywood and emerges with 40 m/s. The percentage loss of kinetic energy is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 84%",
+            "(2) 16%",
+            "(3) 32%",
+            "(4) 44%"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 6,
+        "question": "Four particles A,B,C,D of mass m,m,2m,4m, have same momentum, respectively. The particle with 2 maximum kinetic energy is :",
+        "type": "MCQ",
+        "options": [
+            "(1) B",
+            "(2) A",
+            "(3) D",
+            "(4) C"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 7,
+        "question": "To project a body of mass m from earth's surface to infinity, the required kinetic energy is (assume, the radius of earth is R E,g = acceleration due to gravity on the surface of earth):",
+        "type": "MCQ",
+        "options": [
+            "(1) 2mgR E",
+            "(2) 4mgR E",
+            "(3) mgR E",
+            "(4) 1/2mgR E"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 8,
+        "question": "A small ball of mass m and density ρ is dropped in a viscous liquid of density ρ 0. After sometime, the ball falls with constant velocity. The viscous force on the ball is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo ρ 0 ρ ρ ∇",
+        "type": "MCQ",
+        "options": [
+            "(1) mg",
+            "(2) mg",
+            "(3) mg",
+            "(4) mg"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 9,
+        "question": "A sample contains mixture of helium and oxygen gas. The ratio of root mean square speed of helium and oxygen in the sample, is: 1 2√2 32 1 1 1 2√2 4",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 10,
+        "question": "The specific heat at constant pressure of a real gas obeying PV 2 = RT equation is:",
+        "type": "MCQ",
+        "options": [
+            "(1) R 3 +C V",
+            "(2) C V +R",
+            "(3) C V + 2R V",
+            "(4) R"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 11,
+        "question": "Ques: σ is the uniform surface charge density of a thin spherical shell of radius R. The electric field at any point on the surface of the spherical shell is :",
+        "type": "MCQ",
+        "options": [
+            "(1) σ/ϵ oR",
+            "(2) σ/ϵ o",
+            "(3) σ/4ϵ o",
+            "(4) σ/2ϵ o"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 12,
+        "question": "The value of unknown resistance (x) for which the potential difference between B and D will be zero in the arrangement shown, is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 3Ω",
+            "(2) 42Ω",
+            "(3) 9Ω",
+            "(4) 6Ω"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 13,
+        "question": "An element Δl = Δx^i is placed at the origin and carries a large current I = 10 A. The magnetic field on the y- axis at a distance of 0.5 m from the elements Δx of 1 cm length is: Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 4×10−8 T",
+            "(2) 10×10−8 T",
+            "(3) 8×10−8 T",
+            "(4) 12×10−8 T"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 14,
+        "question": "Given below are two statements: Statement I: In an LCR series circuit, current is maximum at resonance. Statement II: Current in a purely resistive circuit can never be less than that in a series LCR circuit when connected to same voltage source. In the light of the above statements, choose the correct from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is false but Statement II is true",
+            "(2) Statement I is true but Statement II is false",
+            "(3) Both Statement I and Statement II are true",
+            "(4) Both Statement I and Statement II are false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 15,
+        "question": "Electromagnetic waves travel in a medium with speed of 1.5×108 m s−1 . The relative permeability of the medium is 2.0 . The relative permittivity will be:",
+        "type": "MCQ",
+        "options": [
+            "(1) 2",
+            "(2) 4",
+            "(3) 5",
+            "(4) 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 16,
+        "question": "In photoelectric experiment energy of 2.48eV irradiates a photo sensitive material. The stopping potential was measured to be 0.5 V. Work function of the photo sensitive material is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 1.68eV",
+            "(2) 2.48eV",
+            "(3) 1.98eV",
+            "(4) 0.5eV"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 17,
+        "question": "Which of the following phenomena does not explain by wave nature of light. A. reflection B. diffraction C. photoelectric effect D. interference E. polarization Choose the most appropriate answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) E only",
+            "(2) B, D only",
+            "(3) C only",
+            "(4) A, C only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 18,
+        "question": "The ratio of the shortest wavelength of Balmer series to the shortest wavelength of Lyman series for hydrogen atom is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 4 : 1",
+            "(2) 1 : 4",
+            "(3) 2 : 1",
+            "(4) 1 : 2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 19,
+        "question": "The correct truth table for the following logic circuit is : 0 0 1 0 0 0 0 1 1 0 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 0 1 0 0 0 0 1 1 0 1 0 1 0 0 1 0 0 1 1 0 1 1 1",
+        "type": "MCQ",
+        "options": [
+            "(1) A B Y",
+            "(2) A B Y",
+            "(3) A B Y",
+            "(4) A B Y"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 20,
+        "question": "While measuring diameter of wire using screw gauge the following readings were noted. Main scale reading is 1 mm and circular scale reading is equal to 42 divisions. Pitch of screw gauge is 1 mm and it has 100 divisions on circular scale. The diameter of the wire is x mm. The value of x is : 50",
+        "type": "MCQ",
+        "options": [
+            "(1) 21",
+            "(2) 142",
+            "(3) 71",
+            "(4) 42"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 21,
+        "question": "For three vectors A→ = (−x^i−6^j−2k^ ),B→ = (−^i+4^j+3k^ ) and C→ = (−8^i−^j+3k^ ), if A→ ⋅(B→ ×C→ ) = 0, then value of x is _________",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 22,
+        "question": "If the radius of earth is reduced to three-fourth of its present value without change in its mass then value of duration of the day of earth will be ______ hours 30 minutes.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 23,
+        "question": "A big drop is formed by coalescing 1000 small droplets of water. The ratio of surface energy of 1000 droplets to that of energy of big drop is 10 . The value of x is __________ x",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 24,
+        "question": "A particle is doing simple harmonic motion of amplitude 0.06 m and time period 3.14 s. The maximum velocity of the particle is _______ cm/s.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 25,
+        "question": "Three infinitely long charged thin sheets are placed as shown in figure. The magnitude of electric field at the point P is xσ . The value of x is _______ (all quantities are measured in SI units). ϵ o Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 26,
+        "question": "A wire of resistance R and radius r is stretched till its radius became r/2. If new resistance of the stretched wire is xR, then value of x is _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 27,
+        "question": "A circular coil having 200 turns, 2.5×10−4 m2 area and carrying 100μA current is placed in a uniform → → magnetic field of 1T. Initially the magnetic dipole moment (M) was directed along B. Amount of work, required to rotate the coil through 90∘ from its initial orientation such that M→ becomes perpendicular to B→ , is ______ μJ.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 28,
+        "question": "When a dc voltage of 100 V is applied to an inductor, a dc current of 5 A flows through it. When an ac voltage of 200 V peak value is connected to inductor, its inductive reactance is found to be 20√3Ω. The power dissipated in the circuit is _______ W.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 29,
+        "question": "The refractive index of prism is μ = √3 and the ratio of the angle of minimum deviation to the angle of prism is one. The value of angle of prism is _______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 30,
+        "question": "Radius of a certain orbit of hydrogen atom is 8.48Ã…. If energy of electron in this orbit is E/x. then x = _____ (Given a 0 = 0.529Ã…,E = energy of electron in ground state).",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 31,
+        "question": "The density of ' x ' M solution (' X ' molar) of NaOH is 1.12 g mL−1 , while in molality, the concentration of the solution is 3 m(3molal). Then x is (Given : Molar mass of NaOH is 40 g/mol )",
+        "type": "MCQ",
+        "options": [
+            "(1) 3.5",
+            "(2) 3.8",
+            "(3) 2.8",
+            "(4) 3.0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 32,
+        "question": "The electron affinity value are negative for A. Be → Be− B. N → N− C. O → O2− D. Na → Na− E. Al → Al− Choose the most appropriate answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) D and E only",
+            "(2) A, B and C only",
+            "(3) A and D only",
+            "(4) A, B, D and E only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 33,
+        "question": "Which of the following material is not a semiconductor. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) Silicon",
+            "(2) Copper oxide",
+            "(3) Germanium",
+            "(4) Graphite"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 34,
+        "question": "List-I List-II (Hybridization) (OrientationinSpace) A. sp3 I. Trigonalbipyramidal Match List I with List II Choose the correct B. dsp2 II. Octahedral C. sp3 d III. Tetrahedral D. sp3 d2 IV. Squareplanar answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-IV, B-III, C-I, D-II",
+            "(2) A-III, B-IV, C-I, D-II",
+            "(3) A-III, B-I, C-IV, D-II",
+            "(4) A-II, B-I, C-IV, D-III"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 35,
+        "question": "List-I List-II (Compound/Species) (Shape/Geometry) A. SF I. Tetrahedral 4 Match List I with List II Choose the correct B. BrF II. Pyramidal 3 C. BrO− III. Seesaw 3 D. NH++KS IV. BentT-Shape 4 answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-II, B-III, C-I, D-IV",
+            "(2) A-II, B-IV, C-III, D-I",
+            "(3) A-III, B-IV, C-II, D-I",
+            "(4) A-III, B-II, C-IV, D-I"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 36,
+        "question": "List-I List-II (Molecule/Species) (Property/Shape) A. SO Cl I. Paramagnetic 2 2 Match List I with List II Choose the correct answer B. NO II. Diamagnetic C. NO− III. Tetrahedral 2 D. I− IV. Linear 3 from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-II, B-III, C-I, D-IV",
+            "(2) A-III, B-I, C-II, D-IV",
+            "(3) A-IV, B-I, C-III, D-II",
+            "(4) A-III, B-IV, C-II, D-I"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 37,
+        "question": "At −20∘C and 1 atm pressure, a cylinder is filled with equal number of H 2,I 2 and HI molecules for the reaction H 2( g)+I 2( g) ⇌ 2HI(g), the K p for the process is x×10−1 . x = _____ [Given : R = 0.082 L atm K−1 mol−1 ]",
+        "type": "MCQ",
+        "options": [
+            "(1) 0.01",
+            "(2) 10",
+            "(3) 2",
+            "(4) 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 38,
+        "question": "Functional group present in sulphonic acids is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) −SO 4H",
+            "(2) −SO 3H",
+            "(3) ",
+            "(4) −SO 2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 39,
+        "question": "Which of the following statements are correct? A. Glycerol is purified by vacuum distillation because it decomposes at its normal boiling point. B. Aniline can be purified by steam distillation as aniline is miscible in water. C. Ethanol can be separated from ethanol water mixture by azeotropic distillation because it forms azeotrope. D. An organic compound is pure, if mixed M.P. is remained same. Choose the most appropriate answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) A, B, C only",
+            "(2) A, C, D only",
+            "(3) A, B, D only",
+            "(4) B, C, D only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 40,
+        "question": "Which of the following is metamer of the given compound (X) ?",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 41,
+        "question": "Given below are two statements: Statement I : Gallium is used in the manufacturing of thermometers. Statement II : A thermometer containing gallium is useful for measuring the freezing point (256 K) of brine solution. In the light of the above statements, choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) Both Statement I and Statement II are true",
+            "(2) Statement I is false but Statement II is true",
+            "(3) Both Statement I and Statement II are false",
+            "(4) Statement I is true but Statement II is false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 42,
+        "question": "A conductivity cell with two electrodes (dark side) are half filled with infinitely dilute aqueous solution of a weak electrolyte. If volume is doubled by adding more water at constant temperature, the molar conductivity of the cell will - Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) decrease sharply",
+            "(2) increase sharply",
+            "(3) remain same or can not be measured accurately",
+            "(4) depend upon type of electrolyte"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 43,
+        "question": "The number of element from the following that do not belong to lanthanoids is Eu,Cm,Er,Tb,Yb and Lu",
+        "type": "MCQ",
+        "options": [
+            "(1) 3",
+            "(2) 4",
+            "(3) 1",
+            "(4) 5"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 44,
+        "question": "List-I List-II (Compound) (Uses) A. Iodoform I. Fireextinguisher Match List I with List II Choose the correct B. Carbontetrachloride II. Insecticide C. CFC III. Antiseptic D. DDT IV. Refrigerants answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-I, B-II, C-III, D-IV",
+            "(2) A-III, B-I, C-IV, D-II",
+            "(3) A-II, B-IV, C-I, D-III",
+            "(4) A-III, B-II, C-IV, D-I"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 45,
+        "question": "he following complexes [CoCl(NH 3) 5]2+,[Co(CN) 6]3−,[Co(NH 3) 5(H 2O)]3+,[Cu(H 2O) 4]2+ The correct (A) (B) (C) (D) order of A, B, C and D in terms of wavenumber of light absorbed is :",
+        "type": "MCQ",
+        "options": [
+            "(1) C < D < A < B",
+            "(2) B < C < A < D",
+            "(3) A < C < B < D",
+            "(4) D < A < C < B"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 46,
+        "question": "Given below are two statements : Statement I : Piciric acid is 2,4,6 - trinitrotoluene. Statement II : Phenol - 2,4 - disulphonic acid is treated with Conc. HNO 3 to get picric acid. In the light of the above statements, choose the most appropriate answer from the options given below : correct incorrect",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is incorrect but Statement II is",
+            "(2) Both Statement I and Statement II are incorrect",
+            "(3) Statement I is correct but Statement II is",
+            "(4) Both Statement I and Statement II are correct"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 47,
+        "question": "In Reimer - Tiemann reaction, phenol is converted into salicylaldehyde through an intermediate. The structure of intermediate is _____",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 48,
+        "question": "Which among the following aldehydes is most reactive towards nucleophilic addition reactions? Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 49,
+        "question": "List-I List-II (Precipitatingreagentandconditions) (Cation) A. NH Cl+NH OH/ARKS I. Mn2+ 4 4 Match List I with List II Choose the B. NH OH+Na CO II. Pb2+ 4 2 3 C. NH OH+NH Cl+H S gas III. Al3+ 4 4 2 D. dilute HCl IV. Sr2+ correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-III, B-IV, C-I, D-II",
+            "(2) A-III, B-IV, C-II, D-I",
+            "(3) A-IV, B-III, C-II, D-I",
+            "(4) A-IV, B-III, C-I, D-II"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 50,
+        "question": "DNA molecule contains 4 bases whose structure are shown below. One of the structures is not correct, identify the incorrect base structure.",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 51,
+        "question": "Frequency of the de-Broglie wave of electron in Bohr's first orbit of hydrogen atom is _______ ×1013 Hz [Given: R ( Rydbergconstant ) = 2.18×10−18 J,h (Plank's H (nearest integer). constant ) = 6.6×10−34 J.s.]",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 52,
+        "question": "Number of molecules from the following which can exhibit hydrogen bonding is _______ (nearest integer) –",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 53,
+        "question": "An ideal gas, C v = 5 2R, is expanded adiabatically against a constant pressure of 1 atm untill it doubles in volume. If the initial temperature and pressure is 298 K and 5 atm, respectively then the final temperature is – _______ K (nearest integer). [C v is the molar heat capacity at constant volume] Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo ′′ −Q54. The major product of the following reaction is P. CH 3C = C−CH 3 (i) Na/ ing NH →3 Number of oxygen (ii)dil. KMnO 4 273 K atoms present in product ' P ' is _______ (nearest integer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 55,
+        "question": "Consider the dissociation of the weak acid HX as given below HX(aq) ⇌ H+(aq)+X−(aq),Ka = 1.2×10−5 [K a : dissociation constant ] The osmotic pressure of 0.03M aqueous solution of HX at 300 K is _______ ×10−2 bar (nearest integer). [Given : R = 0.083 Lbarmol−1 K−1 ]",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 56,
+        "question": "Time required for 99.9% completion of a first order reaction is _______ times the time required for completion of 90% reaction.(nearest integer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 57,
+        "question": "Among CrO,Cr 2O 3 and CrO 3, the sum of spin-only magnetic moment values of basic and amphoteric oxides is _______ 10−2BM (nearest integer). (Given atomic number of Cr is 24)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 58,
+        "question": "The difference in the 'spin-only' magnetic moment values of KMnO 4 and the manganese product formed during titration of KMnO 4 against oxalic acid in acidic medium is _______ BM. (nearest integer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 59,
+        "question": "The major products from the following reaction sequence are product A and product B. The total sum of π electrons in product A and product B are _______ (nearest integer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 60,
+        "question": "9.3 g of pure aniline upon diazotisation followed by coupling with phenol gives an orange dye. The mass of orange dye produced (assume 100\\% yield/conversion) is _______ g. (nearest integer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 61,
+        "question": "Let α,β be the distinct roots of the equation x2 −(t2 −5t+6)x+1 = 0,t ∈ R and a n = αn +βn . Then the minimum value of a2023+a2025 is a2024",
+        "type": "MCQ",
+        "options": [
+            "(1) −1/4",
+            "(2) −1/4",
+            "(3) −1/2",
+            "(4) 1/4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 62,
+        "question": "The number of triangles whose vertices are at the vertices of a regular octagon but none of whose sides is a side of the octagon is",
+        "type": "MCQ",
+        "options": [
+            "(1) 48",
+            "(2) 56",
+            "(3) 24",
+            "(4) 16"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 63,
+        "question": "Let A = {n ∈ [100,700]∩N : n is neither a multiple of 3 nor a multiple of 4}. Then the number of elements in A is",
+        "type": "MCQ",
+        "options": [
+            "(1) 290",
+            "(2) 280",
+            "(3) 300",
+            "(4) 310"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 64,
+        "question": "Let a variable line of slope m > 0 passing through the point (4,−9) intersect the coordinate axes at the points A and B. The minimum value of the sum of the distances of A and B from the origin is Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣ J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 30",
+            "(2) 25",
+            "(3) 15",
+            "(4) 10"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 65,
+        "question": "If A(3,1,−1),B(5, 7, 1),C(2,2,1) and D(10, 2, −1) are the vertices of a quadrilateral ABCD, then its 3 3 3 3 3 3 area is 2√2 5√2 3 3 2√2 4√2 3",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 66,
+        "question": "A circle is inscribed in an equilateral triangle of side of length 12 . If the area and perimeter of any square inscribed in this circle are m and n, respectively, then m+n2 is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 408",
+            "(2) 414",
+            "(3) 396",
+            "(4) 312"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 67,
+        "question": "Let C be the circle of minimum area touching the parabola y = 6−x2 and the lines y = √3|x|. Then, which one of the following points lies on the circle C ?",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 68,
+        "question": "Let f : (−∞,∞)−{0} → R be a differentiable function such that f′(1) = lim a→∞a2f( a1). Then lim a→∞ a(a 2+1)tan−1( a1)+a2 −2log ea is equal to 2 4 4 8 8 4 2 8",
+        "type": "MCQ",
+        "options": [
+            "(1) 3 + π",
+            "(2) 3 + π",
+            "(3) 3 + π",
+            "(4) 5 + π"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 69,
+        "question": "The mean and standard deviation of 20 observations are found to be 10 and 2 . respectively. On rechecking, it was found that an observation by mistake was taken 8 instead of 12. The correct standard deviation is √3.96 √3.86",
+        "type": "MCQ",
+        "options": [
+            "(1) 1.8",
+            "(2) 1.94",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 70,
+        "question": "Let the relations R 1 and R 2 on the set X = {1,2,3,…,20} be given by R 1 = {(x,y) : 2x−3y = 2} and R 2 = {(x,y) : −5x+4y = 0}. If M and N be the minimum number of elements required to be added in R 1 and R 2, respectively, in order to make the relations symmetric, then M +N equals",
+        "type": "MCQ",
+        "options": [
+            "(1) 12",
+            "(2) 16",
+            "(3) 8",
+            "(4) 10"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 71,
+        "question": "r 1 n2 +α 2 For α,β ∈ R and a natural number n, let A r = 2r 2 n2 −β . Then 3r−2 3 n(3n−1) 2",
+        "type": "MCQ",
+        "options": [
+            "(1) 0",
+            "(2) 4α+2β",
+            "(3) 2α+4β",
+            "(4) 2n"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 72,
+        "question": "The function f:R->R, f(x) = x2+2x−15,x ∈ R is x2−4x+9 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) one-one but not onto.",
+            "(2) both one-one and onto.",
+            "(3) onto but not one-one.",
+            "(4) neither one-one nor onto.",
+            "(1) ,x ≠ 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 73,
+        "question": "If f(x) = { x then 0 ,x = 0 π 2π π 2π",
+        "type": "MCQ",
+        "options": [
+            "(1) f′′",
+            "(2) = 24−π2",
+            "(2) f′′",
+            "(2) = 12−π2",
+            "(3) f′′",
+            "(0) = 1",
+            "(4) f′′",
+            "(0) = 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 74,
+        "question": "The interval in which the function f(x) = xx,x > 0, is strictly increasing is e e V e2",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) [1,∞)]",
+            "(4) [ 1 ,1)"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 75,
+        "question": "∫π/4 cos2xsin2x dx is equal to 0 (cos3x+sin3x)2",
+        "type": "MCQ",
+        "options": [
+            "(1) 1/6",
+            "(2) 1/3",
+            "(3) 1/12",
+            "(4) 1/9"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 76,
+        "question": "Let the area of the region enclosed by the curves y = 3x,2y = 27−3x and y = 3x−x√x be A. Then 10A is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 172",
+            "(2) 162",
+            "(3) 154",
+            "(4) 184"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 77,
+        "question": "Let y = y(x) be the solution of the differential equation (1+x2)dy +y = etan−1x , y(1) = 0. Then y(0) is dx 2 2 4 4",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 1",
+            "(3) 1",
+            "(4) 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 78,
+        "question": "Let y = y(x) be the solution of the differential equation (2xlog ex) dd xy +2y = x3log ex,x > 0 and y(e−1) = 0. Then, y(e) is equal to e 2e 3e e",
+        "type": "MCQ",
+        "options": [
+            "(1) −3",
+            "(2) − 3",
+            "(3) − 2",
+            "(4) −2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 79,
+        "question": "The shortest distance between the lines x−3 = y+15 = z−9 and x+1 = y−1 = z−9 is 2 −7 5 2 1 −3 8√3 4√3 5√3 6√3",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 80,
+        "question": "A company has two plants A and B to manufacture motorcycles. 60% motorcycles are manufactured at plant A and the remaining are manufactured at plant B.80% of the motorcycles manufactured at plant A are rated of the standard quality, while 90% of the motorcycles manufactured at plant B are rated of the standard quality. A motorcycle picked up randomly from the total production is found to be of the standard quality. If p is the probability that it was manufactured at plant B, then 126p is",
+        "type": "MCQ",
+        "options": [
+            "(1) 54",
+            "(2) 66",
+            "(3) 64",
+            "(4) 56"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 81,
+        "question": "Let x 1,x 2,x 3,x 4 be the solution of the equation 4x4 +8x3 −17x2 −12x+9 = 0 and (4+x2)(4+x2)(4+x2)(4+x2) = 125m. Then the value of m is 1 2 3 4 16",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 82,
+        "question": "Let the first term of a series be T 1 = 6 and its rth term T r = 3T r−1 +6r,r = 2,3, n. If the sum of the first n terms of this series is 1(n2 −12n+39)(4⋅6n −5⋅3n +1), then n is equal to______ 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 83,
+        "question": "If the second, third and fourth terms in the expansion of (x+y)n are 135,30 and 10 , respectively, then 3 6(n3 +x2 +y) is equal to _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 84,
+        "question": "Let a conic C pass through the point (4,−2) and P(x,y),x ≥ 3, be any point on C. Let the slope of the line touching the conic C only at a single point P be half the slope of the line joining the points P and (3,−5). If the focal distance of the point (7,1) on C is d, then 12d equals ______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 85,
+        "question": "Let L 1,L 2 be the lines passing through the point P(0,1) and touching the parabola 9x2 +12x+18y−14 = 0. Let Q and R be the points on the lines L 1 and L 2 such that the △PQR is an isosceles triangle with base QR. If the slopes of the lines QR are m 1 and m 2, then 16(m2 1 +m2 2) is equal to _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 86,
+        "question": "Let αβγ = 45;α,β,γ ∈ R. If x(α,1,2)+y(1,β,2)+z(2,3,γ) = (0,0,0) for some x,y,z ∈ R,xyz ≠ 0, then 6α+4β+γ is equal to _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 87,
+        "question": "For n ∈ N, if cot−13+cot−14+cot−15+cot−1n = π , then n is equal to_____ 4",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 88,
+        "question": "Let r k = ∫∫ 101 (1(1 −− xx 7)7 k) +k 1d dx x,k ∈ N. Then the value of ∑1 k0 =1 7(rk1 −1) is equal to________ 0",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 89,
+        "question": "Let a→ = 2^ i−3^ j+4k^ ,→ b = 3^ i+4^ j−5k^ and a vector c→ be such that a→×(→ b+c→)+→ b×c→=^ i+8^ j+13k^ . If → a→⋅c→= 13, then (24−b⋅c→) is equal to_______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 90,
+        "question": "Let P be the point (10,−2,−1) and Q be the foot of the perpendicular drawn from the point R(1,7,6) on the line passing through the points (2,−5,11) and (−6,7,−5). Then the length of the line segment PQ is equal to ________ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    }
+]

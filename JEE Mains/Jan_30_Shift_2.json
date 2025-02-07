@@ -1,0 +1,1027 @@
+[
+    {
+        "question_id": 1,
+        "question": "If mass is written as 𝑚 = 𝑘𝑐𝑃𝐺-1/2 ℎ1/2, then the value of 𝑃 will be : (Constants have their usual meaning with 𝑘 a dimensionless constant) 1 1 2 3 1 3",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) 2",
+            "(4) -"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 2,
+        "question": "Projectiles 𝐴 and 𝐵 are thrown at angles of 45° and 60° with vertical respectively from top of a 400 m high tower. If their times of flight are same, the ratio of their speeds of projection 𝑣 :𝑣 is: 𝐴 𝐵",
+        "type": "MCQ",
+        "options": [
+            "(1) 1:√3",
+            "(2) √2:1",
+            "(3) 1: 2",
+            "(4) 1:√2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 3,
+        "question": "Three blocks 𝐴, 𝐵 and 𝐶 are pulled on a horizontal smooth surface by a force of 80 N as shown in figure. The tensions 𝑇 and 𝑇 in the string are respectively: 1 2",
+        "type": "MCQ",
+        "options": [
+            "(1) 40N, 64N",
+            "(2) 60N, 80N",
+            "(3) 88N, 96N",
+            "(4) 80N, 100N"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 4,
+        "question": "A block of mass 𝑚 is placed on a surface having vertical cross section given by 𝑦 = 𝑥2 . If coefficient of friction 4 is 0.5, the maximum height above the ground at which block can be placed without slipping is: 1 1 4 2 1 1 6 3",
+        "type": "MCQ",
+        "options": [
+            "(1) m",
+            "(2) m",
+            "(3) m",
+            "(4) m"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 5,
+        "question": "A block of mass 1 kg is pushed up a surface inclined to horizontal at an angle of 60° by a force of 10 N parallel to the inclined surface as shown in figure. When the block is pushed up by 10 m along inclined surface, the work done against frictional force is : 𝑔 = 10 m s-2",
+        "type": "MCQ",
+        "options": [
+            "(1) 5√3 J",
+            "(2) 5 J",
+            "(3) 5×103 J",
+            "(4) 10 J"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 6,
+        "question": "Escape velocity of a body from earth is 11.2 km s-1. If the radius of a planet be one-third the radius of earth and mass be one-sixth that of earth, the escape velocity from the plate is:",
+        "type": "MCQ",
+        "options": [
+            "(1) 11.2 km s-1",
+            "(2) 8.4 km s-1",
+            "(3) 4.2 km s-1",
+            "(4) 7.9 km s-1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 7,
+        "question": "A block of ice at -10 °C is slowly heated and converted to steam at 100 °C. Which of the following curves represent the phenomenon qualitatively: Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 8,
+        "question": "Choose the correct statement for processes 𝐴 & 𝐵 shown in figure. 𝑃𝛾-1 𝑇𝛾 = 𝑘 for process 𝐴 and 𝑃𝑉 = 𝑘 for process 𝐵. 𝑇𝛾 𝑃𝛾-1 5 7",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝑃𝑉𝛾 = 𝑘 for process 𝐵 and 𝑃𝑉 = 𝑘 for process 𝐴.",
+            "(2) 𝑃𝑉 = 𝑘 for process 𝐵 and 𝐴.",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 9,
+        "question": "If three moles of monoatomic gas 𝛾 = is mixed with two moles of a diatomic gas 𝛾 = , the value of adiabatic 3 5 exponent 𝛾 for the mixture is:",
+        "type": "MCQ",
+        "options": [
+            "(1) 1.75",
+            "(2) 1.40",
+            "(3) 1.52",
+            "(4) 1.35"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 10,
+        "question": "A particle of charge -𝑞 and mass 𝑚 moves in a circle of radius 𝑟 around an infinitely long line charge of linear density +𝜆. Then time period will be given as: (Consider 𝑘 as Coulomb's constant) 2𝑘𝜆𝑞 2𝑘𝜆𝑞 2𝜋𝑟 2𝑘𝜆𝑞 2𝜋 𝑚",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝑇2 = 4𝜋2 𝑚 𝑟3",
+            "(2) 𝑇 = 2𝜋𝑟 \u0000 𝑚",
+            "(3) 𝑇 = 1 \u0000 𝑚",
+            "(4) 𝑇 = 1 \u00002𝑘𝜆𝑞"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 11,
+        "question": "When a potential difference 𝑉 is applied across a wire of resistance 𝑅, it dissipates energy at a rate 𝑊. If the wire is cut into two halves and these halves are connected mutually parallel across the same supply, the energy dissipation rate will become: 1 1 4 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) W",
+            "(2) W",
+            "(3) 2 W",
+            "(4) 4 W"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 12,
+        "question": "An alternating voltage 𝑉(𝑡) = 220sin100𝜋t volt is applied to a purely resistive load of 50 𝛺. The time taken for the current to rise from half of the peak value to the peak value is:",
+        "type": "MCQ",
+        "options": [
+            "(1) 5 ms",
+            "(2) 3.3 ms",
+            "(3) 7.2 ms",
+            "(4) 2.2 ms"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 13,
+        "question": "Match List I with List II List I List II \u0000\u0000 → 1 A. Gauss’s law of magnetostatics i. ∮𝐸·d𝑎 = ∫𝜌d𝑉 𝜀 0 \u0000\u0000 → B. Faraday’s law of electro magnetic induction ii. ∮𝐵·d𝑎 = 0 \u0000\u0000 → -d \u0000\u0000 → C. Ampere’s law iii. ∮𝐸·d𝑙 = ∫𝐵·d𝑎 d𝑡 \u0000\u0000 → D. Gauss’s law of electrostatics iv. ∮𝐵·d𝑙 = 𝜇 𝐼 0 Choose the correct answer from the options given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) A-I, B-III, C-IV, D-II",
+            "(2) A-III, B-IV, C-I, D-II",
+            "(3) A-IV, B-II, C-III, D-I",
+            "(4) A-II, B-III, C-IV, D-I"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 14,
+        "question": "A beam of unpolarised light of intensity 𝐼 is passed through a polaroid 𝐴 and then through another polaroid 𝐵 0 which is oriented so that its principal plane makes an angle of 45° relative to that of 𝐴. The intensity of emergent light is : 𝐼 0 4 𝐼 𝐼 2 8",
+        "type": "MCQ",
+        "options": [
+            "(1) 0",
+            "(2) 𝐼",
+            "(3) 0",
+            "(4) 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 15,
+        "question": "If the total energy transferred to a surface in time 𝑡 is 6.48×105 J, then the magnitude of the total momentum delivered to this surface for complete absorption will be :",
+        "type": "MCQ",
+        "options": [
+            "(1) 2.46×10-3 kg m s-1",
+            "(2) 2.16×10-3 kg m s-1",
+            "(3) 1.58×10-3 kg m s-1",
+            "(4) 4.32×10-3 kg m s-1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 16,
+        "question": "For the photoelectric effect, the maximum kinetic energy 𝐸 of the photoelectrons is plotted against the 𝑘 frequency (𝑣) of the incident photons as shown in figure. The slope of the graph gives",
+        "type": "MCQ",
+        "options": [
+            "(1) Ratio of Planck’s constant to electric charge",
+            "(2) Work function of the metal",
+            "(3) Charge of electron",
+            "(4) Planck’s constant"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 17,
+        "question": "An electron revolving in 𝑛th Bohr orbit has magnetic moment 𝜇 . If 𝜇 ∝ 𝑛𝑥, the value of 𝑥 is: 𝑛 𝑛",
+        "type": "MCQ",
+        "options": [
+            "(1) 2",
+            "(2) 1",
+            "(3) 3",
+            "(4) 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 18,
+        "question": "In a nuclear fission reaction of an isotope of mass 𝑀, three similar daughter nuclei of same mass are formed. The speed of a daughter nuclei in terms of mass defect 𝛥𝑀 will be : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo \u0000 𝑀 3 𝑀 𝑀",
+        "type": "MCQ",
+        "options": [
+            "(1) 2𝑐𝛥𝑀",
+            "(2) 𝛥𝑀𝑐2",
+            "(3) 𝑐\u00002𝛥𝑀",
+            "(4) 𝑐\u00003𝛥𝑀"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 19,
+        "question": "In the given circuit, the voltage across load resistance \u0000𝑅 \u0000 is: 𝐿",
+        "type": "MCQ",
+        "options": [
+            "(1) 8.75 V",
+            "(2) 9.00 V",
+            "(3) 8.50 V",
+            "(4) 14.00 V"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 20,
+        "question": "If 50 Vernier divisions are equal to 49 main scale divisions of a travelling microscope and one smallest reading of main scale is 0.5 mm the Vernier constant of travelling microscope is:",
+        "type": "MCQ",
+        "options": [
+            "(1) 0.1 mm",
+            "(2) 0.1 cm",
+            "(3) 0.01 cm",
+            "(4) 0.01 mm"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 21,
+        "question": "A vector has magnitude same as that of \u0000 𝐴\u0000 = 3^ j +4^ j and is parallel to \u0000 𝐵\u0000 = 4^ i +3^ j. The 𝑥 and 𝑦 components of this vector in first quadrant are 𝑥 and 3 respectively where x = ____.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 22,
+        "question": "Two discs of moment of inertia 𝐼 = 4 kg m2 and 𝐼 = 2 kg m2 about their central axes & normal to their 1 2 planes, rotating with angular speeds 10 rad s-1 & 4 rad s-1 respectively are brought into contact face to face with their axe of rotation coincident. The loss in kinetic energy of the system in the process is _________J .",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 23,
+        "question": "A big drop is formed by coalescing 1000 small identical drops of water. If 𝐸 be the total surface energy of 1 1000 small drops of water and 𝐸 be the surface energy of single big drop of water, the 𝐸 : 𝐸 is 𝑥: 1, where 2 1 2 𝑥 = ________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 24,
+        "question": "A simple pendulum is placed at a place where its distance from the earth's surface is equal to the radius of the earth. If the length of the string is 4 m, then the time period of small oscillations will be _________s. [take 𝑔 = 𝜋2 m s-2]",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 25,
+        "question": "A point source is emitting sound waves of intensity 16×10-8 W m-2 at the origin. The difference in intensity (magnitude only) at two points located at a distances of 2 m and 4 m from the origin respectively will be ________×10-8 W m-2.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 26,
+        "question": "Two identical charged spheres are suspended by strings of equal lengths. The string make an angle of 37° with each other. When suspended in a liquid of density 0.7 g cm-3, the angle remains same. If density of material of the sphere is 1.4 g cm-3, the dielectric constant of the liquid is _____ tan37° = 3 4",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 27,
+        "question": "Two resistance of 100𝛺 and 200𝛺 are connected in series with a battery of 4 V and negligible internal resistance. A voltmeter is used to measure voltage across 100𝛺 resistance, which gives reading as 1 V. The resistance of voltmeter must be _______ 𝛺. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 28,
+        "question": "The current of 5 A flows in a square loop of sides 1 m is placed in air. The magnetic field at the centre of the loop is X√2 ×10-7 T. The value of X is _________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 29,
+        "question": "A power transmission line feeds input power at 2.3 kV to a step down transformer with its primary winding having 3000 turns. The output power is delivered at 230 V by the transformer. The current in the primary of the transformer is 5 A and its efficiency is 90%. The winding of transformer is made of copper. The output current of transformer is ____A.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 30,
+        "question": "In an experiment to measure the focal length (𝑓) of a convex lens, the magnitude of object distance(𝑥) and the image distance\u0000𝑦\u0000 are measured with reference to the focal point of the lens. The 𝑦-𝑥 plot is shown in figure. The focal length of the lens is _____cm.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 31,
+        "question": "Given below are two statements: Statement - I: Along the period, the chemical reactivity of the element gradually increases from group 1 to group 18 . Statement - II: The nature of oxides formed by group 1 element is basic while that of group 17 elements is acidic. In the the light above statements, choose the most appropriate from the questions given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) Both statement I and Statement II are true.",
+            "(2) Statement I is true but Statement II is False.",
+            "(3) Statement I is false but Statement II is true.",
+            "(4) Both Statement I and Statement II is false."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 32,
+        "question": "Given below are two statements: Statement-I: Since fluorine is more electronegative than nitrogen, the net dipole moment of NF is greater than 3 NH . 3 Statement-II: In NH , the orbital dipole due to lone pair and the dipole moment of NH bonds are in opposite 3 direction, but in NF the orbital dipole due to lone pair and dipole moments of N-F bonds are in same 3 direction. In the light of the above statements. Choose the most appropriate from the options given below.",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is true but Statement II is false.",
+            "(2) Both Statement I and Statement II are false.",
+            "(3) Both statement I and Statement II is are true.",
+            "(4) Statement I is false but Statement II is are true."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 33,
+        "question": "Given below are two statements: One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : H Te is more acidic than H S. 2 2 Reason R: Bond dissociation enthalpy of H Te is lower than H S. 2 2 In the light of the above statements. Choose the most appropriate from the options given below. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo explanation of A. explanation of A.",
+        "type": "MCQ",
+        "options": [
+            "(1) Both A and R are true but R is NOT the correct",
+            "(2) Both A and R are true and R is the correct",
+            "(3) A is false but R is true.",
+            "(4) A is true but R is false."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 34,
+        "question": "IUPAC name of following compound is",
+        "type": "MCQ",
+        "options": [
+            "(1) 2 – Aminopentanenitrile",
+            "(2) 2 – Aminobutanenitrile",
+            "(3) 3 – Aminobutanenitrile",
+            "(4) 3 – Aminopropanenitrile"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 35,
+        "question": "Which among the following purification methods is based on the principle of “Solubility” in two different solvents?",
+        "type": "MCQ",
+        "options": [
+            "(1) Column Chromatography",
+            "(2) Sublimation",
+            "(3) Distillation",
+            "(4) Differential Extraction"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 36,
+        "question": "The correct stability order of carbocations is + + + + + + + 33 3 2 32 3 3 32 3 2 33 + + + + CH C > CH CH > CH -CH > CH 33 32 3 2 3 {\\mathrm{C}\\mathrm{H}_3}>\\mathrm{CH}_3- \\stackrel{+ \\quad}{\\mathrm{C} \\mathrm{H}_2}>\\mathrm{CH}_3-\\underset{| \\atop \\stackrel{ \\atop }{\\huge \\mathrm{CH}_3}} {\\stackrel{+ \\quad}{\\mathrm{C} \\mathrm{H}}}>\\left(\\mathrm{CH}_3\\right) \\mathrm{C}^{+}$",
+        "type": "MCQ",
+        "options": [
+            "(1) CH C+ > CH -CH > CH CH > CH",
+            "(2) CH > CH CH > CH -CH > CH C",
+            "(3) ",
+            "(4) $\\stackrel{+\\quad}"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 37,
+        "question": "Product A and B formed in the following set of reactions are:",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 38,
+        "question": "If a substance '𝐴' dissolves in solution of a mixture of ' 𝐵' and ' 𝐶 ' with their respective number of moles as 𝑛 ,𝑛 and 𝑛 , mole fraction of 𝐶 in the solution is: 𝐴 𝐵 𝐶 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo n n n ×n ×n n +n +n A B C A B C n n n -n -n n +n A B C A B",
+        "type": "MCQ",
+        "options": [
+            "(1) C",
+            "(2) C",
+            "(3) C",
+            "(4) B"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 39,
+        "question": "The solution from the following with highest depression in freezing point/lowest freezing point is aqueous solution.",
+        "type": "MCQ",
+        "options": [
+            "(1) 180 g of acetic acid dissolved in 1 L of",
+            "(2) 180 g of acetic acid dissolved in benzene",
+            "(3) 180 g of benzoic acid dissolved in benzene",
+            "(4) 180 g of glucose dissolved in water"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 40,
+        "question": "Reduction potential of ions are given below: ClO- IO- BrO- 4 4 4 E° = 1.19 V ; E° = 1.65 V; E° = 1.74 V The correct order of their oxidising power is: 4 4 4 4 4 4 4 4 4 4 4 4",
+        "type": "MCQ",
+        "options": [
+            "(1) ClO- > IO- > BrO-",
+            "(2) BrO- > IO- > ClO-",
+            "(3) BrO- > ClO- > IO-",
+            "(4) IO- > BrO- > ClO-"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 41,
+        "question": "Choose the correct statements about the hydrides of group 15 elements. A. The stability of the hydrides decreases in the order NH > PH > AsH > SbH > BiH 3 3 3 3 3 B. The reducing ability of the hydrides increases in the order NH < PH < AsH < SbH < BiH 3 3 3 3 3 C. Among the hydrides, NH is strong reducing agent while BiH is mild reducing agent. 3 3 D. The basicity of the hydrides increases in the order NH < PH < AsH < SbH < BiH 3 3 3 3 3 Choose the most appropriate from the option given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) B and C only",
+            "(2) C and D only",
+            "(3) A and B only",
+            "(4) A and D only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 42,
+        "question": "The orange colour of K Cr O and purple colour of KMnO is due to 2 2 7 4 4 transitions in K Cr O . 2 2 7 2 2 7 transitions in KMnO . 4",
+        "type": "MCQ",
+        "options": [
+            "(1) Charge transfer transition in both.",
+            "(2) d → d transition in KMnO and charge transfer",
+            "(3) d → d transition in K Cr O and charge transfer",
+            "(4) d → d transition in both."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 43,
+        "question": "𝐴 and 𝐵 formed in the following reactions are: CrO Cl +4NaOH → A+2NaCl+2H O 2 2 2 A+2HCl+2H O → B+3H O 2 2 2 2 4 5 2 2 4 4 2 2 7 3 2 2 7 5",
+        "type": "MCQ",
+        "options": [
+            "(1) A = Na CrO , B = CrO",
+            "(2) A = Na Cr O , B = CrO",
+            "(3) A = Na Cr O , B = CrO",
+            "(4) A = Na Cr O , B = CrO"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 44,
+        "question": "Alkaline oxidative fusion of MnO gives \"A \" which on electrolytic oxidation in alkaline solution produces 2 𝐵. 𝐴 and 𝐵 respectively are: 2 7 4 4 4 2 3 4 4 2 7",
+        "type": "MCQ",
+        "options": [
+            "(1) Mn O and MnO-",
+            "(2) MnO2- and MnO-",
+            "(3) Mn O and MnO2-",
+            "(4) MnO2- and Mn O"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 45,
+        "question": "The molecule/ion with square pyramidal shape is: 2- 5 4 5 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) Ni",
+            "(2) PCl",
+            "(3) BrF",
+            "(4) PF"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 46,
+        "question": "The coordination geometry around the manganese in decacarbonyldimanganese0",
+        "type": "MCQ",
+        "options": [
+            "(1) Octahedral",
+            "(2) Trigonal bipyramidal",
+            "(3) Square pyramidal",
+            "(4) Square planar"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 47,
+        "question": "Given below are two statements: Statement - I: High concentration of strong nucleophilic reagent with secondary alkyl halides which do not have bulky substituents will follow S 2 mechanism. N Statement - II: A secondary alkyl halide when treated with a large excess of ethanol follows S 1 mechanism. N In the the light of the above statements, choose the most appropriate from the questions given below:",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is true but Statement II is false.",
+            "(2) Statement I is false but Statement II is true.",
+            "(3) Both statement I and Statement II are false.",
+            "(4) Both statement I and Statement II are true."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 48,
+        "question": "Salicylaldehyde is synthesized from phenol, when reacted with 2 4 3",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) CO , NaOH",
+            "(3) CCl , NaOH",
+            "(4) HCCl , NaOH"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 49,
+        "question": "m-chlorobenzaldehyde on treatment with 50%KOH solution yields",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 50,
+        "question": "The products A and B formed in the following reaction scheme are respectively Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 51,
+        "question": "Number of spectral lines obtained in He+ spectra, when an electron makes transition from fifth excited state to first excited state will be",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 52,
+        "question": "Two reactions are given below: 2Fe + 3 O → Fe O ,𝛥Ho = -822 kJ/mol (s) 2 2\u0000 g\u0000 2 3( s) C + 1 O → CO ,𝛥Ho = -110 kJ/mol (s) 2 2\u0000 g\u0000 \u0000g\u0000 Then enthalpy change for following reaction 3C +Fe O → 2Fe +3CO (s) 2 3( s) (s) \u0000g\u0000",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 53,
+        "question": "The pH of an aqueous solution containing 1M benzoic acid pK = 4.20 and 1M sodium benzoate is 4.5. The a volume of benzoic acid solution in 300 mL of this buffer solution is __________mL.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 54,
+        "question": "Total number of species from the following which can undergo disproportionation reaction ___________. H O ,ClO-,P ,Cl ,Ag,Cu+1, F ,NO , K+ 2 2 3 4 2 2 2",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 55,
+        "question": "Number of geometrical isomers possible for the given structure is/are _________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 56,
+        "question": "NO required for a reaction is produced by decomposition of N O in CCl as by equation 2 2 5 4 2N O → 4NO +O 2 5\u0000 g\u0000 2\u0000 g\u0000 2\u0000 g\u0000 The initial concentration of N O is 3 mol L-1 and it is 2.75 mol L-1 after 30 minutes. 2 5 The rate of formation of NO is x×10-3 mol L-1 min , value of x is ________. 2 -1",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 57,
+        "question": "Number of complexes which show optical isomerism among the following is _________. 3- 3+ 2+ + cis -Cr\u0000ox Cl ,Co(en , cis -Pt\u0000en Cl , cis -Co\u0000en Cl ) 2 ) ) 2 ) 2 2 3 2 2 2+ 3- , trans -Pt\u0000en Cl , trans -Cr\u0000ox Cl ) 2 ) 2 2 2",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 58,
+        "question": "2-chlorobutane+Cl → C H Cl (isomers) 2 4 8 2 Total number of optically active isomers shown by C H Cl , obtained in the above reaction is ________. 4 8 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 59,
+        "question": "Number of metal ions characterized by flame test among the following is _________. Sr2+,Ba2+,Ca2+,Cu2+,Zn2+,Co2+,Fe2+",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 60,
+        "question": "The total number of correct statements, regarding the nucleic acids is _________. A. RNA is regarded as the reserve of genetic information. B. DNA molecule self-duplicates during cell division C. DNA synthesizes proteins in the cell. D. The message for the synthesis of particular proteins is present in DNA E. Identical DNA strands are transferred to daughter cells.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 61,
+        "question": "If 𝑧 is a complex number, then the number of common roots of the equation 𝑧1985+𝑧100+1 = 0 and 𝑧3+2𝑧2+2𝑧+1 = 0, is equal to :",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 0",
+            "(4) 3"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 62,
+        "question": "Let 𝑎 and 𝑏 be two distinct positive real numbers. Let 11th term of a GP, whose first term is 𝑎 and third term is 𝑏, is equal to 𝑝th term of another GP, whose first term is 𝑎 and fifth term is 𝑏. Then 𝑝 is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 20",
+            "(2) 25",
+            "(3) 21",
+            "(4) 24"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 63,
+        "question": "Suppose 28-𝑝, 𝑝, 70-𝛼, 𝛼 are the coefficient of four consecutive terms in the expansion of (1+𝑥 𝑛. ) Then the value of 2𝛼-3𝑝 equals 𝜋",
+        "type": "MCQ",
+        "options": [
+            "(1) 7",
+            "(2) 10",
+            "(3) 4",
+            "(4) 6"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 64,
+        "question": "For 𝛼,𝛽 ∈ 0, let 3sin\u0000𝛼+𝛽\u0000 = 2sin\u0000𝛼-𝛽\u0000 and a real number 𝑘 be such that tan𝛼 = tan𝛽. Then the 2 value of 𝑘 is equal to 2 2 3 3",
+        "type": "MCQ",
+        "options": [
+            "(1) -5",
+            "(2) 5",
+            "(3) ",
+            "(4) -"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 65,
+        "question": "If 𝑥2-𝑦2+2ℎ𝑥𝑦+2𝑔𝑥+2𝑓𝑦+𝑐 = 0 is the locus of a point, which moves such that it is always equidistant from the lines 𝑥+2𝑦+7 = 0 and 2𝑥-𝑦+8 = 0, then the value of 𝑔+𝑐+ℎ-𝑓 equals",
+        "type": "MCQ",
+        "options": [
+            "(1) 14",
+            "(2) 6",
+            "(3) 8",
+            "(4) 29"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 66,
+        "question": "Let 𝐴(𝛼,0) and 𝐵\u00000,𝛽\u0000 be the points on the line 5𝑥+7𝑦 = 50. Let the point 𝑃 divide the line segment 𝐴𝐵 𝑥2 𝑦2 internally in the ratio 7: 3. Let 3𝑥-25 = 0 be a directrix of the ellipse 𝐸: + = 1 and the corresponding 𝑎2 𝑏2 focus be 𝑆. If from 𝑆, the perpendicular on the 𝑥-axis passes through 𝑃, then the length of the latus rectum of 𝐸 is equal to 25 32 3 9 25 32 9 5",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 67,
+        "question": "Let 𝑃 be a point on the hyperbola H:𝑥2 - 𝑦2 = 1, in the first quadrant such that the area of triangle formed by 𝑃 9 4 and the two foci of H is 2√13. Then, the square of the distance of 𝑃 from the origin is Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 18",
+            "(2) 26",
+            "(3) 22",
+            "(4) 20"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 68,
+        "question": "𝑥 0 0 2𝜋 4𝜋 Let 𝑅 = 0 𝑦 0 be a non-zero 3×3 matrix, where 𝑥sin𝜃 = 𝑦sin𝜃+ = 𝑧sin𝜃+ ≠ 0,𝜃 ∈ (0,2𝜋). 3 3 0 0 𝑧 For a square matrix 𝑀, let Trace𝑀 denote the sum of all the diagonal entries of 𝑀. Then, among the statements: I Trace(𝑅) = 0 (II) If Trace\u0000 adj \u0000 adj \u0000𝑅\u0000 \u0000 = 0, then 𝑅 has exactly one non-zero entry.",
+        "type": "MCQ",
+        "options": [
+            "(1) Both",
+            "(2) Only",
+            "(3) Neither",
+            "(4) Only"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 69,
+        "question": "Consider the system of linear equations 𝑥+𝑦+𝑧 = 5,𝑥+2𝑦+𝜆2𝑧 = 9 and 𝑥+3𝑦+𝜆𝑧 = 𝜇, where 𝜆,𝜇 ∈ 𝑅. Then, which of the following statement is NOT correct ? and 𝜇 = 13",
+        "type": "MCQ",
+        "options": [
+            "(1) System has infinite number of solution if 𝜆 = 1",
+            "(2) System is inconsistent if 𝜆 = 1 and 𝜇 ≠ 13",
+            "(3) System has unique solution if 𝜆 ≠ 1 and 𝜇 ≠ 13",
+            "(4) System is consistent if 𝜆 ≠ 1 and 𝜇 = 13"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 70,
+        "question": "If the domain of the function 𝑓𝑥 = log 2𝑥+3 +cos-12𝑥-1 is \u0000𝛼,𝛽\u0000, then the value of 5𝛽-4𝛼 is equal to 𝑒4𝑥2+𝑥-3 𝑥+2",
+        "type": "MCQ",
+        "options": [
+            "(1) 10",
+            "(2) 12",
+            "(3) 11",
+            "(4) 9"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 71,
+        "question": "Let 𝑓:𝑅 → 𝑅 be a function defined 𝑓𝑥 = 𝑥 and 𝑔𝑥 = 𝑓𝑓𝑓𝑓𝑥 then 18∫\u00002√5 𝑥2𝑔𝑥𝑑𝑥 1/4 0 1+𝑥4",
+        "type": "MCQ",
+        "options": [
+            "(1) 33",
+            "(2) 36",
+            "(3) 42",
+            "(4) 39"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 72,
+        "question": "𝑥2+3𝑥+𝑎, 𝑥 ≤ 1 Let a and b be real constants such that the function 𝑓 defined by 𝑓𝑥 = be differentiable 𝑏𝑥+2, 𝑥 > 1 2 on 𝑅. Then, the value of ∫ 𝑓𝑥𝑑𝑥 equals -2 15 19 6 6",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) 21",
+            "(4) 17"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 73,
+        "question": "Let 𝑓:𝑅- {0} → 𝑅 be a function satisfying 𝑓𝑥 = 𝑓(𝑥) for all 𝑥,𝑦,𝑓\u0000𝑦\u0000 ≠ 0. If 𝑓' \u00001\u0000 = 2024, then 𝑦 𝑓\u0000𝑦\u0000",
+        "type": "MCQ",
+        "options": [
+            "(1) 𝑥𝑓'𝑥-2024𝑓𝑥 = 0",
+            "(2) 𝑥𝑓'𝑥+2024𝑓𝑥 = 0",
+            "(3) 𝑥'\u0000𝑥\u0000 +𝑓\u0000𝑥\u0000 = 2024",
+            "(4) 𝑥𝑓' \u0000𝑥\u0000 -2023𝑓\u0000𝑥\u0000 = 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 74,
+        "question": "Let 𝑓𝑥 = 𝑥+32𝑥-23,𝑥 ∈ \u0000-4,4\u0000. If 𝑀 and 𝑚 are the maximum and minimum values of 𝑓, respectively in [-4,4], then the value of 𝑀-𝑚 is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 600",
+            "(2) 392",
+            "(3) 608",
+            "(4) 108"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 75,
+        "question": "Let 𝑦 = 𝑓\u0000𝑥\u0000 be a thrice differentiable function in ( -5,5). Let the tangents to the curve 𝑦 = 𝑓\u0000𝑥\u0000 at 𝜋 𝜋 6 4 27∫3 𝑓'𝑡2 +1𝑓\"𝑡𝑑𝑡 = 𝛼+𝛽√3 where 𝛼, 𝛽 are integers, then the value of 𝛼+𝛽 equals 1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) ) and",
+            "(3) ) make angles and , respectively with positive x-axis. If",
+            "(1) -14",
+            "(2) 26",
+            "(3) -16",
+            "(4) 36"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 76,
+        "question": "Let 𝑓:𝑅 → 𝑅 be defined 𝑓𝑥 = 𝑎𝑒2𝑥+𝑏𝑒𝑥+𝑐𝑥. If 𝑓\u00000\u0000 = -1,𝑓'log 2 = 21 and ∫log4 𝑓𝑥-𝑐𝑥𝑑𝑥 = 39 , then 𝑒 0 2 the value of |𝑎+𝑏+𝑐| equals:",
+        "type": "MCQ",
+        "options": [
+            "(1) 16",
+            "(2) 10",
+            "(3) 12",
+            "(4) 8"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 77,
+        "question": "→ ^ ^ ^ → → → 𝜋 →2 Let 𝑎 = 𝑖+𝛼𝑗+𝛽𝑘 , 𝛼,𝛽 ∈ 𝑅. Let a vector 𝑏 be such that the angle between 𝑎 and 𝑏 is and 𝑏 = 6, If 4 → 𝑎·→ 𝑏 = 3√2, then the value of 𝛼2+𝛽2 | → 𝑎×→ 𝑏|2 is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 90",
+            "(2) 75",
+            "(3) 95",
+            "(4) 85"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 78,
+        "question": "Let → 𝑎 and → 𝑏 be two vectors such that \u0000→ 𝑏 | = 1 and \u0000→ 𝑏×→ 𝑎 | = 2 Then \u0000\u0000→ 𝑏×→ 𝑎\u0000 -→ 𝑏|2 is equal to",
+        "type": "MCQ",
+        "options": [
+            "(1) 3",
+            "(2) 5",
+            "(3) 1",
+            "(4) 4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 79,
+        "question": "Let 𝐿 :→ 𝑟 = ^ 𝑖-^ 𝑗+2𝑘^ +𝜆^ 𝑖-^ 𝑗+2𝑘^ , 𝜆 ∈ 𝑅, 𝐿 :→ 𝑟 = ^ 𝑗-𝑘^ +𝜇3^ 𝑖+^ 𝑗+𝑝𝑘^ , 𝜇 ∈ 𝑅 and 1 2 → ^ ^ ^ 𝐿 :𝑟 = 𝛿\u0000𝑙𝑖+𝑚𝑗+𝑛𝑘\u0000, 𝛿 ∈ 𝑅 be three lines such that 𝐿 is perpendicular to 𝐿 and 𝐿 is perpendicular to 3 1 2 3 both 𝐿 and 𝐿 . Then the point which lies on 𝐿 is 1 2 3",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 80,
+        "question": "Bag 𝐴 contains 3 white, 7 red balls and bag 𝐵 contains 3 white, 2 red balls. One bag is selected at random and a ball is drawn from it. The probability of drawing the ball from the bag A, if the ball drawn in white, is : 1 1 4 9 1 3 3 10",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 81,
+        "question": "The number of real solutions of the equation \\(x\\left(x^2+3|x|+5|x-1|+6|x-2|\\right)=0\\) is ______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 82,
+        "question": "In an examination of Mathematics paper, there are 20 questions of equal marks and the question paper is divided into three sections : A,B and C. A student is required to attempt total 15 questions taking at least 4 questions from each section. If section A has 8 questions, section B has 6 questions and section C has 6 questions, then the total number of ways a student can select 15 questions is _________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 83,
+        "question": "Let 𝑆 be the sum to n-terms of an arithmetic progression 3,7,11, … … , if 40 < 6 ∑𝑛 𝑆 < 42, 𝑛 𝑛(𝑛+1) 𝑘=1 𝑘 then 𝑛 equals ____________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 84,
+        "question": "Let 𝛼 = ∑𝑛 𝑛C 𝑘2 and 𝛽 = ∑𝑛-1 𝑛C 𝑘𝑛C 𝑘+1 . If 5𝛼 = 6𝛽, then 𝑛 equals 𝑘=0 𝑘+1 𝑘=0 𝑘+2",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 85,
+        "question": "Consider two circles 𝐶 1:𝑥2+𝑦2 = 25 and 𝐶 2: \u0000𝑥-𝛼)2+𝑦2 = 16, where 𝛼 ∈ (5,9). Let the angle between the two radii (one to each circle) drawn from one of the intersection points of C and C be sin-1√63 . If the 1 2 8 length of common chord of 𝐶 and 𝐶 is 𝛽, then the value of \u0000𝛼𝛽 2 equals _________. 1 2 ) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (30 Jan Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 86,
+        "question": "x 0 1 5 6 10 12 17 If the variance 𝜎2 of the data i is 𝑘 then the value of 𝑘 is ______ {where . f 3 2 3 2 6 3 3 i denotes the greatest integer funciton}",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 87,
+        "question": "The number of symmetric relations defined on the set {1,2,3,4} which are not reflexive is _______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 88,
+        "question": "The area of the region enclosed by the parabola \u0000𝑦-2)2 = 𝑥-1, the line 𝑥-2 𝑦+4 = 0 and the positive coordinate axes is __________.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 89,
+        "question": "Let 𝑌 = 𝑌(𝑋) be a curve lying in the first quadrant such that the area enclosed by the line 𝑌-𝑦 = 𝑌'\u0000𝑥\u0000\u0000𝑋-𝑥\u0000 and the co-ordinate axes, where \u0000𝑥,𝑦\u0000 is any point on the curve, is always 2𝑌'\u0000𝑥\u0000 𝑥-1 𝑦-2 𝑧+1",
+        "type": "MCQ",
+        "options": [
+            "(1) = 1, then 12 𝑌",
+            "(2) equals ________."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 90,
+        "question": "Let a line passing through the point ( -1,2,3) intersect the lines 𝐿 : = = at 𝑀\u0000𝛼,𝛽,𝛾\u0000 and 1 3 2 -2 𝑥+2 𝑦-2 𝑧-1 \u0000𝛼+𝛽+𝛾)2 𝐿 : = = at 𝑁(𝑎,𝑏,𝑐). Then the value of equals ________________. 2 -3 -2 4 (𝑎+𝑏+𝑐)2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    }
+]

@@ -1,0 +1,1019 @@
+[
+    {
+        "question_id": 1,
+        "question": "If ϵ 0 is the permittivity of free space and E is the electric field, then ϵ 0E2 has the dimensions : [M−1 L−3 T4 A2] [ML2 T−2] [M∘L−2TA] [ML−1 T−2]",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 2,
+        "question": "The angle of projection for a projectile to have same horizontal range and maximum height is : 4 2",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(4) ",
+            "(2) ",
+            "(1) ",
+            "(3) ",
+            "(1) ",
+            "(4) ",
+            "(2) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 3,
+        "question": "A given object takes n times the time to slide down 45∘ rough inclined plane as it takes the time to slide down an identical perfectly smooth 45∘ inclined plane. The coefficient of kinetic friction between the object and the surface of inclined plane is : 1−n2 n2 n2",
+        "type": "MCQ",
+        "options": [
+            "(1) √1− 1",
+            "(2) ",
+            "(3) 1− 1",
+            "(4) √1−n2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 4,
+        "question": "A thin circular disc of mass M and radius R is rotating in a horizontal plane about an axis passing through its centre and perpendicular to its plane with angular velocity ω. If another disc of same dimensions but of mass M/2 is placed gently on the first disc co-axially, then the new angular velocity of the system is : 3ω 5ω 2 4 2ω 4ω 3 5",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 5,
+        "question": "A block is simply released from the top of an inclined plane as shown in the figure above. The maximum compression in the spring when the block hits the spring is :",
+        "type": "MCQ",
+        "options": [
+            "(1) √6 m",
+            "(2) √5 m",
+            "(3) 1 m",
+            "(4) 2 m"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 6,
+        "question": "Two satellite A and B go round a planet in circular orbits having radii 4R and R respectively. If the speed of A is 3v, the speed of B will be : 3",
+        "type": "MCQ",
+        "options": [
+            "(1) 3v",
+            "(2) 6v",
+            "(3) 4v",
+            "(4) 12v"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 7,
+        "question": "A cube of ice floats partly in water and partly in kerosene oil. The ratio of volume of ice immersed in water to that in kerosene oil (specific gravity of Kerosene oil = 0.8, specific gravity of ice = 0.9) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 1 : 1",
+            "(2) 5 : 4",
+            "(3) 8 : 9",
+            "(4) 9 : 10"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 8,
+        "question": "A diatomic gas (γ = 1.4) does 100 J of work in an isobaric expansion. The heat given to the gas is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 250 J",
+            "(2) 150 J",
+            "(3) 350 J",
+            "(4) 490 J"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 9,
+        "question": "Given below are two statements : Statement (I) : The mean free path of gas molecules is inversely proportional to square of molecular diameter. Statement (II) : Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas. In the light of the above statements, choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is true but Statement II is false",
+            "(2) Both Statement I and Statement II are false",
+            "(3) Both Statement I and Statement II are true",
+            "(4) Statement I is false but Statement II is true"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 10,
+        "question": "A plane progressive wave is given by y = 2cos2π(330t−x)m. The frequency of the wave is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 330 Hz",
+            "(2) 660 Hz",
+            "(3) 340 Hz",
+            "(4) 165 Hz"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 11,
+        "question": "A capacitor has air as dielectric medium and two conducting plates of area 12 cm2 and they are 0.6 cm apart. When a slab of dielectric having area 12 cm2 and 0.6 cm thickness is inserted between the plates, one of the conducting plates has to be moved by 0.2 cm to keep the capacitance same as in previous case. The dielectric constant of the slab is : (Given ϵ 0 = 8.834×10−12 F/m )",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 1.33",
+            "(3) 0.66",
+            "(4) 1.50"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 12,
+        "question": "Water boils in an electric kettle in 20 minutes after being switched on. Using the same main supply, the length of the heating element should be _____ to _____ times of its initial length if the water is to be boiled in 15 minutes.",
+        "type": "MCQ",
+        "options": [
+            "(1) decreased, 3/4",
+            "(2) increased, 4/3",
+            "(3) decreased, 4/3",
+            "(4) increased, 3/4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 13,
+        "question": "A long straight wire of radius a carries a steady current I. The current is uniformly distributed across its cross section. The ratio of the magnetic field at a and 2a from axis of the wire is : 2",
+        "type": "MCQ",
+        "options": [
+            "(1) 1 : 4",
+            "(2) 1 : 1",
+            "(3) 3 : 4",
+            "(4) 4 : 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 14,
+        "question": "A coil of negligible resistance is connected in series with 90Ω resistor across 120 V,60 Hz supply. A voltmeter reads 36 V across resistance. Inductance of the coil is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 0.286H",
+            "(2) 0.76H",
+            "(3) 2.86H",
+            "(4) 0.91H"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 15,
+        "question": "The position of the image formed by the combination of lenses is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 15 cm",
+            "(2) 30 cm",
+            "(3) 15 cm",
+            "(4) 30 cm"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 16,
+        "question": "A proton and an electron have the same de Broglie wavelength. If K p and K e be the kinetic energies of proton and electron respectively, then choose the correct relation :",
+        "type": "MCQ",
+        "options": [
+            "(1) K p > K e",
+            "(2) K p < K e",
+            "(3) K p = K e",
+            "(4) K p = K e2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 17,
+        "question": "If M o is the mass of isotope 1 52B,M P and M n are the masses of proton and neutron, then nuclear binding energy of isotope is :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 18,
+        "question": "In a hypothetical fission reaction 92X236 → 56Y 141 + 36Z92 +3R The identity of emitted particles ( R) is :",
+        "type": "MCQ",
+        "options": [
+            "(1) Electron",
+            "(2) Neutron",
+            "(3) γ-radiations",
+            "(4) Proton"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 19,
+        "question": "Least count of a vernier caliper is 1 cm. The value of one division on the main scale is 1 mm. Then the 20 N number of divisions of main scale that coincide with N divisions of vernier scale is : 2 N (2 N−1) (2 N−1) 2 20 N",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 20,
+        "question": "There are 100 divisions on the circular scale of a screw gauge of pitch 1 mm. With no measuring quantity in between the jaws, the zero of the circular scale lies 5 divisions below the reference line. The diameter of a wire is then measured using this screw gauge. It is found that 4 linear scale divisions are clearly visible while 60 divisions on circular scale coincide with the reference line. The diameter of the wire is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 3.35 mm",
+            "(2) 4.65 mm",
+            "(3) 4.55 mm",
+            "(4) 4.60 mm"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 21,
+        "question": "A body of mass M thrown horizontally with velocity v from the top of the tower of height H touches the ground at a distance of 100 m from the foot of the tower. A body of mass 2M thrown at a velocity v from the 2 top of the tower of height 4H will touch the ground at a distance of _____m. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣ J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 22,
+        "question": "A circular table is rotating with an angular velocity of ωrad/s about its axis (see figure). There is a smooth groove along a radial direction on the table. A steel ball is gently placed at a distance of 1 m on the groove. All the surfaces are smooth. If the radius of the table is 3 m, the radial velocity of the ball w.r.t. the table at the time ball leaves the table is x√2ωm/s, where the value of x is _____.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 23,
+        "question": "Small water droplets of radius 0.01 mm are formed in the upper atmosphere and falling with a terminal velocity of 10 cm/s. Due to condensation, if 8 such droplets are coalesced and formed a larger drop, the new terminal velocity will be _____cm/s.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 24,
+        "question": "An object of mass 0.2 kg executes simple harmonic motion along x axis with frequency of (25)Hz. At the π position x = 0.04 m the object has kinetic energy 0.5 J and potential energy 0.4 J. The amplitude of oscillation is _____cm.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 25,
+        "question": "If the net electric field at point P along Y axis is zero, then the ratio of q2 is 8 , where x = _____. q 3 5√x",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 26,
+        "question": "A heater is designed to operate with a power of 1000 W in a 100 V line. It is connected in combination with a resistance of 10Ω and a resistance R, to a 100 V mains as shown in figure. For the heater to operate at 62.5 W, the value of R should be _____Ω.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 27,
+        "question": "The coercivity of a magnet is 5×103 A/m. The amount of current required to be passed in a solenoid of length 30 cm and the number of turns 150 , so that the magnet gets demagnetised when inside the solenoid is _____A.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 28,
+        "question": "An alternating emf E = 110√2sin100t volt is applied to a capacitor of 2μF, the rms value of current in the circuit is _____mA,",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 29,
+        "question": "Two slits are 1 mm apart and the screen is located 1 m away from the slits. A light of wavelength 500 nm is used. The width of each slit to obtain 10 maxima of the double slit pattern within the central maximum of the Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo single slit pattern is _____×10−4 m",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 30,
+        "question": "A potential divider circuit is connected with a dc source of 20 V, a light emitting diode of glow in voltage 1.8 V and a zener diode of breakdown voltage of 3.2 V. The length (PR) of the resistive wire is 20 cm. The minimum length of PQ to just glow the LED is _____cm",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 31,
+        "question": "Identify the correct statements about p-block elements and their compounds. (A) Non metals have higher electronegativity than metals. (B) Non metals have lower ionisation enthalpy than metals. (C) Compounds formed between highly reactive nonmetals and highly reactive metals are generally ionic. (D) The non-metal oxides are generally basic in nature. (E) The metal oxides are generally acidic or neutral in nature. Choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 32,
+        "question": "The shape of carbocation is :",
+        "type": "MCQ",
+        "options": [
+            "(1) diagonal pyramidal",
+            "(2) trigonal planar",
+            "(3) tetrahedral",
+            "(4) diagonal"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 33,
+        "question": "When ψ A and ψ B are the wave functions of atomic orbitals, then σ∗ is represented by :",
+        "type": "MCQ",
+        "options": [
+            "(1) ψ A +2ψ B",
+            "(2) ψ A −ψ B",
+            "(3) ψ A +ψ B",
+            "(4) ψ A −2ψ B"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 34,
+        "question": "The equilibrium Cr 2O2 7− ⇌ 2CrO2 4− is shifted to the right in :",
+        "type": "MCQ",
+        "options": [
+            "(1) an acidic medium",
+            "(2) a basic medium",
+            "(3) a neutral medium",
+            "(4) a weakly acidic medium"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 35,
+        "question": "Given below are two statements : Statement (I) : A Buffer solution is the mixture of a salt and an acid or a base mixed in any particular quantities. Statement (II) : Blood is naturally occurring buffer solution whose pH is maintained by H 2CO 3/HCO− 3Θ concentrations. In the light of the above statements, choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is true but Statement II is false",
+            "(2) Both Statement I and Statement II are true",
+            "(3) Statement I is false but Statement II is true",
+            "(4) Both Statement I and Statement II are false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 36,
+        "question": "The correct sequence of acidic strength of the following aliphatic acids in their decreasing order is: CH CH COOH,CH COOH,CH CH CH COOH,HCOOH 3 2 3 3 2 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ ∣ J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) CH 3CH 2CH 2COOH > CH 3CH 2COOH > CH 3COOH > HCOOH",
+            "(2) CH 3COOH > CH 3CH 2COOH > CH 3CH 2CH 2COOH > HCOOH",
+            "(3) HCOOH > CH 3COOH > CH 3CH 2COOH > CH 3CH 2CH 2COOH",
+            "(4) HCOOH > CH 3CH 2CH 2COOH > CH 3CH 2COOH > CH 3COOH"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 37,
+        "question": "IUPAC name of following hydrocarbon (X) is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 2-Ethyl-3,6-dimethylheptane",
+            "(2) 2,5,6-Trimethyloctane",
+            "(3) 3,4,7-Trimethyloctane",
+            "(4) 2-Ethyl-2,6-diethylheptane"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 38,
+        "question": "Given below are two statements : Statement (I) : Kjeldahl method is applicable to estimate nitrogen in pyridine. Statement (II) : The nitrogen present in pyridine can easily be converted into ammonium sulphate in Kjeldahl method. In the light of the above statements, choose the correct answer from the options given below",
+        "type": "MCQ",
+        "options": [
+            "(1) Both Statement I and Statement II are true",
+            "(2) Both Statement I and Statement II are false",
+            "(3) Statement I is false but Statement II is true",
+            "(4) Statement I is true but Statement II is false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 39,
+        "question": "In qualitative test for identification of presence of phosphorous, the compound is heated with an oxidising agent. Which is further treated with nitric acid and ammonium molybdate respectively. The yellow coloured precipitate obtained is :",
+        "type": "MCQ",
+        "options": [
+            "(1) Na 3PO 4 ⋅12MoO 3",
+            "(2) ",
+            "(3) MoPO 4.21NH 4NO 3",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 40,
+        "question": "The emf of cell Tl Tl+ Cu2+ Cu is 0.83 V at 298 K. It could be increased by : (0.001M) (0.01M) Tl+ and Cu2+ Cu2+ ions ions T1+ Tl+ and Cu2+ ions",
+        "type": "MCQ",
+        "options": [
+            "(1) decreasing concentration of both",
+            "(2) increasing concentration of",
+            "(3) increasing concentration of",
+            "(4) increasing concentration of both"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 41,
+        "question": "The reaction; 1 2H 2( g) +AgCl (s) → H+ (aq) +Cl− (aq) +Ag (s) occurs in which of the following galvanic cell : K K −−Q42. For a reaction A →1 B →2 C If the rate of formation of B is set to be zero then the concentration of B is given by :",
+        "type": "MCQ",
+        "options": [
+            "(1) Ag AgCl",
+            "(2) Pt H 2",
+            "(3) Pt H 2",
+            "(4) Pt H 2",
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) K 1 K 2[ A]"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 43,
+        "question": "Identify the incorrect statements about group 15 elements : (A) Dinitrogen is a diatomic gas which acts like an inert gas at room temperature. (B) The common oxidation states of these elements are −3,+3 and +5 . (C) Nitrogen has unique ability to form pπ−pπ multiple bonds. (D) The stability of +5 oxidation states increases down the group. (E) Nitrogen shows a maximum covalency of 6. Choose the correct answer from the options given below : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 44,
+        "question": "Given below are two statements : Statement (I) : Fusion of MnO 2 with KOH and an oxidising agent gives dark green K 2MnO 4. Statement (II) : Manganate ion on electrolytic oxidation in alkaline medium gives permanganate ion. In the light of the above statements, choose the correct answer from the options given below : List-I List-II",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is true but Statement II is false",
+            "(2) Both Statement I and Statement II are false",
+            "(3) Statement I is false but Statement II is true",
+            "(4) Both Statement I and Statement II are true"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 45,
+        "question": "(Complexion) (SpinonlymagneticmomentinB.M.) (A) [Cr(NH ) ]3+ (I) 4.90 3 6 Match List - I with List - II. Choose the (B) [NiCl ]2− (II) 3.87 4 (C) [CoF ]3− (III) 0.0 6 (D) [Ni(CN) ]2− (IV) 2.83 4 correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 46,
+        "question": "Given below are two statements : Statement (I) : S N2 reactions are 'stereospecific', indicating that they result in the formation of only one stereo-isomer as the product. Statement (II) : S N1 reactions generally result in formation of product as racemic mixtures. In the light of the above statements, choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) Both Statement I and Statement II are false",
+            "(2) Statement I is false but Statement II is true",
+            "(3) Statement I is true but Statement II is false",
+            "(4) Both Statement I and Statement II are true"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 47,
+        "question": "Which one the following compounds will readily react with dilute NaOH ?",
+        "type": "MCQ",
+        "options": [
+            "(1) C 2H 5OH",
+            "(2) C 6H 5OH",
+            "(3) C 6H 5CH 2OH",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 48,
+        "question": "(Test) (Identification) (A) Bayer'stestMARKS (I) PhenolVIARKS Match List - I with List - II. (B) Cericammoniumnitratetest (II) Aldehyde (C) Phthaleindyetest R K (III) Alcoholic-OHgroup (D) Schiff'stest (IV) Unsaturation Choose the correct answer from the options given below : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 49,
+        "question": "Match List - I with List - II. Choose the correct answer from the options given below :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 50,
+        "question": "Given below are two statements : Statement (I) : All the following compounds react with p-toluenesulfonyl chloride. C 6H 5NH 2 (C 6H 5) 2NH (C 6H 5) 3 N Statement (II) : Their products in the above reaction are soluble is aqueous NaOH. In the light of the above statements, choose the correct answer from the options given below",
+        "type": "MCQ",
+        "options": [
+            "(1) Statement I is false but Statement II is true",
+            "(2) Statement I is true but Statement II is false",
+            "(3) Both Statement I and Statement II are true",
+            "(4) Both Statement I and Statement II are false"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 51,
+        "question": "Wavenumber for a radiation having 5800Ã… wavelength is x×10 cm−1 . The value of x is ________ (Integer answer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 52,
+        "question": "Number of molecules having bond order 2 from the following molecules is ________ C ,O ,Be ,Li ,Ne , N ,He 2 2 2 2 2 2 2",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 53,
+        "question": "Δ vap H⊖ for water is +40.79 kJ mol−1 at 1 bar and 100∘C. Change in internal energy for this vapourisation under same condition is kJmol−1 . (Integer answer) (Given R = 8.3JK−1 mol−1 ) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 54,
+        "question": "Total number of optically active compounds from the following is ______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 55,
+        "question": "Total number of aromatic compounds among the following compounds is ______.",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 56,
+        "question": "A solution is prepared by adding 1 mole ethyl alcohol in 9 mole water. The mass percent of solute in the solution is ________ (Integer answer) (Given : Molar mass in gmol−1 Ethyl alcohol : 46 water: 18)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 57,
+        "question": "Molality of an aqueous solution of urea is 4.44 m. Mole fraction of urea in solution is x×10−3 . Value of x is - (Integer answer)",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 58,
+        "question": "Total number of unpaired electrons in the complex ions [Co(NH 3) 6]3+ and [NiCl 4]2− is",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 59,
+        "question": "Two moles of benzaldehyde and one mole of acetone under alkaline conditions using aqueous NaOH after heating gives x as the major product. The number of π bonds in the product x is _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 60,
+        "question": "The total number of carbon atoms present in tyrosine, an amino acid, is _______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 61,
+        "question": "The sum of all possible values of θ ∈ [−π,2π], for which 1+icosθ is purely imaginary, is equal 1−2icosθ",
+        "type": "MCQ",
+        "options": [
+            "(1) 3π",
+            "(2) 2π",
+            "(3) 5π",
+            "(4) 4π"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 62,
+        "question": "The number of ways five alphabets can be chosen from the alphabets of the word MATHEMATICS, where the chosen alphabets are not necessarily distinct, is equal to : 70",
+        "type": "MCQ",
+        "options": [
+            "(1) 179",
+            "(2) 177",
+            "(3) 181",
+            "(4) 175"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 63,
+        "question": "In an increasing geometric progression of positive terms, the sum of the second and sixth terms is and the 3 product of the third and fifth terms is 49 . Then the sum of the 4th ,6th and 8th terms is equal to :",
+        "type": "MCQ",
+        "options": [
+            "(1) 96",
+            "(2) 91",
+            "(3) 84",
+            "(4) 78"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 64,
+        "question": "If the term independent of x in the expansion of (√ax2 + 1 )10 is 105 , then a2 is equal to : 2x3 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣ ⎪ ⎪ J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) 2",
+            "(2) 4",
+            "(3) 6",
+            "(4) 9"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 65,
+        "question": "If the value of 3cos36∘+5sin18∘ is a√5−b , where a,b,c are natural numbers and gcd(a,c) = 1, then a+b+c is 5cos36∘−3sin18∘ c equal to :",
+        "type": "MCQ",
+        "options": [
+            "(1) 40",
+            "(2) 52",
+            "(3) 50",
+            "(4) 54"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 66,
+        "question": "If the image of the point (−4,5) in the line x+2y = 2 lies on the circle (x+4)2 +(y−3)2 = r2 , then r is equal to:",
+        "type": "MCQ",
+        "options": [
+            "(1) 2",
+            "(2) 3",
+            "(3) 1",
+            "(4) 4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 67,
+        "question": "If the line segment joining the points (5,2) and (2,a) subtends an angle π at the origin, then the absolute 4 value of the product of all possible values of a is :",
+        "type": "MCQ",
+        "options": [
+            "(1) 6",
+            "(2) 8",
+            "(3) 2",
+            "(4) -4"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 68,
+        "question": "Let A = {2,3,6,8,9,11} and B = {1,4,5,10,15}. Let R be a relation on A×B defined by (a,b)R(c,d) if and only if 3ad−7bc is an even integer. Then the relation R is α b c",
+        "type": "MCQ",
+        "options": [
+            "(1) an equivalence relation.",
+            "(2) reflexive and symmetric but not transitive.",
+            "(3) transitive but not symmetric.",
+            "(4) reflexive but not symmetric."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 69,
+        "question": "If α ≠ a,β ≠ b,γ ≠ c and a β c = 0, then a + b + γ is equal to: α−a β−b γ−c a b γ",
+        "type": "MCQ",
+        "options": [
+            "(1) 3",
+            "(2) 0",
+            "(3) 1",
+            "(4) 2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 70,
+        "question": "If the system of equations x+4y−z = λ,7x+9y+μz = −3,5x+y+2z = −1 has infinitely many solutions, then (2μ+3λ) is equal to : −a if −a ≤ x ≤ 0",
+        "type": "MCQ",
+        "options": [
+            "(1) 3",
+            "(2) -3",
+            "(3) -2",
+            "(4) 2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 71,
+        "question": "Let f(x) = { where a > 0 and g(x) = (f(x ∣)−|f(x)|)/2. Then the function x+a if 0 < x ≤ a g : [−a,a] → [−a,a] is",
+        "type": "MCQ",
+        "options": [
+            "(1) neither one-one nor onto.",
+            "(2) onto.",
+            "(3) both one-one and onto.",
+            "(4) one-one."
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 72,
+        "question": "⎧tan((a+1)x)+btanx, x < 0 x For a,b > 0, let f(x) = ⎨ 3, x = 0 be a continous function at x = 0. Then b is equal to : a ⎩ √ax+b2x2−√ax, x > 0 b√ax√x",
+        "type": "MCQ",
+        "options": [
+            "(1) 6",
+            "(2) 4",
+            "(3) 5",
+            "(4) 8"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 73,
+        "question": "If the function f(x) = 2x3 −9x2 +12a2x+1,a > 0 has a local maximum at x = α and a local minimum at x = α2 , then α and α2 are the roots of the equation : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "MCQ",
+        "options": [
+            "(1) x2 −6x+8 = 0",
+            "(2) x2 +6x+8 = 0",
+            "(3) 8x2 +6x−1 = 0",
+            "(4) 8x2 −6x+1 = 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 74,
+        "question": "Let ∫log e4 dx = π . Then eα and e−α are the roots of the equation : α √ex−1 6",
+        "type": "MCQ",
+        "options": [
+            "(1) x2 +2x−8 = 0",
+            "(2) x2 −2x−8 = 0",
+            "(3) 2x2 −5x+2 = 0",
+            "(4) 2x2 −5x−2 = 0"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 75,
+        "question": "The area of the region in the first quadrant inside the circle x2 +y2 = 8 and outside the parabola y2 = 2x is equal to : 2 3 3 2 3 3",
+        "type": "MCQ",
+        "options": [
+            "(1) π − 1",
+            "(2) π− 1",
+            "(3) π − 2",
+            "(4) π− 2"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 76,
+        "question": "Let y = y(x) be the solution curve of the differential equation secy dy +2xsiny = x3cosy,y(1) = 0. Then dx y(√3) is equal to : π π 3 6 π π 12 4",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 77,
+        "question": "Let a→ = 4^ i−^ j+k^ ,→ b = 11^ i−^ j+k^ and c→ be a vector such that (a→+→ b)×c→= c→×(−2a→+3→ b). If (2a→+3→ b)⋅c→= 1670, then |c→|2 is equal to : → → → →",
+        "type": "MCQ",
+        "options": [
+            "(1) 1609",
+            "(2) 1618",
+            "(3) 1600",
+            "(4) 1627"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 78,
+        "question": "Let a =^i+2^j+3k^ ,b = 2^i+3^j−5k^ and c = 3^i−^j+λk^ be three vectors. Let r be anit vector along → b+c→. If r→⋅a→ = 3, then 3λ is equal to:",
+        "type": "MCQ",
+        "options": [
+            "(1) 21",
+            "(2) 30",
+            "(3) 25",
+            "(4) 27"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 79,
+        "question": "If the shortest distance between the lines x−λ = y−4 = z−3 and x−2 = y−4 = z−7 is 13 , then a value of λ 2 3 4 4 6 8 √29 is : −13 25 13 25",
+        "type": "MCQ",
+        "options": [
+            "(1) -1",
+            "(2) ",
+            "(3) ",
+            "(4) 1"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 80,
+        "question": "There are three bags X,Y and Z. Bag X contains 5 one-rupee coins and 4 five-rupee coins; Bag Y contains 4 one-rupee coins and 5 five-rupee coins and Bag Z contains 3 one-rupee coins and 6 five-rupee coins. A bag is selected at random and a coin drawn from it at random is found to be a one-rupee coin. Then the probability, that it came from bag Y, is : 1 1 4 2 5 1 12 3",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 81,
+        "question": "The number of distinct real roots of the equation |x+1||x+3|−4|x+2|+5 = 0, is Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 82,
+        "question": "An arithmetic progression is written in the following way The sum of all the terms of the 10th row is_______",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 83,
+        "question": "Let a ray of light passing through the point (3,10) reflects on the line 2x+y = 6 and the reflected ray passes through the point (7,2). If the equation of the incident ray is ax+by+1 = 0, then a2 +b2 +3ab is equal to_________",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 84,
+        "question": "Let S be the focus of the hyperbola x2 − y2 = 1, on the positive x-axis. Let C be the circle with its centre at 3 5 A(√6,√5) and passing through the point S. If O is the origin and SAB is a diameter of C, then the square of the area of the triangle OSB is equal to___________",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 85,
+        "question": "If α = lim x→0+(e√tanx−e√x) and β = lim x→0(1+sinx)1 2cotx are the roots of the quadratic equation √tanx−√x ax2 +bx−√e = 0, then 12log (a+b) is equal to__________ e",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 86,
+        "question": "Let a,b,c ∈ N and a < b < c. Let the mean, the mean deviation about the mean and the variance of the 5 observations 9,25,a,b,c be 18,4 and 136 , respectively. Then 2a+b−c is equal to__________ 5",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 87,
+        "question": "Let A be the region enclosed by the parabola y2 = 2x and the line x = 24. Then the maximum area of the rectangle inscribed in the region A is________ B",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 88,
+        "question": "If ∫ 1 dx = A(αx−1) +C, where C is the constant of integration, then the value of √5 (x−1)4(x+3)6 βx+3 α+β+20AB is__________",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 89,
+        "question": "Let α|x| = |y|exy−β,α,β ∈ N be the solution of the differential equation x dy−y dx+xy(x dy+y dx) = 0,",
+        "type": "MCQ",
+        "options": [
+            "(1) = 2. Then α+β is equal to ________"
+        ],
+        "answer": null,
+        "image": null
+    },
+    {
+        "question_id": 90,
+        "question": "Let P(α,β,γ) be the image of the point Q(1,6,4) in the line x = y−1 = z−2 . Then 2α+β+γ is equal 1 2 3 to_______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+        "type": "Integer",
+        "options": [],
+        "answer": null,
+        "image": null
+    }
+]
