@@ -1,24 +1,36 @@
-const jwt = require("jsonwebtoken");
-
-const authMiddleware = (req, res, next) => {
-    const authHeader = req.header("Authorization");
-    
-    if (!authHeader) {
-        return res.status(401).json({ message: "No token, authorization denied" });
+const ensureAuth = (req, res, next) => {
+    if (req.isAuthenticated()) {
+        return next();
     }
-
-    const token = authHeader.split(" ")[1]; // Extract Bearer token
-    if (!token) {
-        return res.status(401).json({ message: "Invalid token format" });
-    }
-
-    try {
-        const decoded = jwt.verify(token, process.env.JWT_SECRET);
-        req.user = decoded; // Attach decoded user info to `req`
-        next(); // Continue to the next middleware
-    } catch (err) {
-        return res.status(403).json({ message: "Invalid or expired token" });
-    }
+    res.status(401).json({ message: 'Please log in to access this resource' });
 };
 
-module.exports = authMiddleware;
+const ensureAdmin = (req, res, next) => {
+    if (req.isAuthenticated() && req.user.role === 'admin') {
+        return next();
+    }
+    res.status(403).json({ message: 'Admin access required' });
+};
+
+const ensureGuest = (req, res, next) => {
+    if (!req.isAuthenticated()) {
+        return next();
+    }
+    res.status(400).json({ message: 'You are already logged in' });
+};
+
+const isAuthenticated = (req, res, next) => {
+    if (req.isAuthenticated()) {
+        return next(); // User is authenticated, proceed to the next middleware/route
+    }
+    return res.status(401).json({ error: 'Unauthorized access' }); // User is not authenticated
+};
+
+const authenticateUser = (req, res, next) => {
+    if (!req.isAuthenticated()) {
+        return res.status(401).json({ error: 'Unauthorized access' });
+    }
+    next();
+};
+
+module.exports = authenticateUser;

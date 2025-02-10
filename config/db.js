@@ -1,39 +1,15 @@
-const { MongoClient } = require("mongodb");
-require("dotenv").config();
+const mongoose = require('mongoose');
 
-const uri = process.env.MONGO_URI;
-if (!uri) {
-    throw new Error("❌ MONGO_URI is not set in the .env file");
+if (!process.env.MONGODB_URI) {
+    console.error('❌ No MongoDB URI provided - check your .env file');
+    process.exit(1); // Exit the process with failure
 }
 
-const client = new MongoClient(uri, { tls: true });
+mongoose.connect(process.env.MONGODB_URI)
+    .then(() => console.log('📦 Connected to MongoDB'))
+    .catch((err) => {
+        console.error('❌ MongoDB connection error:', err);
+        process.exit(1);
+    });
 
-let db = null;
-
-const connectDB = async () => {
-    try {
-        if (!db) {
-            await client.connect();
-            db = client.db("Mains_2024"); // ✅ Use correct database name
-            console.log("✅ MongoDB Connected Successfully");
-        }
-        return db;
-    } catch (err) {
-        console.error("❌ MongoDB Connection Error:", err.message);
-        return null;
-    }
-};
-
-const getDB = () => {
-    if (!db) throw new Error("❌ Database not connected");
-    return db;
-};
-
-const closeDB = async () => {
-    if (client) {
-        await client.close();
-        console.log("🛑 MongoDB Connection Closed");
-    }
-};
-
-module.exports = { connectDB, getDB, closeDB };
+module.exports = mongoose.connection;
