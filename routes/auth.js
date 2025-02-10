@@ -2,6 +2,9 @@ const express = require("express");
 const passport = require("passport");
 const User = require("../models/user");
 require("dotenv").config();
+const userController = require('../controllers/userController');
+const { registerValidation } = require('../middleware/validation');
+const authenticateUser = require('../middleware/authMiddleware');
 
 const router = express.Router();
 
@@ -12,31 +15,11 @@ router.use((req, res, next) => {
 });
 
 // 🟢 Local Authentication Routes
-router.post("/register", async (req, res, next) => {
-    try {
-        console.log("🔍 Registering user:", req.body.email);
-        const { name, email, password } = req.body;
+router.post("/register", registerValidation, userController.register);
 
-        // Check if user exists
-        const existingUser = await User.findOne({ email });
-        if (existingUser) {
-            console.log("❌ Email already registered:", email);
-            return res.status(400).json({ error: "Email already registered" });
-        }
-
-        // Create user
-        const user = await User.create({ name, email, password });
-
-        req.login(user, (err) => {
-            if (err) return next(err);
-            console.log("✅ User registered and logged in:", user.email);
-            res.json({ user: { id: user._id, name: user.name, email: user.email } });
-        });
-    } catch (error) {
-        console.error("❌ Registration error:", error);
-        next(error);
-    }
-});
+// Profile Routes
+router.get('/profile', authenticateUser, userController.getProfile);
+router.put('/profile', authenticateUser, userController.updateProfile);
 
 router.post("/login", (req, res, next) => {
     console.log("🔍 Login attempt for:", req.body.email);
@@ -93,36 +76,50 @@ router.get("/google",
 
 // 🟢 Google Callback Route
 router.get("/google/callback",
-    (req, res, next) => {
-        console.log("🔵 Received Google callback");
-        next();
-    },
-    passport.authenticate("google", { 
-        failureRedirect: "/login",
-        failureMessage: true,
-        session: true
+    passport.authenticate('google', { 
+        failureRedirect: '/login',
+        failureMessage: true
     }),
-    (req, res, next) => {
+    async (req, res, next) => {
         try {
-            console.log("✅ Google authentication successful");
+            const { id, displayName, emails } = req.user;
             
-            if (!req.user) {
-                console.error("❌ No user found after Google auth");
-                return res.redirect("/login?error=Authentication failed");
+            // Find or create user
+            let user = await User.findOne({ 
+                $or: [
+                    { googleId: id },
+                    { email: emails[0].value }
+                ]
+            });
+
+            if (!user) {
+                // Create new user if doesn't exist
+                user = await User.create({
+                    googleId: id,
+                    name: displayName,
+                    email: emails[0].value,
+                    isVerified: true // Google OAuth users are automatically verified
+                });
+            } else if (!user.googleId) {
+                // If user exists but doesn't have googleId
+                user.googleId = id;
+                await user.save();
             }
 
-            const redirectUrl = req.session.returnTo || "/dashboard";
-            delete req.session.returnTo;
+            // Log in the user
+            req.login(user, (err) => {
+                if (err) return next(err);
+                
+                const redirectUrl = req.session.returnTo || '/dashboard';
+                delete req.session.returnTo;
 
-            // Ensure proper redirect URL construction
-            const fullRedirectUrl = process.env.NODE_ENV === "development"
-                ? `http://localhost:3000${redirectUrl}`
-                : `${process.env.CLIENT_URL}${redirectUrl}`;
+                const fullRedirectUrl = process.env.NODE_ENV === 'development'
+                    ? `http://localhost:3000${redirectUrl}`
+                    : `${process.env.CLIENT_URL}${redirectUrl}`;
 
-            console.log(`🔄 Redirecting to: ${fullRedirectUrl}`);
-            res.redirect(fullRedirectUrl);
+                res.redirect(fullRedirectUrl);
+            });
         } catch (error) {
-            console.error("❌ Error in Google callback:", error);
             next(error);
         }
     }
