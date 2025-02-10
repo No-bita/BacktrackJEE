@@ -5,135 +5,135 @@ require("dotenv").config();
 
 const router = express.Router();
 
-// Local Authentication Routes
+// ✅ Debugging Middleware
+router.use((req, res, next) => {
+    console.log(`🛠 Auth Route: ${req.method} ${req.originalUrl}`);
+    next();
+});
+
+// 🟢 Local Authentication Routes
 router.post("/register", async (req, res, next) => {
     try {
+        console.log("🔍 Registering user:", req.body.email);
         const { name, email, password } = req.body;
-        
-        // Check if user already exists
+
+        // Check if user exists
         const existingUser = await User.findOne({ email });
         if (existingUser) {
+            console.log("❌ Email already registered:", email);
             return res.status(400).json({ error: "Email already registered" });
         }
 
-        // Create new user
+        // Create user
         const user = await User.create({ name, email, password });
-        
-        // Log the user in after registration
+
         req.login(user, (err) => {
             if (err) return next(err);
+            console.log("✅ User registered and logged in:", user.email);
             res.json({ user: { id: user._id, name: user.name, email: user.email } });
         });
     } catch (error) {
+        console.error("❌ Registration error:", error);
         next(error);
     }
 });
 
 router.post("/login", (req, res, next) => {
-    passport.authenticate('local', (err, user, info) => {
+    console.log("🔍 Login attempt for:", req.body.email);
+    passport.authenticate("local", (err, user, info) => {
         if (err) {
+            console.error("❌ Error in login:", err);
             return next(err);
         }
 
         if (!user) {
-            return res.status(401).json({ 
-                error: info.message || 'Invalid credentials'
-            });
+            console.log("❌ Invalid credentials:", info);
+            return res.status(401).json({ error: info.message || "Invalid credentials" });
         }
 
-        // Log the user in and create a session
         req.login(user, (err) => {
-            if (err) {
-                return next(err);
-            }
-
-            return res.json({ 
-                user: {
-                    id: user._id,
-                    name: user.name,
-                    email: user.email,
-                    role: user.role
-                }
-            });
+            if (err) return next(err);
+            console.log("✅ User logged in:", user.email);
+            res.json({ user: { id: user._id, name: user.name, email: user.email, role: user.role } });
         });
     })(req, res, next);
 });
 
-router.get('/logout', (req, res) => {
+router.get("/logout", (req, res) => {
+    console.log("🔍 Processing logout");
     req.session.destroy((err) => {
         if (err) {
-            return res.status(500).json({ error: 'Logout failed' });
+            console.error("❌ Logout error:", err);
+            return res.status(500).json({ error: "Logout failed" });
         }
         
-        res.clearCookie('connect.sid');
-        res.json({ message: 'Logged out successfully' });
+        res.clearCookie("connect.sid");
+        console.log("✅ Logout successful");
+        res.json({ message: "Logged out successfully" });
     });
 });
 
-// Google OAuth Routes
-router.get("/google",
-    passport.authenticate("google", { scope: ["profile", "email"] })
+// 🟢 Google OAuth Routes
+router.get("/google", 
+    (req, res, next) => {
+        console.log("🔵 Starting Google OAuth flow");
+        // Store the return path if provided
+        if (req.query.returnTo) {
+            req.session.returnTo = req.query.returnTo;
+            console.log("📌 Storing return path:", req.query.returnTo);
+        }
+        next();
+    },
+    passport.authenticate("google", { 
+        scope: ["profile", "email"],
+        prompt: "select_account",
+        accessType: "offline" // Request refresh token
+    })
 );
 
+// 🟢 Google Callback Route
 router.get("/google/callback",
-    passport.authenticate('google', { 
-        failureRedirect: '/login',
+    (req, res, next) => {
+        console.log("🔵 Received Google callback");
+        next();
+    },
+    passport.authenticate("google", { 
+        failureRedirect: "/login",
         failureMessage: true,
         session: true
     }),
     (req, res, next) => {
         try {
-            // Check if authentication was successful
+            console.log("✅ Google authentication successful");
+            
             if (!req.user) {
-                return res.redirect('/login?error=Authentication failed');
+                console.error("❌ No user found after Google auth");
+                return res.redirect("/login?error=Authentication failed");
             }
 
-            // Determine redirect based on user state
-            const redirectUrl = req.session.returnTo || '/dashboard';
-            delete req.session.returnTo; // Clean up the stored path
+            const redirectUrl = req.session.returnTo || "/dashboard";
+            delete req.session.returnTo;
 
-            if (process.env.NODE_ENV === 'development') {
-                // For development (if your frontend is on a different port)
-                res.redirect(`http://localhost:3000${redirectUrl}`);
-            } else {
-                // For production
-                res.redirect(redirectUrl);
-            }
+            // Ensure proper redirect URL construction
+            const fullRedirectUrl = process.env.NODE_ENV === "development"
+                ? `http://localhost:3000${redirectUrl}`
+                : `${process.env.CLIENT_URL}${redirectUrl}`;
+
+            console.log(`🔄 Redirecting to: ${fullRedirectUrl}`);
+            res.redirect(fullRedirectUrl);
         } catch (error) {
+            console.error("❌ Error in Google callback:", error);
             next(error);
         }
     }
 );
 
-// Initial route to start Google OAuth - GET method
-router.get('/google',
-    (req, res, next) => {
-        // Store the return path if provided
-        if (req.query.returnTo) {
-            req.session.returnTo = req.query.returnTo;
-        }
-        next();
-    },
-    passport.authenticate('google', { 
-        scope: ['profile', 'email'],
-        prompt: 'select_account' // Always show account selector
-    })
-);
-
-// Add a failure handler
-router.get('/auth-failure', (req, res) => {
-    const error = req.session.messages?.pop() || 'Authentication failed';
-    res.status(401).json({ 
-        error,
-        redirectUrl: '/login'
-    });
-});
-
-// Add route to check authentication status
-router.get('/status', (req, res) => {
+// 🟢 Auth Status Check
+router.get("/status", (req, res) => {
     if (req.isAuthenticated()) {
-        return res.json({
-            isAuthenticated: true,
+        console.log("✅ User is authenticated:", req.user.email);
+        return res.json({ 
+            isAuthenticated: true, 
             user: {
                 id: req.user._id,
                 name: req.user.name,
@@ -142,15 +142,16 @@ router.get('/status', (req, res) => {
             }
         });
     }
+    console.log("❌ User is not authenticated");
     res.json({ isAuthenticated: false });
 });
 
-// Error handling middleware
+// 🟢 Error handling middleware
 router.use((err, req, res, next) => {
-    console.error(err);
+    console.error("❌ Auth error:", err);
     res.status(500).json({ 
-        error: 'Authentication error occurred',
-        message: process.env.NODE_ENV === 'development' ? err.message : undefined
+        error: "Authentication error occurred",
+        message: process.env.NODE_ENV === "development" ? err.message : undefined
     });
 });
 
