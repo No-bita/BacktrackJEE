@@ -86,7 +86,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 // Routes
-app.use('/api/auth', require('./routes/auth'));
+app.use('/auth', require('./routes/auth'));
 app.use('/api/attempts', require('./routes/attempts'));
 app.use('/api/questions', require('./routes/questions'));
 

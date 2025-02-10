@@ -105,7 +105,7 @@ router.get("/google/callback",
     }
 );
 
-// Add route to initiate OAuth with return path
+// Initial route to start Google OAuth - GET method
 router.get('/google',
     (req, res, next) => {
         // Store the return path if provided
