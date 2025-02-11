@@ -28,7 +28,7 @@ Object.entries(requiredEnvVars).forEach(([name, value]) => {
 const corsOptions = {
     origin: process.env.NODE_ENV === "production"
         ? process.env.CLIENT_URL
-        : ["http://localhost:3000", "http://127.0.0.1:3000"],
+        : ["http://localhost:3000", "http://127.0.0.1:3000", "https://no-bita.github.io"],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
@@ -39,6 +39,7 @@ const corsOptions = {
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cors(corsOptions));
+app.options("*", cors(corsOptions));
 
 // Security headers
 app.use((req, res, next) => {
