@@ -1,8 +1,18 @@
-const User = require('../models/user');
-const { validationResult } = require('express-validator');
+const User = require("../models/user");
+const { validationResult } = require("express-validator");
+const jwt = require("jsonwebtoken");
+require("dotenv").config();
+
+const generateToken = (user) => {
+    return jwt.sign(
+        { id: user._id, email: user.email, role: user.role },
+        process.env.JWT_SECRET,
+        { expiresIn: "1h" }
+    );
+};
 
 const userController = {
-    // Register new user
+    // 🟢 Register new user (JWT-based)
     register: async (req, res) => {
         try {
             // Validate request
@@ -17,74 +27,64 @@ const userController = {
             let user = await User.findOne({ email });
             if (user) {
                 return res.status(400).json({
-                    error: 'User already exists with this email'
+                    error: "User already exists with this email"
                 });
             }
 
             // Create new user
-            user = new User({
-                name,
-                email,
-                password
-            });
-
-            // Save user
+            user = new User({ name, email, password });
             await user.save();
 
-            // Log in the user after registration
-            req.login(user, (err) => {
-                if (err) {
-                    return res.status(500).json({
-                        error: 'Error logging in after registration'
-                    });
-                }
+            // Generate JWT token
+            const token = generateToken(user);
 
-                // Return user data (excluding password)
-                res.status(201).json({
-                    user: {
-                        id: user._id,
-                        name: user.name,
-                        email: user.email,
-                        role: user.role
-                    }
-                });
+            res.status(201).json({
+                token,
+                user: {
+                    id: user._id,
+                    name: user.name,
+                    email: user.email,
+                    role: user.role
+                }
             });
         } catch (error) {
-            console.error('Registration error:', error);
+            console.error("Registration error:", error);
             res.status(500).json({
-                error: 'Server error during registration'
+                error: "Server error during registration"
             });
         }
     },
 
-    // Get user profile
+    // 🟢 Get Profile (Protected)
     getProfile: async (req, res) => {
         try {
-            const user = await User.findById(req.user._id).select('-password');
+            const user = await User.findById(req.user.id).select("-password");
             if (!user) {
-                return res.status(404).json({ error: 'User not found' });
+                return res.status(404).json({ error: "User not found" });
             }
-            res.json({ user });
+            res.json(user);
         } catch (error) {
-            res.status(500).json({ error: 'Error fetching user profile' });
+            console.error("Error fetching profile:", error);
+            res.status(500).json({ error: "Server error" });
         }
     },
 
-    // Update user profile
+    // 🟢 Update Profile (Protected)
     updateProfile: async (req, res) => {
         try {
             const { name } = req.body;
-            const user = await User.findByIdAndUpdate(
-                req.user._id,
-                { $set: { name } },
+            const updatedUser = await User.findByIdAndUpdate(
+                req.user.id,
+                { name },
                 { new: true }
-            ).select('-password');
+            ).select("-password");
 
-            res.json({ user });
+            res.json(updatedUser);
         } catch (error) {
-            res.status(500).json({ error: 'Error updating profile' });
+            console.error("Profile update error:", error);
+            res.status(500).json({ error: "Server error" });
         }
     }
 };
 
-module.exports = userController; 
+module.exports = userController;

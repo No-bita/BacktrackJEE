@@ -1,5 +1,5 @@
 const express = require("express");
-const passport = require("passport");
+const jwt = require("jsonwebtoken");
 const User = require("../models/user");
 require("dotenv").config();
 const userController = require('../controllers/userController');
@@ -8,192 +8,123 @@ const authenticateUser = require('../middleware/authmiddleware');
 const { body, validationResult } = require('express-validator');
 
 const router = express.Router();
+router.get("/profile", authenticateUser, userController.getProfile);
+router.put("/profile", authenticateUser, userController.updateProfile);
 
-// ✅ Debugging Middleware
-router.use((req, res, next) => {
-    console.log(`🛠 Auth Route: ${req.method} ${req.originalUrl}`);
-    next();
-});
+// Generate JWT Token
+const generateToken = (user) => {
+    return jwt.sign(
+        { id: user._id, email: user.email, role: user.role },
+        process.env.JWT_SECRET,
+        { expiresIn: "1h" } // Token expires in 1 hour
+    );
+};
 
-// 🟢 Local Authentication Routes
-router.post("/register", [
-    body('name').notEmpty().withMessage('Name is required'),
-    body('email').isEmail().withMessage('Please enter a valid email').normalizeEmail(),
-    body('password').isLength({ min: 6 }).withMessage('Password must be at least 6 characters long')
-], async (req, res) => {
-    // Validate request
-    const errors = validationResult(req);
-    if (!errors.isEmpty()) {
-        return res.status(400).json({ errors: errors.array() });
-    }
-
-    const { name, email, password } = req.body;
-
-    try {
-        // Check if user already exists
-        let user = await User.findOne({ email });
-        if (user) {
-            return res.status(400).json({ error: 'User already exists with this email' });
+// 🟢 User Registration (with JWT)
+router.post(
+    "/register",
+    [
+        body("name").notEmpty().withMessage("Name is required"),
+        body("email").isEmail().withMessage("Please enter a valid email").normalizeEmail(),
+        body("password").isLength({ min: 6 }).withMessage("Password must be at least 6 characters long")
+    ],
+    async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) {
+            return res.status(400).json({ errors: errors.array() });
         }
 
-        // Create new user
-        user = new User({
-            name,
-            email,
-            password
-        });
+        const { name, email, password } = req.body;
 
-        // Save user
-        await user.save();
-
-        // Return user data (excluding password)
-        res.status(201).json({
-            user: {
-                id: user._id,
-                name: user.name,
-                email: user.email,
-                role: user.role
-            }
-        });
-    } catch (error) {
-        console.error('Registration error:', error);
-        res.status(500).json({ error: 'Server error during registration' });
-    }
-});
-
-// Profile Routes
-router.get('/profile', authenticateUser, userController.getProfile);
-router.put('/profile', authenticateUser, userController.updateProfile);
-
-router.post("/login", (req, res, next) => {
-    console.log("🔍 Login attempt for:", req.body.email);
-    passport.authenticate("local", (err, user, info) => {
-        if (err) {
-            console.error("❌ Error in login:", err);
-            return next(err);
-        }
-
-        if (!user) {
-            console.log("❌ Invalid credentials:", info);
-            return res.status(401).json({ error: info.message || "Invalid credentials" });
-        }
-
-        req.login(user, (err) => {
-            if (err) return next(err);
-            console.log("✅ User logged in:", user.email);
-            res.json({ user: { id: user._id, name: user.name, email: user.email, role: user.role } });
-        });
-    })(req, res, next);
-});
-
-router.get("/logout", (req, res) => {
-    console.log("🔍 Processing logout");
-    req.session.destroy((err) => {
-        if (err) {
-            console.error("❌ Logout error:", err);
-            return res.status(500).json({ error: "Logout failed" });
-        }
-        
-        res.clearCookie("connect.sid");
-        console.log("✅ Logout successful");
-        res.json({ message: "Logged out successfully" });
-    });
-});
-
-// 🟢 Google OAuth Routes
-router.get("/google", 
-    (req, res, next) => {
-        console.log("🔵 Starting Google OAuth flow");
-        // Store the return path if provided
-        if (req.query.returnTo) {
-            req.session.returnTo = req.query.returnTo;
-            console.log("📌 Storing return path:", req.query.returnTo);
-        }
-        next();
-    },
-    passport.authenticate("google", { 
-        scope: ["profile", "email"],
-        prompt: "select_account",
-        accessType: "offline" // Request refresh token
-    })
-);
-
-// 🟢 Google Callback Route
-router.get("/google/callback",
-    passport.authenticate('google', { 
-        failureRedirect: '/login',
-        failureMessage: true
-    }),
-    async (req, res, next) => {
         try {
-            const { id, displayName, emails } = req.user;
-            
-            // Find or create user
-            let user = await User.findOne({ 
-                $or: [
-                    { googleId: id },
-                    { email: emails[0].value }
-                ]
-            });
-
-            if (!user) {
-                // Create new user if doesn't exist
-                user = await User.create({
-                    googleId: id,
-                    name: displayName,
-                    email: emails[0].value,
-                    isVerified: true // Google OAuth users are automatically verified
-                });
-            } else if (!user.googleId) {
-                // If user exists but doesn't have googleId
-                user.googleId = id;
-                await user.save();
+            let user = await User.findOne({ email });
+            if (user) {
+                return res.status(400).json({ error: "User already exists with this email" });
             }
 
-            // Log in the user
-            req.login(user, (err) => {
-                if (err) return next(err);
-                
-                const redirectUrl = req.session.returnTo || '/dashboard';
-                delete req.session.returnTo;
+            user = new User({ name, email, password });
+            await user.save();
 
-                const fullRedirectUrl = process.env.NODE_ENV === 'development'
-                    ? `http://localhost:3000${redirectUrl}`
-                    : `${process.env.CLIENT_URL}${redirectUrl}`;
+            const token = generateToken(user);
 
-                res.redirect(fullRedirectUrl);
+            res.status(201).json({
+                token,
+                user: {
+                    id: user._id,
+                    name: user.name,
+                    email: user.email,
+                    role: user.role
+                }
             });
         } catch (error) {
-            next(error);
+            console.error("Registration error:", error);
+            res.status(500).json({ error: "Server error during registration" });
         }
     }
 );
 
-// 🟢 Auth Status Check
-router.get("/status", (req, res) => {
-    if (req.isAuthenticated()) {
-        console.log("✅ User is authenticated:", req.user.email);
-        return res.json({ 
-            isAuthenticated: true, 
-            user: {
-                id: req.user._id,
-                name: req.user.name,
-                email: req.user.email,
-                role: req.user.role
+// 🟢 User Login (with JWT)
+router.post(
+    "/login",
+    [
+        body("email").isEmail().withMessage("Please enter a valid email").normalizeEmail(),
+        body("password").notEmpty().withMessage("Password is required")
+    ],
+    async (req, res) => {
+        const errors = validationResult(req);
+        if (!errors.isEmpty()) {
+            return res.status(400).json({ errors: errors.array() });
+        }
+
+        const { email, password } = req.body;
+
+        try {
+            const user = await User.findOne({ email });
+            if (!user) {
+                return res.status(401).json({ error: "Invalid credentials" });
             }
-        });
+
+            // Since password hashing is disabled, we are directly checking passwords
+            if (password !== user.password) {
+                return res.status(401).json({ error: "Invalid credentials" });
+            }
+
+            const token = generateToken(user);
+
+            res.json({
+                token,
+                user: {
+                    id: user._id,
+                    name: user.name,
+                    email: user.email,
+                    role: user.role
+                }
+            });
+        } catch (error) {
+            console.error("Login error:", error);
+            res.status(500).json({ error: "Server error during login" });
+        }
     }
-    console.log("❌ User is not authenticated");
-    res.json({ isAuthenticated: false });
+);
+
+// 🟢 Logout (Handled on the frontend by deleting token)
+router.post("/logout", (req, res) => {
+    res.json({ message: "Logout successful (Clear token from frontend)" });
 });
 
-// 🟢 Error handling middleware
-router.use((err, req, res, next) => {
-    console.error("❌ Auth error:", err);
-    res.status(500).json({ 
-        error: "Authentication error occurred",
-        message: process.env.NODE_ENV === "development" ? err.message : undefined
-    });
+// 🟢 Authentication Status Check
+router.get("/status", (req, res) => {
+    try {
+        const token = req.header("Authorization")?.split(" ")[1];
+        if (!token) {
+            return res.json({ isAuthenticated: false });
+        }
+
+        const decoded = jwt.verify(token, process.env.JWT_SECRET);
+        res.json({ isAuthenticated: true, user: decoded });
+    } catch (error) {
+        res.json({ isAuthenticated: false });
+    }
 });
 
 module.exports = router;
