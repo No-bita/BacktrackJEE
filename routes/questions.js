@@ -10,11 +10,8 @@ const getQuestionModel = (collectionName) => {
 };
 
 // Hardcoded years and slots
-const years = ["2021", "2022", "2023", "2024"];
+const years = ["2024"];
 const slots = {
-  "2021": ["1", "2", "3"],
-  "2022": ["1", "2"],
-  "2023": ["1", "2", "3", "4"],
   "2024": [
     "Jan 27 Shift 1", "Jan 27 Shift 2", "Jan 29 Shift 1", "Jan 29 Shift 2",
     "Jan 30 Shift 1", "Jan 30 Shift 2", "Jan 31 Shift 1", "Jan 31 Shift 2",
