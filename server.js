@@ -6,6 +6,14 @@ require("dotenv").config();
 // Initialize app
 const app = express();
 
+// Middleware
+app.use(express.json());
+app.use(cors());
+app.use(express.urlencoded({ extended: false }));
+
+// Import Routes
+app.use("/api/auth", require("./routes/auth"));  // ✅ Ensure this matches your route structure
+
 // Connect to MongoDB
 require("./config/db");
 
