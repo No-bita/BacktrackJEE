@@ -89,6 +89,8 @@ app.use(passport.session());
 app.use('/auth', require('./routes/auth'));
 app.use('/api/attempts', require('./routes/attempts'));
 app.use('/api/questions', require('./routes/questions'));
+app.use('/api', require('./routes/signup'));
+
 
 // Error handling middleware
 app.use((err, req, res, next) => {
