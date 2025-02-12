@@ -8,19 +8,16 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-    origin: process.env.NODE_ENV === "production"
-        ? process.env.CLIENT_URL
-        : ["http://localhost:3000", "http://127.0.0.1:3000", "https://no-bita.github.io"],
-    credentials: true,
-    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-    exposedHeaders: ["set-cookie"]
+    origin: ["http://127.0.0.1:5500", "http://localhost:3000"], // Allowed origins
+    credentials: true, // Allow credentials (cookies, authorization headers)
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allowed HTTP methods
+    allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
 };
 
 // Middleware
 app.use(express.json());
-app.use(cors());
 app.use(cors(corsOptions));
+app.options("*", cors(corsOptions));
 app.use(express.urlencoded({ extended: false }));
 // Connect to MongoDB
 require("./config/db");
@@ -40,12 +37,6 @@ Object.entries(requiredEnvVars).forEach(([name, value]) => {
     }
 });
 
-// Middleware
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(cors(corsOptions));
-app.options("*", cors(corsOptions));
-
 // Security headers
 app.use((req, res, next) => {
     res.header("Strict-Transport-Security", "max-age=31536000; includeSubDomains");
@@ -59,7 +50,10 @@ app.set("trust proxy", 1);
 app.use("/api/auth", require("./routes/auth"));
 app.use("/api/attempts", require("./routes/attempts"));
 app.use("/api/questions", require("./routes/questions"));
-
+//add a test 
+app.get("/api/test", (req, res) => {
+    res.json({ message: "Hello from the server!" });
+})
 // Error handling middleware
 app.use((err, req, res, next) => {
     console.error(err.stack);

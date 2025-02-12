@@ -9,7 +9,7 @@
             "(3) T2 = 4π2r3",
             "(4) T2 = 4π2r3"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) 6 km",
             "(4) 4 km"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) 0.5",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) 10.6 m/s",
             "(4) 21.9 m/s"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) 225 N",
             "(4) 120 N"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) Both Statement I and Statement II are false.",
             "(4) Both Statement I and Statement II are true."
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) f t = 3 and f r = 2",
             "(4) f t = 2 and f r = 3"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) 2E",
             "(4) E√2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) Zero",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) 50 W",
             "(4) 100 W"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) Zero",
             "(4) 16×10−2 J"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) A-IV. B-I, C-III, D-II",
             "(4) A-I. B-IV, C-III, D-II"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) λ 1 < λ 2 < λ 3 < λ 4",
             "(4) λ 4 < λ 3 < λ 2 < λ 1"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) 9 : 1",
             "(4) 16 : 1"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) A is not correct but R is correct.",
             "(4) A is correct but R is not correct."
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) NOR gate",
             "(4) OR- gate"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "A bus moving along a straight highway with speed of 72 km/h is brought to halt within 4s after applying the brakes. The distance travelled by the bus during this time (Assume the retardation is uniform) is _____m.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 40,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "In a system two particles of masses m 1 = 3 kg and m 2 = 2 kg are placed at certain distance from each other. The particle of mass m 1 is moved towards the center of mass of the system through a distance 2 cm. In order to keep the center of mass of the system at the original position, the particle of mass m 2 should move towards the center of mass by the distance _____ cm.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "Mercury is filled in a tube of radius 2 cm up to a height of 30 cm. The force exerted by mercury on the bottom of the tube is _____ N. (Given, atmospheric pressure = 105Nm−2 , density of mercury = 1.36×104 kg m− 3, g = 10 m s−2,π = 22) 7",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 177,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "The displacement of a particle executing SHM is given by x = 10sin(wt+ π)m. The time period of motion 3 is 3.14 s. The velocity of the particle at t = 0 is ______m/s.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 10,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "A parallel plate capacitor of capacitance 12.5pF is charged by a battery connected between its plates to potential difference of 12.0 V. The battery is now disconnected and a dielectric slab (ϵ r = 6) is inserted between the plates. The change in its potential energy after inserting the dielectric slab is _____ 10−12 J.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 750,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "Two wires A and B are made up of the same material and have the same mass. Wire A has radius of 2.0 mm and wire B has radius of 4.0 mm. The resistance of wire B is 2Ω. The resistance of wire A is _____Ω. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (04 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 32,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "Two parallel long current carrying wire separated by a distance 2r are shown in the figure. The ratio of magnetic field at A to the magnetic field produced at C is x . The value of x is _____ 7",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "A rod of length 60 cm rotates with a uniform angular velocity 20rads−1 about its perpendicular bisector, in a uniform magnetic filed 0.5T. The direction of magnetic field is parallel to the axis of rotation. The potential difference between the two ends of the rod is _____V.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 0,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "A light ray is incident on a glass slab of thickness 4√3 cm and refractive index √2 . The angle of incidence is equal to the critical angle for the glass slab with air. The lateral displacement of ray after passing through glass slab is _____ cm. ( Given sin15∘ = 0.25)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "The disintegration energy Q for the nuclear fission of 235U → 140Ce+94Zr+n is ______ MeV. Given atomic masses of 235U : 235.0439u;140Ce : 139.9054u, 94Zr : 93.9063u;n : 1.0086u, Value of c2 = 931MeV/u",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 208,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) Compounds are formed when atoms of different",
             "(4) Compounds are formed when atoms of different"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -362,7 +362,7 @@
             "(3) Tl > Ga > Al",
             "(4) B > Al > Ga"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) Both Statement I and Statement II are false",
             "(4) Both Statement I and Statement II are true"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) A only",
             "(4) A, B, C only"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) 2",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) 41.6",
             "(4) 416"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) d > c > b > a",
             "(4) c > b > d > a"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -440,7 +440,7 @@
             "(3) quinol",
             "(4) resorcinol"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) C and D only",
             "(4) A and B only"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) O 3,Zn/H 2O and KMnO 4",
             "(4) H 2O,H+ and NaOH"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -492,7 +492,7 @@
             "(3) Scm2 mol−3/2 L",
             "(4) Scm2 mol−1 L1/2"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -505,7 +505,7 @@
             "(3) A, B, D only",
             "(4) A, B, C only"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -518,7 +518,7 @@
             "(3) KNO 3",
             "(4) NH 4Cl"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -531,7 +531,7 @@
             "(3) 23",
             "(4) 22"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -544,7 +544,7 @@
             "(3) 6",
             "(4) 3"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -555,13 +555,22 @@
             "(1) 2",
             "(2) 1",
             "(3) 0",
-            "(4) 4",
-            "(1) B = 1-Propanol C = 2-Propanol",
-            "(2) B = C = 2-Propanol",
-            "(3) B = 2-Propanol C = 1-Propanol",
-            "(4) B = C = 1-Propanol"
+            "(4) 4"
         ],
-        "answer": null,
+        "answer": 3,
+        "image": null
+    },
+    {
+        "question_id": 48,
+        "question": "The number of unpaired d-electrons in [Co(H 2O) 6]3+ is −Q48.CH 3 −CH 2 −CH 2 −Br+NaOH C2H5O →H Product 'A' Consider the above reactions, identify product B and product C.",
+        "type": "MCQ",
+        "options": [
+            "(1) 2",
+            "(2) 1",
+            "(3) 0",
+            "(4) 4"
+        ],
+        "answer": 3,
         "image": null
     },
     {
@@ -574,7 +583,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -587,7 +596,7 @@
             "(3) A-IV, B-III, C-II, D-I",
             "(4) A-III, B-IV, C-II, D-I"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -595,7 +604,7 @@
         "question": "The maximum number of orbitals which can be identified with n = 4 and m l = 0 is ______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (04 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -603,7 +612,7 @@
         "question": "Number of compounds / species from the following with non-zero dipole moment is ______ BeCl ,BCl ,NF ,XeF ,CCl ,H O,H S,HBr,CO ,H ,HCl 2 3 3 4 4 2 2 2 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -611,7 +620,7 @@
         "question": "Three moles of an ideal gas are compressed isothermally from 60 L to 20 L using constant pressure of 5 atm. Heat exchange Q for the compression is - ______ Lit. atm.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 200,
         "image": null
     },
     {
@@ -619,7 +628,7 @@
         "question": "The total number of 'sigma' and 'Pi' bonds in 2-oxohex-4-ynoic acid is ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 18,
         "image": null
     },
     {
@@ -627,7 +636,7 @@
         "question": "2.7 kg of each of water and acetic acid are mixed. The freezing point of the solution will be −x∘C. Consider the acetic acid does not dimerise in water, nor dissociates in water. x = ______ (nearest integer) [Given: Molar mass of water = 18 g mol−1 , acetic acid = 60 g mol−1 K fH 2O : 1.86 K kg mol−1 K f acetic acid: 3.90 K kg mol−1 freezing point: H 2O = 273 K, acetic acid = 290 K]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 31,
         "image": null
     },
     {
@@ -635,7 +644,7 @@
         "question": "Consider the following reaction, the rate expression of which is given below A+B → C rate = k[A]1/2[ B]1/2 The reaction is initiated by taking 1M concentration of A and B each. If the rate constant (k) is 4.6×10−2 s−1 , then the time taken for A to become 0.1M is ______ sec. (nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 50,
         "image": null
     },
     {
@@ -643,7 +652,7 @@
         "question": "A first row transition metal with highest enthalpy of atomisation, upon reaction with oxygen at high temperature forms oxides of formula M 2O n (where n = 3,4, 5). The 'spin-only' magnetic moment value of the amphoteric oxide from the above oxides is ______ BM (near integer) (Given atomic number: Sc : 21,Ti : 22, V : 23,Cr : 24,Mn : 25,Fe : 26,Co : 27, Ni : 28,Cu : 29,Zn : 30)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 0,
         "image": null
     },
     {
@@ -651,7 +660,7 @@
         "question": "Phthalimide is made to undergo following sequence of reactions. Total number of π bonds present in product 'P' is/are ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -659,7 +668,7 @@
         "question": "From 6.55 g of aniline, the maximum amount of acetanilide that can be prepared will be ______ ×10−1 g.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 95,
         "image": null
     },
     {
@@ -667,7 +676,7 @@
         "question": "Vanillin compound obtained from vanilla beans, has total sum of oxygen atoms and π electrons is ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 11,
         "image": null
     },
     {
@@ -681,7 +690,7 @@
             "(4) ",
             "(101) 2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -694,7 +703,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -707,7 +716,7 @@
             "(3) 120",
             "(4) 312"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -720,7 +729,7 @@
             "(3) 28",
             "(4) 14"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -733,7 +742,7 @@
             "(3) √2−1",
             "(4) 2−√3"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -746,7 +755,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -759,7 +768,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -772,7 +781,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -785,7 +794,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -798,7 +807,7 @@
             "(3) Neither",
             "(4) Only"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -811,7 +820,7 @@
             "(3) -88",
             "(4) -110"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -824,7 +833,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -837,7 +846,7 @@
             "(3) 746",
             "(4) 1250"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -850,7 +859,7 @@
             "(3) 24",
             "(4) 44"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -863,7 +872,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -876,7 +885,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -890,7 +899,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -903,7 +912,7 @@
             "(3) 9",
             "(4) 6"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -916,7 +925,7 @@
             "(3) 25",
             "(4) 20"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -929,7 +938,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -937,7 +946,7 @@
         "question": "There are 4 men and 5 women in Group A, and 5 men and 4 women in Group B. If 4 persons are selected from each group, then the number of ways of selecting 4 men and 4 women is _____",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5626,
         "image": null
     },
     {
@@ -945,7 +954,7 @@
         "question": "Let S = {sin22θ : (sin4θ+cos4θ)x2 +(sin2θ)x+(sin6θ+cos6θ) = 0 has real roots }. If α and β be the smallest and largest elements of the set S, respectively, then 3((α−2)2 +(β−1)2) equals _________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -953,7 +962,7 @@
         "question": "Consider a triangle ABC having the vertices A(1,2),B(α,β) and C(γ,δ) and angles ∠ABC = π and 6 ∠BAC = 2π . If the points B and C lie on the line y = x+4, then α2 +γ2 is equal to ________ 3 1 3",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 14,
         "image": null
     },
     {
@@ -961,7 +970,7 @@
         "question": "Let A be a 2×2 symmetric matrix such that A[ ] = [ ] and the determinant of A be 1 . If A−1 = αA+βI, 1 7 where I is an identity matrix of order 2×2, then α+β equals _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -969,7 +978,7 @@
         "question": "Consider the function f : R → R defined by f(x) = 2x . If the composition of √1+9x2 f,(f ∘f ∘f ∘⋯∘f)(x) = 210x , then the value of √3α+1 is equal to ______    √1+9αx2 10 times",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1024,
         "image": null
     },
     {
@@ -979,7 +988,7 @@
         "options": [
             "(4) = −2. Then, the minimum number of zeros of"
         ],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -987,7 +996,7 @@
         "question": "If ∫ cosec5xdx = αcotxcosecx(cossc2x+ 3 2)+βlog ϵ tan x 2 +C where α,β ∈ R and C is the constant of integration, then the value of 8(α+β) equals _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -995,7 +1004,7 @@
         "question": "Let y = y(x) be the solution of the differential equation (x+y+2)2dx = dy,y(0) = −2. Let the maximum and minimum values of the function y = y(x) in [0, π] be α and β, respectively. If 3 (3α+π)2 +β2 = γ+δ√3,γ,δ ∈ Z, then γ+δ equals ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 31,
         "image": null
     },
     {
@@ -1003,7 +1012,7 @@
         "question": "Consider a line L passing through the points P(1,2,1) and Q(2,1,−1). If the mirror image of the point A(2,2,2) in the line L is (α,β,γ), then α+β+6γ is equal to _______ 1 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -1011,7 +1020,7 @@
         "question": "In a tournament, a team plays 10 matches with probabilities of winning and losing each match as and 3 3 respectively. Let x be the number of matches that the team wins, and y be the number of matches that team loses. If the probability P(|x−y| ≤ 2) is p, then 39p equals ______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8288,
         "image": null
     }
 ]

@@ -9,7 +9,7 @@
             "(3) tan−1",
             "(4) tan−1"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) 4.6 s",
             "(4) 4.62 s"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) Energy per unit mass",
             "(4) Force per unit mass"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) 294 N",
             "(4) 297 N"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) 2 : 1",
             "(4) 1 : 1"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) 17",
             "(4) 67"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) T 1 = T 2",
             "(4) 3 T 1 = 2 T 2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) Statement I is false but Statement II is true",
             "(4) Statement I is true and Statement II is false"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) 616 J",
             "(4) 431.2 J"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) 10.5Ω and 1 A",
             "(4) 12Ω and 11.4 A"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) inside the inner conductor",
             "(4) in between the two conductors"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) μ 0 ⋅ a2",
             "(4) μ 0πa2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) 8 A",
             "(4) 13 A"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) spherical",
             "(4) cylindrical"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) Both Statement I and Statement II are incorrect",
             "(4) Statement I is correct and Statement II is"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) 2E = 3U",
             "(4) E = 2U"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) A = 1, B = 0,C = 0,D = 0",
             "(4) A = 1, B = 1,C = 1,D = 0"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "A body moves on a frictionless plane starting from rest. If S n is distance moved between t = n−1 and t = n and S n−1 is distance moved between t = n−2 and t = n−1, then the ratio S n S−1 is (1− x2) for n = 10. The n value of x is ______.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 19,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "Three blocks M 1,M 2,M 3 having masses 4 kg,6 kg and 10 kg respectively are hanging from a smooth pully using rope 1,2 and 3 as shown in figure. The tension in the rope 1,T 1 when they are moving upward with Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo acceleration of 2 ms−2 is _____N( if g = 10 m/s2 ).",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 240,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "The density and breaking stress of a wire are 6×104 kg/m3 and 1.2×108 N/m2 respectively. The wire is 1rd suspended from a rigid support on a planet where acceleration due to gravity is of the value on the surface 3 of earth. The maximum length of the wire with breaking is _____ m (take, g = 10 m/s2 ).",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 600,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "Three capacitors of capacitances 25μF,30μF and 45μF are connected in parallel to a supply of 100 V. Energy stored in the above combination is E. When these capacitors are connected in series to the same supply, the stored energy is 9E. The value of x is _____. x",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 86,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "The electric field between the two parallel plates of a capacitor of 1.5μF capacitance drops to one third of its initial value in 6.6μs when the plates are connected by a thin wire. The resistance of this wire is _____Ω. (Given, log3 = 1.1 )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "In the experiment to determine the galvanometer resistance by half-deflection method, the plot of 1/θ vs the resistance (R) of the resistance box is shown in the figure. The figure of merit of the galvanometer is _____ ×10−1 A/ division. [The source has emf 2V]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "A 2 A current carrying straight metal wire of resistance 1Ω, resistivity 2×10−6Ωm, area of cross-section 10 mm2 and mass 500 g is suspended horizontally in mid air by applying a uniform magnetic field B→ . The magnitude of B is _____×10−1 T (given, g = 10 m/s2 ). Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "An ac source is connected in given series LCR circuit. The rms potential difference across the capacitor of 20μF is _____V.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 50,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "In Young's double slit experiment, carried out with light of wavelength 5000\\AA, the distance between the slits is 0.3 mm and the screen is at 200 cm from the slits. The central maximum is at x = 0 cm. The value of x for third maxima is _____mm.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 10,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "If three helium nuclei combine to form a carbon nucleus then the energy released in this reaction is _____ ×10−2MeV. (Given 1u = 931MeV/c2, atomic mass of helium = 4.002603u )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 727,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) C 12H 22O 11",
             "(4) C 14H 20O 10"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -362,7 +362,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) Both Statement I and Statement II are incorrect",
             "(4) Statement I is correct but Statement II is incorrect"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) Both",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) Addition of Fe 2O 3",
             "(4) Removal of CO"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) 4",
             "(4) 6"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -440,7 +440,7 @@
             "(3) 3 and 1",
             "(4) 5 and 1"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) ",
             "(4) Both"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) Both Statement I and Statement II are correct",
             "(4) Both Statement I and Statement II are incorrect"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -492,7 +492,7 @@
             "(3) oxidation of Mn from +3 to +4",
             "(4) oxidation of Mn from +2 to +7"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -505,7 +505,7 @@
             "(3) 130 S cm2 mol−1",
             "(4) 65 S cm2 mol−1"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -518,7 +518,7 @@
             "(3) Co",
             "(4) Ti"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -531,7 +531,7 @@
             "(3) [Co",
             "(4) [Mn"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -544,7 +544,7 @@
             "(3) H 2O < −OH < CN− < NH 3",
             "(4) Cl− < −OH < Br− < CN−"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -557,7 +557,7 @@
             "(3) Statement I is false but Statement II is true",
             "(4) Both Statement I and Statement II are false"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -570,7 +570,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -583,7 +583,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -596,7 +596,7 @@
             "(3) Polyvinyl chloride",
             "(4) Cellulose"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -604,7 +604,7 @@
         "question": "9.3 g of pure aniline is treated with bromine water at room temperature to give a white precipitate of the product ' P '. The mass of product ' P ' obtaind is 26.4 g. The percentage yield is _______ %.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 80,
         "image": null
     },
     {
@@ -612,7 +612,7 @@
         "question": "The value of Rydberg constant (R H) is 2.18×10−18 J. The velocity of electron having mass 9.1×10−31 kg in Bohr's first orbit of hydrogen atom = _______ ×105 ms−1 (nearest integer).",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 22,
         "image": null
     },
     {
@@ -620,7 +620,7 @@
         "question": "In the lewis dot structure for NO− , total number of valence electrons around nitrogen is _______ 2 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -628,7 +628,7 @@
         "question": "The heat of combustion of solid benzoic acid at constant volume is −321.30 kJ at 27∘C. The heat of combustion at constant pressure is (−321.30−xR)kJ, the value of x is _______.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 150,
         "image": null
     },
     {
@@ -636,7 +636,7 @@
         "question": "An artificial cell is made by encapsulating 0.2M glucose solution within a semipermeable membrane. The osmotic pressure developed when the artificial cell is placed within a 0.05M solution of NaCl at 300 K is _______ ×10−1 bar. (nearest integer). [Given : R = 0.083 Lbarmol−1 K−1 ] Assume complete dissociation of NaCl",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 25,
         "image": null
     },
     {
@@ -644,7 +644,7 @@
         "question": "During Kinetic study of reaction 2A+B → C+D, the following results were obtained : A[M] B[M] initialrateof formationof D I 0.1 0.1 6.0×10−3 II 0.3 0.2 7.20×10−2 Based on above data, overall order of the reaction is III 0.3 0.4 2.88×10−1 IV 0.4 0.1 2.40×10−2 ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -652,7 +652,7 @@
         "question": "The spin-only magnetic moment value of the ion among Ti2+,V2+,Co3+ and Cr2+ , that acts as strong oxidising agent in aqueous solution is _______ BM (Near integer). (Given atomic numbers : Ti : 22, V : 23,Cr : 24,Co : 27)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -660,7 +660,7 @@
         "question": "The number of halobenzenes from the following that can be prepared by Sandmeyer's reaction is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -668,7 +668,7 @@
         "question": "Consider the given chemical reaction sequence : Total sum of oxygen atoms in Product A and Product B are _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 14,
         "image": null
     },
     {
@@ -676,7 +676,7 @@
         "question": "In a borax bead test under hot condition, a metal salt (one from the given) is heated at point B of the flame, Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣ JEE Main 2024 (05 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo resulted in green colour salt bead. The spin-only magnetic moment value of the salt is _______ BM (Nearest integer) [Given atomic number of Cu = 29,Ni = 28,Mn = 25,Fe = 26]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -689,7 +689,7 @@
             "(3) both Statement I and Statement II are incorrect.",
             "(4) Statement I is incorrect but Statement II is"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -702,7 +702,7 @@
             "(3) 11",
             "(4) 11"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -715,7 +715,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -728,7 +728,7 @@
             "(3) 44",
             "(4) 48"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -741,7 +741,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -754,7 +754,7 @@
             "(3) 4",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -767,7 +767,7 @@
             "(3) 12",
             "(4) 13"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -780,7 +780,7 @@
             "(3) 81",
             "(4) 64"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -793,7 +793,7 @@
             "(3) 47",
             "(4) 49"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -801,14 +801,12 @@
         "question": "Let A = {1,3,7,9,11} and B = {2,4,5,7,8,10,12}. Then the total number of one-one maps f : A → B,",
         "type": "MCQ",
         "options": [
-            "(1) +f",
-            "(3) = 14, is :",
             "(1) 480",
             "(2) 240",
             "(3) 120",
             "(4) 180"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -822,7 +820,7 @@
             "(3) 7",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -835,7 +833,7 @@
             "(3) 4",
             "(4) -4"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -848,7 +846,7 @@
             "(3) 64",
             "(4) 80"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -861,7 +859,7 @@
             "(3) neither",
             "(4) both"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -874,7 +872,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -887,7 +885,7 @@
             "(3) 3π−10log",
             "(4) 3π−30log 2+20log 5"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -900,7 +898,7 @@
             "(3) e−π/4",
             "(4) e−π/8"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -913,7 +911,7 @@
             "(3) 5",
             "(4) 6"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -926,7 +924,7 @@
             "(3) 72",
             "(4) 75"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -939,7 +937,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -947,7 +945,7 @@
         "question": "The number of ways of getting a sum 16 on throwing a dice four times is______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 125,
         "image": null
     },
     {
@@ -955,7 +953,7 @@
         "question": "Let a 1,a 2,a 3,… be in an arithmetic progression of positive terms. Let A k = a2 1 −a2 2 +a2 3 −a2 4 +…+a2 2k−1 −a2 2k. If A 3 = −153, A 5 = −435 and a2 1 +a2 2 +a2 3 = 66, then a 17 −A 7 is equal to______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 910,
         "image": null
     },
     {
@@ -963,7 +961,7 @@
         "question": "If the constant term in the expansion of (1+2x−3x3)(3x2 − 1 )9 is p, then 108p is equal to 2 3x",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 54,
         "image": null
     },
     {
@@ -971,7 +969,7 @@
         "question": "Suppose AB is a focal chord of the parabola y2 = 12x of length l and slope m < √3. If the distance of the chord AB from the origin is d, then l d2 is equal to _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 108,
         "image": null
     },
     {
@@ -982,7 +980,7 @@
             "(2) +3f",
             "(3) is equal to _______"
         ],
-        "answer": null,
+        "answer": 24,
         "image": null
     },
     {
@@ -990,7 +988,7 @@
         "question": "From a lot of 10 items, which include 3 defective items, a sample of 5 items is drawn at random. Let the random variable X denote the number of defective items in the sample. If the variance of X is σ2 , then 96σ2 is equal to ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 56,
         "image": null
     },
     {
@@ -998,7 +996,7 @@
         "question": "The number of distinct real roots of the equation |x||x+2|−5|x+1|−1 = 0 is_______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -1006,7 +1004,7 @@
         "question": "If S = {a ∈ R : |2a−1| = 3[a]+2{a}}, where [t] denotes the greatest integer less than or equal to t and {t} represents the fractional part of t, then 72∑ a is equal to ______ a∈S",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 18,
         "image": null
     },
     {
@@ -1014,7 +1012,7 @@
         "question": "The area of the region enclosed by the parabolas y = x2 −5x and y = 7x−x2 is",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 72,
         "image": null
     },
     {
@@ -1022,7 +1020,7 @@
         "question": "Let → a =^i−3^j+7k^,→ b = 2^i−^j+k^ and→ c be a vector such that (→ a+2→ b)×→ c = 3(→ c×→ a). If a→⋅c→= 130, then →b⋅c→ is equal to _______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 30,
         "image": null
     }
 ]

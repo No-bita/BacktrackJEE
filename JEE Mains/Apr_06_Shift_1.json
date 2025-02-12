@@ -9,7 +9,7 @@
             "(3) 3%",
             "(4) 4%"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) A-IV, B-III, C-II, D-I",
             "(4) A-I, B-III, C-II, D-IV"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) 30",
             "(4) 70"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) 32%",
             "(4) 44%"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) D",
             "(4) C"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) mgR E",
             "(4) 1/2mgR E"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) mg",
             "(4) mg"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) C V + 2R V",
             "(4) R"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) σ/4ϵ o",
             "(4) σ/2ϵ o"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) 9Ω",
             "(4) 6Ω"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) 8×10−8 T",
             "(4) 12×10−8 T"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) Both Statement I and Statement II are true",
             "(4) Both Statement I and Statement II are false"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) 5",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) 1.98eV",
             "(4) 0.5eV"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) C only",
             "(4) A, C only"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) 2 : 1",
             "(4) 1 : 2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) A B Y",
             "(4) A B Y"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) 71",
             "(4) 42"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "For three vectors A→ = (−x^i−6^j−2k^ ),B→ = (−^i+4^j+3k^ ) and C→ = (−8^i−^j+3k^ ), if A→ ⋅(B→ ×C→ ) = 0, then value of x is _________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "If the radius of earth is reduced to three-fourth of its present value without change in its mass then value of duration of the day of earth will be ______ hours 30 minutes.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 13,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "A big drop is formed by coalescing 1000 small droplets of water. The ratio of surface energy of 1000 droplets to that of energy of big drop is 10 . The value of x is __________ x",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "A particle is doing simple harmonic motion of amplitude 0.06 m and time period 3.14 s. The maximum velocity of the particle is _______ cm/s.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 12,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "Three infinitely long charged thin sheets are placed as shown in figure. The magnitude of electric field at the point P is xσ . The value of x is _______ (all quantities are measured in SI units). ϵ o Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "A wire of resistance R and radius r is stretched till its radius became r/2. If new resistance of the stretched wire is xR, then value of x is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "A circular coil having 200 turns, 2.5×10−4 m2 area and carrying 100μA current is placed in a uniform → → magnetic field of 1T. Initially the magnetic dipole moment (M) was directed along B. Amount of work, required to rotate the coil through 90∘ from its initial orientation such that M→ becomes perpendicular to B→ , is ______ μJ.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "When a dc voltage of 100 V is applied to an inductor, a dc current of 5 A flows through it. When an ac voltage of 200 V peak value is connected to inductor, its inductive reactance is found to be 20√3Ω. The power dissipated in the circuit is _______ W.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 250,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "The refractive index of prism is μ = √3 and the ratio of the angle of minimum deviation to the angle of prism is one. The value of angle of prism is _______.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 60,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "Radius of a certain orbit of hydrogen atom is 8.48Ã…. If energy of electron in this orbit is E/x. then x = _____ (Given a 0 = 0.529Ã…,E = energy of electron in ground state).",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) 2.8",
             "(4) 3.0"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -362,7 +362,7 @@
             "(3) A and D only",
             "(4) A, B, D and E only"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) Germanium",
             "(4) Graphite"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) A-III, B-I, C-IV, D-II",
             "(4) A-II, B-I, C-IV, D-III"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) A-III, B-IV, C-II, D-I",
             "(4) A-III, B-II, C-IV, D-I"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) A-IV, B-I, C-III, D-II",
             "(4) A-III, B-IV, C-II, D-I"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) 2",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -440,7 +440,7 @@
             "(3) ",
             "(4) −SO 2"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) A, B, D only",
             "(4) B, C, D only"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) Both Statement I and Statement II are false",
             "(4) Statement I is true but Statement II is false"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -492,7 +492,7 @@
             "(3) remain same or can not be measured accurately",
             "(4) depend upon type of electrolyte"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -505,7 +505,7 @@
             "(3) 1",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -518,7 +518,7 @@
             "(3) A-II, B-IV, C-I, D-III",
             "(4) A-III, B-II, C-IV, D-I"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -531,7 +531,7 @@
             "(3) A < C < B < D",
             "(4) D < A < C < B"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -544,7 +544,7 @@
             "(3) Statement I is correct but Statement II is",
             "(4) Both Statement I and Statement II are correct"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -557,7 +557,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -570,7 +570,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -583,7 +583,7 @@
             "(3) A-IV, B-III, C-II, D-I",
             "(4) A-IV, B-III, C-I, D-II"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -596,7 +596,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -604,7 +604,7 @@
         "question": "Frequency of the de-Broglie wave of electron in Bohr's first orbit of hydrogen atom is _______ ×1013 Hz [Given: R ( Rydbergconstant ) = 2.18×10−18 J,h (Plank's H (nearest integer). constant ) = 6.6×10−34 J.s.]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 661,
         "image": null
     },
     {
@@ -612,7 +612,7 @@
         "question": "Number of molecules from the following which can exhibit hydrogen bonding is _______ (nearest integer) –",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -620,7 +620,15 @@
         "question": "An ideal gas, C v = 5 2R, is expanded adiabatically against a constant pressure of 1 atm untill it doubles in volume. If the initial temperature and pressure is 298 K and 5 atm, respectively then the final temperature is – _______ K (nearest integer). [C v is the molar heat capacity at constant volume] Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo ′′ −Q54. The major product of the following reaction is P. CH 3C = C−CH 3 (i) Na/ ing NH →3 Number of oxygen (ii)dil. KMnO 4 273 K atoms present in product ' P ' is _______ (nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 274,
+        "image": null
+    },
+    {
+        "question_id": 54,
+        "question": "Consider the dissociation of the weak acid HX as given below HX(aq) ⇌ H+(aq)+X−(aq),Ka = 1.2×10−5 [K a : dissociation constant ] The osmotic pressure of 0.03M aqueous solution of HX at 300 K is _______ ×10−2 bar (nearest integer). [Given : R = 0.083 Lbarmol−1 K−1 ]",
+        "type": "Integer",
+        "options": [],
+        "answer": 2,
         "image": null
     },
     {
@@ -628,7 +636,7 @@
         "question": "Consider the dissociation of the weak acid HX as given below HX(aq) ⇌ H+(aq)+X−(aq),Ka = 1.2×10−5 [K a : dissociation constant ] The osmotic pressure of 0.03M aqueous solution of HX at 300 K is _______ ×10−2 bar (nearest integer). [Given : R = 0.083 Lbarmol−1 K−1 ]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 76,
         "image": null
     },
     {
@@ -636,7 +644,7 @@
         "question": "Time required for 99.9% completion of a first order reaction is _______ times the time required for completion of 90% reaction.(nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -644,7 +652,7 @@
         "question": "Among CrO,Cr 2O 3 and CrO 3, the sum of spin-only magnetic moment values of basic and amphoteric oxides is _______ 10−2BM (nearest integer). (Given atomic number of Cr is 24)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 877,
         "image": null
     },
     {
@@ -652,7 +660,7 @@
         "question": "The difference in the 'spin-only' magnetic moment values of KMnO 4 and the manganese product formed during titration of KMnO 4 against oxalic acid in acidic medium is _______ BM. (nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -660,7 +668,7 @@
         "question": "The major products from the following reaction sequence are product A and product B. The total sum of π electrons in product A and product B are _______ (nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -668,7 +676,7 @@
         "question": "9.3 g of pure aniline upon diazotisation followed by coupling with phenol gives an orange dye. The mass of orange dye produced (assume 100\\% yield/conversion) is _______ g. (nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 20,
         "image": null
     },
     {
@@ -681,7 +689,7 @@
             "(3) −1/2",
             "(4) 1/4"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -694,7 +702,7 @@
             "(3) 24",
             "(4) 16"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -707,7 +715,7 @@
             "(3) 300",
             "(4) 310"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -720,7 +728,7 @@
             "(3) 15",
             "(4) 10"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -733,7 +741,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -746,7 +754,7 @@
             "(3) 396",
             "(4) 312"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -759,7 +767,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -772,7 +780,7 @@
             "(3) 3 + π",
             "(4) 5 + π"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -785,7 +793,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -798,7 +806,7 @@
             "(3) 8",
             "(4) 10"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -811,7 +819,7 @@
             "(3) 2α+4β",
             "(4) 2n"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -825,7 +833,7 @@
             "(4) neither one-one nor onto.",
             "(1) ,x ≠ 0"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -842,7 +850,7 @@
             "(4) f′′",
             "(0) = 0"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -855,7 +863,7 @@
             "(3) [1,∞)]",
             "(4) [ 1 ,1)"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -868,7 +876,7 @@
             "(3) 1/12",
             "(4) 1/9"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -881,7 +889,7 @@
             "(3) 154",
             "(4) 184"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -894,7 +902,7 @@
             "(3) 1",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -907,7 +915,7 @@
             "(3) − 2",
             "(4) −2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -920,7 +928,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -933,7 +941,7 @@
             "(3) 64",
             "(4) 56"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -941,7 +949,7 @@
         "question": "Let x 1,x 2,x 3,x 4 be the solution of the equation 4x4 +8x3 −17x2 −12x+9 = 0 and (4+x2)(4+x2)(4+x2)(4+x2) = 125m. Then the value of m is 1 2 3 4 16",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 221,
         "image": null
     },
     {
@@ -949,7 +957,7 @@
         "question": "Let the first term of a series be T 1 = 6 and its rth term T r = 3T r−1 +6r,r = 2,3, n. If the sum of the first n terms of this series is 1(n2 −12n+39)(4⋅6n −5⋅3n +1), then n is equal to______ 5 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -957,7 +965,7 @@
         "question": "If the second, third and fourth terms in the expansion of (x+y)n are 135,30 and 10 , respectively, then 3 6(n3 +x2 +y) is equal to _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 806,
         "image": null
     },
     {
@@ -965,7 +973,7 @@
         "question": "Let a conic C pass through the point (4,−2) and P(x,y),x ≥ 3, be any point on C. Let the slope of the line touching the conic C only at a single point P be half the slope of the line joining the points P and (3,−5). If the focal distance of the point (7,1) on C is d, then 12d equals ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 75,
         "image": null
     },
     {
@@ -973,7 +981,7 @@
         "question": "Let L 1,L 2 be the lines passing through the point P(0,1) and touching the parabola 9x2 +12x+18y−14 = 0. Let Q and R be the points on the lines L 1 and L 2 such that the △PQR is an isosceles triangle with base QR. If the slopes of the lines QR are m 1 and m 2, then 16(m2 1 +m2 2) is equal to _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 68,
         "image": null
     },
     {
@@ -981,7 +989,7 @@
         "question": "Let αβγ = 45;α,β,γ ∈ R. If x(α,1,2)+y(1,β,2)+z(2,3,γ) = (0,0,0) for some x,y,z ∈ R,xyz ≠ 0, then 6α+4β+γ is equal to _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 55,
         "image": null
     },
     {
@@ -989,7 +997,7 @@
         "question": "For n ∈ N, if cot−13+cot−14+cot−15+cot−1n = π , then n is equal to_____ 4",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 47,
         "image": null
     },
     {
@@ -997,7 +1005,7 @@
         "question": "Let r k = ∫∫ 101 (1(1 −− xx 7)7 k) +k 1d dx x,k ∈ N. Then the value of ∑1 k0 =1 7(rk1 −1) is equal to________ 0",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 65,
         "image": null
     },
     {
@@ -1005,7 +1013,7 @@
         "question": "Let a→ = 2^ i−3^ j+4k^ ,→ b = 3^ i+4^ j−5k^ and a vector c→ be such that a→×(→ b+c→)+→ b×c→=^ i+8^ j+13k^ . If → a→⋅c→= 13, then (24−b⋅c→) is equal to_______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 46,
         "image": null
     },
     {
@@ -1013,7 +1021,7 @@
         "question": "Let P be the point (10,−2,−1) and Q be the foot of the perpendicular drawn from the point R(1,7,6) on the line passing through the points (2,−5,11) and (−6,7,−5). Then the length of the line segment PQ is equal to ________ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 13,
         "image": null
     }
 ]

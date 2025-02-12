@@ -9,7 +9,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) 14.7 N",
             "(4) 1470 N"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) 8.4×104 km",
             "(4) 1.68×105 km"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) It is a custom",
             "(4) To conduct excess charge due to air friction to"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) 20",
             "(4) 200"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) 4 : 1",
             "(4) 1 : 1"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) F = qE,F = q",
             "(4) F = qV ⋅E,F = q"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) 10 A",
             "(4) 10 mA"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) Both Statement I and Statement II are true",
             "(4) Both Statement I and Statement II are false"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) It depends on the nature of emitter material.",
             "(4) It depends upon frequency of the incident light."
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) A = 0, B = 0",
             "(4) A = 1, B = 1"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) 5",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "The maximum height reached by a projectile is 64 m. If the initial velocity is halved, the new maximum height of the projectile is _____ m. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "A hollow sphere is rolling on a plane surface about its axis of symmetry. The ratio of rotational kinetic energy to its total kinetic energy is x . The value of x is _____ . 5",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "A hydraulic press containing water has two arms with diameters as mentioned in the figure. A force of 10 N is applied on the surface of water in the thinner arm. The force required to be applied on the surface of water in the thicker arm to maintain equilibrium of water is _____N.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1000,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "A sonometer wire of resonating length 90 cm has a fundamental frequency of 400 Hz when kept under some tension. The resonating length of the wire with fundamental frequency of 600 Hz under same tension _____cm .",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 60,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "The electric field at point p due to an electric dipole is E. The electric field at point R on equitorial line will be E . The value of x : x",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "A wire of resistance 20Ω is divided into 10 equal parts, resulting pairs. A combination of two parts are connected in parallel and so on. Now resulting pairs of parallel combination are connected in series. The equivalent resistance of final combination is _____ Ω.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "A solenoid of length 0.5 m has a radius of 1 cm and is made up of ' m ' number of turns. It carries a current of 5 A. If the magnitude of the magnetic field inside the solenoid is 6.28×10−3 T then the value of m is _____.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 500,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "The current in an inductor is given by I = (3t+8) where t is in second. The magnitude of induced emf produced in the inductor is 12mV. The self-inductance of the inductor _____ mH.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "In a single slit experiment, a parallel beam of green light of wavelength 550 nm passes through a slit of width 0.20 mm. The transmitted light is collected on a screen 100 cm away. The distance of first order minima from the central maximum will be x×10−5 m. The value of x is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 275,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "The shortest wavelength of the spectral lines in the Lyman series of hydrogen spectrum is 915Ã…. The longest wavelength of spectral lines in the Balmer series will be _____ Ã….",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6588,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) 0.75",
             "(4) 0.25"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -362,7 +362,7 @@
             "(3) Both Statement I and Statement II are true",
             "(4) Statement I is correct but Statement II is false"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) Both",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) Both Statement I and Statement II are incorrect",
             "(4) Statement I is incorrect but Statement II is correct"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) 2-carboxy-4-hydroxyhept-7-enal",
             "(4) 2-carboxy-4-hydroxyhept-6-enal"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -440,7 +440,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) adipic acid",
             "(4) oxalic acid"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) 1 chemical equivalent of silver",
             "(4) 0.1 g atom of silver"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -492,7 +492,7 @@
             "(3) E cell = −0.80 V",
             "(4) M2+ +X2− → M+X is a spontaneous reaction"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -505,7 +505,7 @@
             "(3) 1",
             "(4) 0"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -518,7 +518,7 @@
             "(3) make the medium strongly acidic",
             "(4) increase the rate of formation of crystals"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -531,7 +531,7 @@
             "(3) 3",
             "(4) 2"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -544,7 +544,7 @@
             "(3) 4",
             "(4) 3"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -557,7 +557,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -570,7 +570,7 @@
             "(3) Methanal",
             "(4) Methane"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -583,7 +583,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -596,7 +596,7 @@
             "(3) Biological property of protein remains unchanged",
             "(4) Breaking of the peptide linkage in the primary"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -604,7 +604,7 @@
         "question": "In an atom, total number of electrons having quantum numbers n = 4,| m l| = 1 and m s = −1 2 is ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -612,7 +612,7 @@
         "question": "Number of compounds from the following with zero dipole moment is ______ HF,H ,H S,CO ,NH ,BF ,CH ,CHCl ,SiF ,H O,BeF 2 2 2 3 3 4 3 4 2 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -620,7 +620,7 @@
         "question": "Combustion of 1 mole of benzene is expressed at C 6H 6(l)+ 1 25O 2( g) → 6CO 2( g)+3H 2O(l). The standard enthalpy of combustion of 2 mol of benzene is −′x′kJ. x = ______ Given: 1. standard Enthalpy of formation of 1 mol of C 6H 6(l), for the reaction 6C (graphite) +3H 2( g) → C 6H 6(l) is 48.5 kJ mol−1 . 2. Standard Enthalpy of formation of 1 mol of CO 2( g), for the reaction C (graphite) +O 2( g) → CO 2( g) is −393.5 kJ mol−1 . 3. Standard and Enthalpy of formation of 1 mol of H 2O(l), for the reaction H 2( g)+ 1 2O 2( g) → H 2O(l) is −286 kJ mol−1 .",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6535,
         "image": null
     },
     {
@@ -628,7 +628,7 @@
         "question": "Using the given figure, the ratio of R f values of sample A and sample C is x×10−2 . Value of x is ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 50,
         "image": null
     },
     {
@@ -636,7 +636,7 @@
         "question": "Considering acetic acid dissociates in water, its dissociation constant is 6.25×10−5 . If 5 mL of acetic acid is dissolved in 1 litre water, the solution will freeze at −x×10−2∘C, provided pure water freezes at 0∘C. x = (K ) = 1.86 K kg mol−1. f water densityof aceticacidis 1.2 g mol−1. ______ . (Nearest integer) Given : molarmassof water = 18 g mol−1. Acetic acid dissociates as molarmassof aceticacid=60 gmol−1. densityof water = 1 g cm−3 CH COOH ⇌ CH COO⊖ +H⊕ 3 3",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 19,
         "image": null
     },
     {
@@ -644,7 +644,7 @@
         "question": "Consider the following single step reaction in gas phase at constant temperature. 2 A (g) +B (g) → C (g) The initial rate of the reaction is recorded as r 1 when the reaction starts with 1.5 atm pressure of A and 0.7 atm pressure of B. After some time, the rate r 2 is recorded when the pressure of C becomes 0.5 atm. The ratio r 1 : r 2 is ______ ×10−1 . (Nearest integer) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 315,
         "image": null
     },
     {
@@ -652,7 +652,7 @@
         "question": "The fusion of chromite ore with sodium carbonate in the presence of air leads to the formation of products A and B along with the evolution of CO 2. The sum of spin-only magnetic moment values of A and B is ______ B.M. (Nearest integer) [Given atomic number : C : 6,Na : 11,O : 8,Fe : 26,Cr : 24]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -660,7 +660,7 @@
         "question": "In the Claisen-Schmidt reaction to prepare 351 g of dibenzalacetone using 87 g of acetone, the amount of benzaldehyde required is ______ g. (Nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 318,
         "image": null
     },
     {
@@ -668,7 +668,7 @@
         "question": "The product (C) in the following sequence of reactions has ______ π bonds.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -676,7 +676,7 @@
         "question": "Xg of ethanamine was subjected to reaction with NaNO 2/HCl followed by hydrolysis to liberate N 2 and HCl. The HCl generated was completely neutralised by 0.2 moles of NaOH.X is ______ g.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 9,
         "image": null
     },
     {
@@ -689,7 +689,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -702,7 +702,7 @@
             "(3) OBBHJ",
             "(4) HBBJO"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -715,7 +715,7 @@
             "(3) 10",
             "(4) 16"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -728,7 +728,7 @@
             "(3) 639",
             "(4) 693"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -741,7 +741,7 @@
             "(3) 4",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -754,7 +754,7 @@
             "(3) 2r2 −8r+7 = 0",
             "(4) r2 −8r+8 = 0"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -767,7 +767,7 @@
             "(3) 4",
             "(4) 6"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -780,7 +780,7 @@
             "(3) 1520",
             "(4) 1710"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -793,7 +793,7 @@
             "(3) 343",
             "(4) 125"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -806,7 +806,7 @@
             "(3) m2 +n2 +m+n = 64",
             "(4) m2 +n2 +mn = 68"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -819,7 +819,7 @@
             "(3) onto but not one-one.",
             "(4) both one-one and onto."
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -832,7 +832,7 @@
             "(3) 3",
             "(4) 4"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -845,7 +845,7 @@
             "(3) 2",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -858,7 +858,7 @@
             "(3) 2012",
             "(4) 1120"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -871,7 +871,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -884,7 +884,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -897,7 +897,7 @@
             "(3) 121",
             "(4) 105"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -910,7 +910,7 @@
             "(3) 10",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -923,7 +923,7 @@
             "(3) 14",
             "(4) 18"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -936,7 +936,7 @@
             "(3) 38",
             "(4) 19"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -944,7 +944,7 @@
         "question": "The number of real solutions of the equation x|x+5|+2|x+7|−2 = 0 is_________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -952,7 +952,7 @@
         "question": "If 1+ √3−√2 + 5−2√6 + 9√3−11√2 + 49−20√6 +… upto ∞ = 2+(√ b +1)log (a), where a and b are 2√3 18 36√3 180 a e b integers with gcd(a,b) = 1, then 11a+18 b is equal to ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 76,
         "image": null
     },
     {
@@ -960,7 +960,7 @@
         "question": "The number of solutions of sin2x+(2+2x−x2)sinx−3(x−1)2 = 0, where −π ≤ x ≤ π, is________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -968,7 +968,7 @@
         "question": "Let a line perpendicular to the line 2x−y = 10 touch the parabola y2 = 4(x−9) at the point P. The distance of the point P from the centre of the circle x2 +y2 −14x−8y+56 = 0 is __________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 10,
         "image": null
     },
     {
@@ -976,7 +976,7 @@
         "question": "Let a > 0 be a root of the equation 2x2 +x−2 = 0. If lim x→1 16(1−c (o 1s −(2 a+ x)x 2−2x2)) = α+β√17, where a α,β ∈ Z, then α+β is equal to_______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 170,
         "image": null
     },
     {
@@ -984,7 +984,7 @@
         "question": "X α 1 0 −3 Let the mean and the standard deviation of the probability distribution be μ and σ, P(X) 1 K 1 1 3 6 4 respectively. If σ−μ = 2, then σ+μ is equal to________ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN JEE Main 2024 (05 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -992,7 +992,7 @@
         "question": "Let the maximum and minimum values of (√8x−x2 −12−4) +(x−7)2,x ∈ R be M and m, respectively. Then M2 −m2 is equal to _________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1600,
         "image": null
     },
     {
@@ -1000,7 +1000,7 @@
         "question": "If f(t) = ∫π 2x dx ,0 < t < π, then the value of ∫ π 2 π2dt equals_________ 0 1−cos2tsin2x 0 f(t) 1",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -1008,7 +1008,7 @@
         "question": "Let y = y(x) be the solution of the differential equation dy + 2x y = xe(1+x2);y(0) = 0. dx (1+x2)2 − 1 Then the area enclosed by the curve f(x) = y(x)e (1+x2) and the line y−x = 4 is__________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 18,
         "image": null
     },
     {
@@ -1016,7 +1016,7 @@
         "question": "Let the point (−1,α,β) lie on the line of the shortest distance between the lines x+2 = y−2 = z−5 and −3 4 2 x+2 = y+6 = z−1 . Then (α−β)2 is equal to___________ −1 2 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 25,
         "image": null
     }
 ]

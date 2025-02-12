@@ -9,7 +9,7 @@
             "(3) f2[Δu + Δv]",
             "(4) f[Δu + Δv]"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) The dimensions of x is [L]",
             "(4) The dimensions of nt is [L]"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) 9 m/s2",
             "(4) 5 m/s2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) uniformly accelerated having motion along a",
             "(4) non-uniformly accelerated."
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) 40%,√2gh",
             "(4) 50%,√gh"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) 0",
             "(4) 2GmMπ"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) Statement I is incorrect but Statement II is",
             "(4) Both Statement I and Statement II are incorrect."
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) 16Ω",
             "(4) 2Ω"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) ρ 1 = ρ 2 = ρ 3",
             "(4) ρ 1 < ρ 2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) 0.4Ω",
             "(4) 0.1Ω"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) the electron path will be circular about the axis.",
             "(4) the electron will experience a force at"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) B, C and D only",
             "(4) A, B and D only"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) B =^i40cosω",
             "(4) B =^j40cosω"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) 500 cm",
             "(4) 25 cm"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "Two forces F 1 and F 2 are acting on a body. One force has magnitude thrice that of the other force and the resultant of the two forces is equal to the force of larger magnitude. The angle between F→ 1 and F→ 2 is cos−1( n1) . The value of |n| is _____.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "A solid sphere and a hollow cylinder roll up without slipping on same inclined plane with same initial speed v. The sphere and the cylinder reaches upto maximum heights h 1 and h 2, respectively, above the initial level. The ratio h 1 : h 2 is 1n 0. The value of n is______. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (04 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 7,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "An elastic spring under tension of 3 N has a length a. Its length is b under tension 2 N. For its length (3a−2b) , the value of tension will be______N.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "A soap bubble is blown to a diameter of 7 cm.36960erg of work is done in blowing it further. If surface tension of soap solution is 40dyne/cm then the new radius is______ cm Take (π = 22) 7",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 7,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "An infinite plane sheet of charge having uniform surface charge density +σ sC/m2 is placed on x−y plane. Another infinitely long line charge having uniform linear charge density +λ eC/m is placed at z = 4 m plane and parallel to y-axis. If the magnitude values |σ s| = 2|λ e| then at point (0,0,2), the ratio of magnitudes of electric field values due to sheet charge to that of line charge is π√n : 1. The value of n is_______.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "Twelve wires each having resistance 2Ω are joined to form a cube. A battery of 6 V emf is joined across point a and c. The voltage difference between e and f is ______V. → ^",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "The magnetic field existing in a region is given by B = 0.2(1+2x)k T. A square loop of edge 50 cm carrying 0.5 A current is placed in x−y plane with its edges parallel to the x−y axes, as shown in figure. The magnitude of the net magnetic force experienced by the loop is_____ mN.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 50,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "A alternating current at any instant is given by i = [6+√56sin(100πt+π/3)] A. The rms value of the current is ________ A.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "Two wavelengths λ 1 and λ 2 are used in Young's double slit experiment. λ 1 = 450 nm and λ 2 = 650 nm. The minimum order of fringe produced by λ 2 which overlaps with the fringe produced by λ 1 is n. The value of n is _____.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 9,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "A hydrogen atom changes its state from n = 3 to n = 2. Due to recoil, the percentage change in the wave length of emitted light is approximately 1×10−n . The value of n is_____. [Given Rhc = 13.6eV,hc = 1242eVnm,h = 6.6×10−34 J s mass of the hydrogenatom = 1.6×10−27 kg ] Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (04 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 7,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) 5",
             "(4) 6"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -362,7 +362,7 @@
             "(3) B < D < C < E < A",
             "(4) A < B < D < C < E"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) PF 5",
             "(4) NH 3"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) 2",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) Glycene",
             "(4) Hydrazine"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) Hydrogen ion",
             "(4) The organic compound shows electromeric effect"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -440,7 +440,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) 4",
             "(4) 0.2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) 1",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) Gas - Ion electrodes",
             "(4) Metal - Insoluble Salt - Anion electrodes"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -492,7 +492,7 @@
             "(3) −OH > RO > CH 3COO > C1",
             "(4) CI > −OH > RO > CH 3COO"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -505,7 +505,7 @@
             "(3) Nickel",
             "(4) Scandium"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -518,7 +518,7 @@
             "(3) 4",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -531,7 +531,7 @@
             "(3) S2− > −OH > EDTA4− > CO",
             "(4) −OH > F− > NH 3 > CN−"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -544,7 +544,7 @@
             "(3) X = dil.aq. NaOH,20∘C, Y = HBr /acetic",
             "(4) X = conc.alc. NaOH,80∘C,Y = HBr/ acetic"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -557,7 +557,7 @@
             "(3) Both Statement I and Statement II are incorrect",
             "(4) Statement I is incorrect but Statement II is"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -570,7 +570,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -583,7 +583,7 @@
             "(3) prevent interference by phosphate ions",
             "(4) decrease concentration of"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -596,7 +596,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -604,7 +604,7 @@
         "question": "The de-Broglie's wavelength of an electron in the 4th orbit is πa 0 ⋅(a 0 = Bohr's radius ) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (04 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -612,7 +612,7 @@
         "question": "Number of molecules/species from the following having one unpaired electron is O ,O−1,NO,CN−1,O2− 2 2 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -620,7 +620,7 @@
         "question": "The enthalpy of formation of ethane (C 2H 6) from ethylene by addition of hydrogen where the bond-energies of C−H,C−C,C = C,H−H are 414 kJ,347 kJ,615 kJ and 435 kJ respectively is kJ",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 125,
         "image": null
     },
     {
@@ -628,7 +628,7 @@
         "question": "Only 2 mL of KMnO 4 solution of unknown molarity is required to reach the end point of a titration of 20 mL of oxalic acid (2M) in acidic medium. The molarity of KMnO 4 solution should be M.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -636,7 +636,7 @@
         "question": "The number of different chain isomers for C 7H 16 is",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 9,
         "image": null
     },
     {
@@ -644,7 +644,7 @@
         "question": "2.5 g of a non-volatile, non-electrolyte is dissolved in 100 g of water at 25∘C. The solution showed a boiling point elevation by 2∘C. Assuming the solute concentration is negligible with respect to the solvent concentration, the vapor pressure of the resulting aqueous solution is mm of Hg (nearest integer) [Given : Molal boiling point elevation constant of water (K b) = 0.52 K.kgmol−1 , 1 atm pressure = 760 mm of Hg, molar mass of water = 18 g mol−1 ]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 707,
         "image": null
     },
     {
@@ -652,7 +652,7 @@
         "question": "Consider the following transformation involving first order elementary reaction in each step at constant Step2 −temperature as shown below. A+B Step 1C → P Some details of the above reactions are listed below. Step3 Step Rateconstant (sec−1) Activationenergy (kJ mol−1) 1 k 300 1 If the overall rate constant of the above 2 k 200 2 3 k Ea 3 3 transformation (k) is given as k = k k1k 32 and the overall activation energy (E a) is 400 kJ mol−1 , then the value of Ea 3 is kJmol−1 (nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 100,
         "image": null
     },
     {
@@ -660,7 +660,7 @@
         "question": "Consider the following reaction MnO 2 +KOH+O 2 → A+H 2O. Product ' A ' in neutral or acidic medium disproportionate to give products ' B ' and ' C ' along with water. The sum of spin-only magnetic moment values of B and C is BM. (nearest integer) (Given atomic number of Mn is 25) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (04 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -668,7 +668,7 @@
         "question": "The number of the correct reaction(s) among the following is ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -676,7 +676,7 @@
         "question": "Xg of ethylamine is subjected to reaction with NaNO 2/HCl followed by water; evolved dinitrogen gas which occupied 2.24 L volume at STP. X is ×10−1 g.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 45,
         "image": null
     },
     {
@@ -689,7 +689,7 @@
             "(3) 4x2 +14x+12 = 0",
             "(4) x2 +10x+16 = 0"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -702,7 +702,7 @@
             "(3) 2",
             "(4) 4"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -715,7 +715,7 @@
             "(3) 751",
             "(4) 771"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -728,7 +728,7 @@
             "(3) 177",
             "(4) 169"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -741,7 +741,7 @@
             "(3) 6131",
             "(4) 633"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -754,7 +754,7 @@
             "(3) x+y−",
             "(4) x−y−"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -767,7 +767,7 @@
             "(3) 160",
             "(4) 156"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -780,7 +780,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -793,7 +793,7 @@
             "(3) 1",
             "(4) 49"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -806,7 +806,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -819,7 +819,7 @@
             "(3) 97",
             "(4) 98"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -832,7 +832,7 @@
             "(3) 217",
             "(4) 182"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -845,7 +845,7 @@
             "(3) 48",
             "(4) 6"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -859,7 +859,7 @@
             "(3) 4",
             "(4) 16"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -872,7 +872,7 @@
             "(3) 4",
             "(4) 2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -885,7 +885,7 @@
             "(3) 30",
             "(4) 32"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -899,7 +899,7 @@
             "(3) 0",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -912,7 +912,7 @@
             "(3) √2^i+ 1 ^j− 1k^",
             "(4) −√2^ i+ √2^ j+"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -925,7 +925,7 @@
             "(3) 155",
             "(4) 150"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -938,7 +938,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -946,7 +946,7 @@
         "question": "Let a = 1+ 2C 2 + 3C 2 + 4C 2 +…, b = 1+ 1C 0+1C 1 + 2C 0+2C 1+2C 2 + 3C 0+3C 1+3C 2+3C 3 +… 3! 4! 5! 1! 2! 3! 2b Then is equal to a2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -954,7 +954,7 @@
         "question": "Let the length of the focal chord PQ of the parabola y2 = 12x be 15 units. If the distance of PQ from the origin is p, then 10p2 is equal to _______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ⎢ ⎥ ⎢ ⎥ J EE Main 2024 (04 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 72,
         "image": null
     },
     {
@@ -962,7 +962,7 @@
         "question": "Let A be a square matrix of order 2 such that |A| = 2 and the sum of its diagonal elements is -3 . If the points (x,y) satisfying A2 +x A+yI = O lie on a hyperbola, whose lengthof semimajoraxisis x andsemiminoraxisis y, eccentricity is e and the length of the latus rectum is l, then 81(e4 +l2) is equal to",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 233,
         "image": null
     },
     {
@@ -970,7 +970,7 @@
         "question": "If lim x→1 ( (5 2x x+ +1 3) )1 1/ /3 2− −( (x x+ +5 4) )1 1/ /3 2 = n(m 2n√ )5 2/3, where gcd(m,n) = 1, then 8 m+12n is equal to______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 100,
         "image": null
     },
     {
@@ -978,7 +978,7 @@
         "question": "In a survey of 220 students of a higher secondary school, it was found that at least 125 and at most 130 students studied Mathematics; at least 85 and at most 95 studied Physics; at least 75 and at most 90 studied Chemistry; 30 studied both Physics and Chemistry; 50 studied both Chemistry and Mathematics; 40 studied both Mathematics and Physics and 10 studied none of these subjects. Let m and n respectively be the least and the most number of students who studied all the three subjects. Then m+n is equal to ______ 1 1",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 45,
         "image": null
     },
     {
@@ -986,7 +986,7 @@
         "question": "⎡ ⎤ ⎡ ⎤ Let A be a 3×3 matrix of non-negative real elements such that A 1 = 3 1 . Then the maximum value of ⎣ ⎦ ⎣ ⎦ 1 1 det(A) is ______ π",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 27,
         "image": null
     },
     {
@@ -994,7 +994,7 @@
         "question": "If ∫ 04 1+ss ii nn x2x cosx dx = 1 alog e( 3a)+ b√π 3, where a,b ∈ N, then a+b is equal to_________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -1002,7 +1002,7 @@
         "question": "Let the solution y = y(x) of the differential equation dy −y = 1+4sinx satisfy y(π) = 1. Then y(π)+10 dx 2 is equal to ______ −−→ →",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 7,
         "image": null
     },
     {
@@ -1010,7 +1010,7 @@
         "question": "Let ABC be a triangle of area 15√2 and the vectors AB =^ i+2^ j−7k^ ,BC = a^ i+b^ j+ck and −→ AC = 6^i+d^j−2k^ , d > 0. Then the square of the length of the largest side of the triangle ABC is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 54,
         "image": null
     },
     {
@@ -1018,7 +1018,7 @@
         "question": "If the shortest distance between the lines x+2 = y+3 = z−5 and x−3 = y−2 = z+4 is 38 k, and 2 3 4 1 −3 2 3√5 ∫k[x2]dx = α−√α, where [x] denotes the greatest integer function, then 6α3 is equal to________ 0 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 48,
         "image": null
     }
 ]
