@@ -1,15 +1,9 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const router = express.Router();
-const connectDB = require("../config/db");
-const questionSchema = require("../models/Question"); // ✅ Import the schema (not a model)
+const Question = require("../models/Question"); // ✅ Import Mongoose model
 
-// ✅ Function to reference the correct collection dynamically
-const getQuestionModel = (collectionName) => {
-  return mongoose.models[collectionName] || mongoose.model(collectionName, questionSchema, collectionName);
-};
-
-// Hardcoded years and slots
+// ✅ Hardcoded years and slots
 const years = ["2024"];
 const slots = {
   "2024": [
@@ -31,20 +25,17 @@ router.get("/", async (req, res) => {
       return res.status(400).json({ message: "Year and Slot parameters are required." });
     }
 
-    // ✅ Format slot name to match MongoDB collection names
-    const formattedSlot = slot.replace(/\s+/g, "_");
-    console.log(`📂 Searching in MongoDB collection: ${formattedSlot}`);
-
-    // ✅ Get MongoDB database instance
-    const db = connectDB();
-    if (!db) {
+    // ✅ Ensure MongoDB is connected
+    if (mongoose.connection.readyState !== 1) {
       console.error("❌ MongoDB is NOT connected!");
       return res.status(500).json({ message: "MongoDB is not connected." });
     }
 
-    // ✅ Fetch questions from the correct collection
-    const questions = await db.collection(formattedSlot).find({}).toArray();
-    console.log(`📋 Found ${questions.length} questions in ${formattedSlot}`);
+    // ✅ Use Mongoose to query collection dynamically
+    const QuestionModel = mongoose.model(slot, Question.schema, slot);
+    const questions = await QuestionModel.find({});
+
+    console.log(`📋 Found ${questions.length} questions in ${slot}`);
 
     if (questions.length === 0) {
       return res.status(404).json({ message: "No questions found for this slot." });
@@ -73,7 +64,8 @@ router.get("/years", (req, res) => {
 // ✅ Route to fetch available slots for a selected year
 router.get("/slots", (req, res) => {
   const { year } = req.query;
-  console.log(year);
+  console.log(`📅 Requested year: ${year}`);
+
   if (!year) {
     return res.status(400).json({ message: "Year is required" });
   }
