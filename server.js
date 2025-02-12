@@ -8,7 +8,7 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-    origin: ["http://localhost:3000", "https://no-bita.github.io/FronTrackkkJEE/", "https://backend-q2xl.onrender.com/api/auth/register"], // Allowed origins
+    origin: ["http://localhost:3000", "https://no-bita.github.io/FronTrackkkJEE/", "https://backend-q2xl.onrender.com/"], // Allowed origins
     credentials: true, // Allow credentials (cookies, authorization headers)
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allowed HTTP methods
     allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
