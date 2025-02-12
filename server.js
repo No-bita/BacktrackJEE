@@ -8,7 +8,7 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-    origin: ["*"], // Allowed origins
+    origin: "*", // Allowed origins
     credentials: true, // Allow credentials (cookies, authorization headers)
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allowed HTTP methods
     allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
@@ -17,7 +17,7 @@ const corsOptions = {
 // Middleware
 app.use(express.json());
 app.use(cors(corsOptions));
-app.options("*", cors(corsOptions));
+app.options("*", cors());
 app.use(express.urlencoded({ extended: false }));
 // Connect to MongoDB
 require("./config/db");

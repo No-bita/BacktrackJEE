@@ -1,13 +1,13 @@
 [
     {
         "question_id": 1,
-        "question": "In an experiment to measure focal length (f) of convex lens, the least counts of the measuring scales for the position of object (u) and for the position of image (v) are Δu and Δv, respectively. The error in the measurement of the focal length of the convex lens will be: u v u v u2 v2 u v",
+        "question": "In an experiment to measure focal length (f) of convex lens, the least counts of the measuring scales for the position of object (u) and for the position of image (v) are Δu and Δv, respectively. The error in the measurement of the focal length of the convex lens will be:",
         "type": "MCQ",
         "options": [
-            "(1) 2f[Δu + Δv]",
-            "(2) Δu + Δv",
-            "(3) f2[Δu + Δv]",
-            "(4) f[Δu + Δv]"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
         "answer": 3,
         "image": null
