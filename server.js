@@ -6,9 +6,21 @@ require("dotenv").config();
 // Initialize app
 const app = express();
 
+// CORS configuration
+const corsOptions = {
+    origin: process.env.NODE_ENV === "production"
+        ? process.env.CLIENT_URL
+        : ["http://localhost:3000", "http://127.0.0.1:3000", "https://no-bita.github.io"],
+    credentials: true,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+    exposedHeaders: ["set-cookie"]
+};
+
 // Middleware
 app.use(express.json());
 app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.urlencoded({ extended: false }));
 // Connect to MongoDB
 require("./config/db");
@@ -27,17 +39,6 @@ Object.entries(requiredEnvVars).forEach(([name, value]) => {
         process.exit(1);
     }
 });
-
-// CORS configuration
-const corsOptions = {
-    origin: process.env.NODE_ENV === "production"
-        ? process.env.CLIENT_URL
-        : ["http://localhost:3000", "http://127.0.0.1:3000", "https://no-bita.github.io"],
-    credentials: true,
-    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-    exposedHeaders: ["set-cookie"]
-};
 
 // Middleware
 app.use(express.json());
