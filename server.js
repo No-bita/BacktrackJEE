@@ -8,7 +8,7 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-    origin: ["http://127.0.0.1:5500", "http://localhost:3000"], // Allowed origins
+    origin: ["http://localhost:3000", "https://no-bita.github.io/FronTrackkkJEE/"], // Allowed origins
     credentials: true, // Allow credentials (cookies, authorization headers)
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Allowed HTTP methods
     allowedHeaders: ["Content-Type", "Authorization"], // Allowed headers
