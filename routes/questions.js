@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const router = express.Router();
-const { getDB } = require("../config/db");
+const connectDB = require("../config/db");
 const questionSchema = require("../models/Question"); // ✅ Import the schema (not a model)
 
 // ✅ Function to reference the correct collection dynamically
@@ -36,7 +36,7 @@ router.get("/", async (req, res) => {
     console.log(`📂 Searching in MongoDB collection: ${formattedSlot}`);
 
     // ✅ Get MongoDB database instance
-    const db = getDB();
+    const db = connectDB();
     if (!db) {
       console.error("❌ MongoDB is NOT connected!");
       return res.status(500).json({ message: "MongoDB is not connected." });
