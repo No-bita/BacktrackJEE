@@ -9,7 +9,7 @@
             "(3) a is order of magnitude for b ≤ 5",
             "(4) b is order of magnitude for 5 < a ≤ 10"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) 0.02%",
             "(4) 0.2%"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) 139.4",
             "(4) 220.0"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) m Bv B : m Av A",
             "(4) 1 : 1"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) 1 : √3 : √2",
             "(4) √3 : √2 : 1"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) 150 N",
             "(4) 30 N"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) 27",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) P +ρgh+ρv2 = constant",
             "(4) P + 1ρgh+ 1ρv2 = constant"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) V a =",
             "(4) V a ="
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) b",
             "(4) ab"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) 4 V",
             "(4) 1.5 V"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) A, C Only",
             "(4) B, D Only"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) halved",
             "(4) double"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) 2 : 1",
             "(4) 1 : 2"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) 1 : 1",
             "(4) 1: 1836"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) 0.1 m2",
             "(4) 0.02 m2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) 0.2μg",
             "(4) 2μg"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) A⋅B",
             "(4) A⋅B"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) 2.2 g/cm3",
             "(4) 2.5 g/cm3"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "Three vectors OP,OQ and OR each of magnitude A are acting as shown in figure. The resultant of the three vectors is A√x. The value of x is ________ .",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "A uniform thin metal plate of mass 10 kg with dimensions is shown. The ratio of x and y coordinates of center of mass of plate in n . The value of n is ________ 9",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 15,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "A liquid column of height 0.04 cm balances excess pressure of a soap bubble of certain radius. If density of liquid is 8×103 kg m−3 and surface tension of soap solution is 0.28Nm−1 , then diameter of the soap bubble is _____ cm. (if g = 10 m s−2 )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 7,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "A closed and an open organ pipe have same lengths. If the ratio of frequencies of their seventh overtones is (a−1) then the value of a is ________ a →",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "An electric field, E = 2^i+6^j+8k^ passes through the surface of 4 m2 area having unit vector n^ = (2^i+^j+k^ ). The √6 √6 electric flux for that surface is ______ Vm.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 12,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "Resistance of a wire at 0∘C,100∘C and t∘C is found to be 10Ω,10.2Ω and 10.95Ω respectively. The temperature t in Kelvin scale is _________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 748,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "An electron with kinetic energy 5eV enters a region of uniform magnetic field of 3 μT perpendicular to its direction. An electric field E is applied perpendicular to the direction of velocity and magnetic field. The value of E, so that electron moves along the same path, is _______ NC−1 . ( Given, mass of electron = 9×10−31 kg , electric charge = 1.6×10−19C)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "A square loop PQRS having 10 turns, area 3.6×10−3 m2 and resistance 100Ω is slowly and uniformly being pulled out of a uniform magnetic field of magnitude B = 0.5 T as shown. Work done in pulling the loop out of Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo the field in 1.0 s is ______ ×10−6 J.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "A parallel beam of monochromatic light of wavelength 600 nm passes through single slit of 0.4 mm width. Angular divergence corresponding to second order minima would be ______ ×10−3rad.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "In an alpha particle scattering experiment distance of closest approach for the α particle is 4.5×10−14 m. If target nucleus has atomic number 80 , then maximum velocity of α - particle is _______ ×105 m/s approximately. ( 1 = 9×109 SI unit, mass of α particle = 6.72×10−27 kg) 4πϵ 0",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 156,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) 960",
             "(4) 32"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -362,7 +362,7 @@
             "(3) A-IV, B-III, C-II, D-I",
             "(4) A-II, B-III, C-IV, D-I"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) A-IV, B-III, C-I, D-II",
             "(4) A-III, B-IV, C-I, D-II"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) A-IV, B-I, C-II, D-III",
             "(4) A-II, B-III, C-IV, D-I"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) Both Statement I and Statement II are correct.",
             "(4) Both Statement I and Statement II are incorrect."
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) 7.0",
             "(4) 8.0"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) Only I 2",
             "(4) Cl 2,Br 2 and I 2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -440,7 +440,7 @@
             "(3) Bromine is a weaker oxidant than iodine",
             "(4) Bromine undergoes oxidation and iodine"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) Both A and R are true and R is the correct",
             "(4) Both A and R are true but R is NOT the correct"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) C and D only",
             "(4) A and B only"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) Statement I is correct but Statement II is",
             "(4) Statement I is incorrect but Statement II is"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -492,7 +492,7 @@
             "(3) One",
             "(4) Three"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -505,7 +505,7 @@
             "(3) B and C only",
             "(4) A and D only"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -518,7 +518,7 @@
             "(3) 1",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -531,7 +531,7 @@
             "(3) 3",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -544,7 +544,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -557,7 +557,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -570,7 +570,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -583,7 +583,7 @@
             "(3) A-III, B-I, C-II, D-IV",
             "(4) A-III, B-I, C-IV, D-II"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -596,7 +596,7 @@
             "(3) despite the presence of - CHO does not give",
             "(4) has 4 asymmetric carbon atom"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -604,7 +604,7 @@
         "question": "A hypothetical electromagnetic wave is show below. The frequency of the wave is x×1019 Hz. x = ______ (nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -612,7 +612,7 @@
         "question": "Number of molecules from the following which are exceptions to octet rule is ______ CO ,NO ,H SO ,BF ,CH ,SiF ,ClO ,PCl ,BeF ,C H ,CHCl ,CBr 2 2 2 4 3 4 4 2 5 2 2 6 3 4",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -620,7 +620,7 @@
         "question": "Consider the figure provided. 1 mol of an ideal gas is kept in a cylinder, fitted with a piston, at the position A, at 18∘C. If the piston is moved to position B, keeping the temperature unchanged, then ' x ' L atm work is done in this reversible process. x = ______ L atm. (nearest integer) [Given : Absolute temperature = ∘C+273.15,R = 0.08206 L atm mol−1 K−1 ]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 55,
         "image": null
     },
     {
@@ -628,7 +628,7 @@
         "question": "The number of optical isomers in following compound is: ________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 32,
         "image": null
     },
     {
@@ -636,7 +636,7 @@
         "question": "A solution containing 10 g of an electrolyte AB 2 in 100 g of water boils at 100.52∘C. The degree of ionization of the electrolyte (α) is _______ ×10−1 . (nearest integer) [Given : Molar mass of AB 2 = 200 g mol−1, K b (molal boiling point elevation const. of water) = 0.52 K kg mol−1 , boiling point of water = 100∘C;AB 2 ionises as AB 2 → A2+ +2 B−]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -644,7 +644,7 @@
         "question": "Consider the following reaction A+B → C The time taken for A to become 1/4th of its initial concentration is twice the time taken to become 1/2 of the same. Also, when the change of concentration of B is plotted against time, the resulting graph gives a straight Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo line with a negative slope and a positive intercept on the concentration axis. The overall order of the reaction is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -652,7 +652,7 @@
         "question": "The 'spin only' magnetic moment value of MO 42− is _______ BM. (Where M is a metal having least metallic radii. among Sc,Ti,V,Cr,Mn and Zn ). (Given atomic number: Sc = 21,Ti = 22, V = 23,Cr = 24,Mn = 25 and Zn = 30)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 0,
         "image": null
     },
     {
@@ -660,7 +660,7 @@
         "question": "Major product B of the following reaction has _______ π-bond.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -668,7 +668,7 @@
         "question": "If 279 g of aniline is reacted with one equivalent of benzenediazonium chloride, the maximum amount of aniline yellow formed will be _______ g. (nearest integer) (consider complete conversion).",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 591,
         "image": null
     },
     {
@@ -676,7 +676,7 @@
         "question": "Number of amine compounds from the following giving solids which are soluble in NaOH upon reaction with Hinsberg's reagent is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -693,7 +693,7 @@
             "(4) log 8",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -706,7 +706,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -719,7 +719,7 @@
             "(3) 8",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -732,7 +732,7 @@
             "(3) 18",
             "(4) 19"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -745,7 +745,7 @@
             "(3) x−3y−6 = 0",
             "(4) x+6y+6 = 0"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -758,7 +758,7 @@
             "(3) 110",
             "(4) 145"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -771,7 +771,7 @@
             "(3) 169",
             "(4) 170"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -784,7 +784,7 @@
             "(3) -10",
             "(4) -12"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -797,7 +797,7 @@
             "(3) 20",
             "(4) 120"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -810,7 +810,7 @@
             "(3) Only",
             "(4) Only"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -823,7 +823,7 @@
             "(3) 1",
             "(4) 2"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -836,7 +836,7 @@
             "(3) 0",
             "(4) 3"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -849,7 +849,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -862,7 +862,7 @@
             "(3) 10",
             "(4) 7"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -875,7 +875,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -889,7 +889,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -902,7 +902,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -915,7 +915,7 @@
             "(3) 377",
             "(4) 387"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -928,7 +928,7 @@
             "(3) γ√1+cos2ϕsin2θ",
             "(4) γ√1+cos2θsin2ϕ"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -941,7 +941,7 @@
             "(3) 11",
             "(4) 8"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -949,7 +949,7 @@
         "question": "The number of 3-digit numbers, formed using the digits 2,3,4,5 and 7 , when the repetition of digits is not allowed, and which are not divisible by 3 , is equal to__________ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (08 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 36,
         "image": null
     },
     {
@@ -957,7 +957,7 @@
         "question": "Let the positive integers be written in the form : If the kth row contains exactly k numbers for every natural number k, then the row in which the number 5310 will be, is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 103,
         "image": null
     },
     {
@@ -965,7 +965,7 @@
         "question": "Let α = ∑n r=0(4r2 +2r+1)nC r and β = (∑n r=0 rn +C 1r )+ n+1 1. If 140 < 2 βα < 281, then the value of n is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -973,7 +973,7 @@
         "question": "If the orthocentre of the triangle formed by the lines 2x+3y−1 = 0,x+2y−1 = 0 and ax+by−1 = 0, is the centroid of another triangle, whose circumcentre and orthocentre respectively are (3,4) and (−6,−8), then the value of |a−b| is_______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -981,7 +981,7 @@
         "question": "The value of lim x→02(1−cosx√cos2x√3c xo 2s3x……1√0cos10x) is 2 −1",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 55,
         "image": null
     },
     {
@@ -989,7 +989,7 @@
         "question": "Let A = [ ]. If the sum of the diagonal elements of A13 is 3n , then n is equal to_________ 1 1",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 7,
         "image": null
     },
     {
@@ -997,7 +997,7 @@
         "question": "If the range of f(θ) = sin4θ+3cos2θ,θ ∈ R is [α,β], then the sum of the infinite G.P., whose first term is 64 and sin4θ+cos2θ α the common ratio is , is equal to________ β",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 96,
         "image": null
     },
     {
@@ -1005,17 +1005,15 @@
         "question": "Let the area of the region enclosed by the curve y = min{sinx,cosx} and the x axis between x = −π to x = π be A. Then A2 is equal to ___________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
         "question_id": 89,
         "question": "Let a→ = 9^ i−13^ j+25k^ ,→ b = 3^ i+7^ j−13k^ and c→= 17^ i−2^ j+k^ be three given vectors. If r→ is a vector such that r→×a→ = (→ b+c→)×a→ and r→⋅(→ b−c→) = 0, then |593r→+67a→|2 is equal to___________",
         "type": "MCQ",
-        "options": [
-            "(593) 2"
-        ],
-        "answer": null,
+        "options": [],
+        "answer": 569,
         "image": null
     },
     {
@@ -1023,7 +1021,7 @@
         "question": "Three balls are drawn at random from a bag containing 5 blue and 4 yellow balls. Let the random variables X ¯ ¯ and Y respectively denote the number of blue and yellow balls. If X and Y are the means of X and Y ¯ ¯ respectively, then 7X+4Y is equal to________ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 17,
         "image": null
     }
 ]

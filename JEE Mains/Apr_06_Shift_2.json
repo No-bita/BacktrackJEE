@@ -9,7 +9,7 @@
             "(3) Both statement",
             "(4) Statement"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) √t 1 −t 2",
             "(4) √t 1"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) 300 N",
             "(4) 150 N"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) 70.4 m/s",
             "(4) 102.8 m/s"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) 60%",
             "(4) 500%"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) 375 N",
             "(4) 225 N"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) 48 J",
             "(4) 23.1 J"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) 7RT",
             "(4) 35RT"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) 12 N",
             "(4) 4 N"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) 5mH",
             "(4) 2.5mH"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) 972",
             "(4) 486"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) 1.42",
             "(4) 1.24"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) 1.5",
             "(4) 1.4"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) 2 V",
             "(4) 4 V"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) 2.973×10−6 m",
             "(4) 1.094×10−6 m"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) 207 nm",
             "(4) 407 nm"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) 20",
             "(4) 40"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "A particle moves in a straight line so that its displacement x at any time t is given by x2 = 1+t2 . Its acceleration at any time t is x−n where n = ___________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "Three balls of masses 2 kg,4 kg and 6 kg respectively are arranged at centre of the edges of an equilateral triangle of side 2 m. The moment of intertia of the system about an axis through the centroid and perpendicular to the plane of triangle, will be _______ kgm2 .",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "A wire of cross sectional area A, modulus of elasticity 2×1011Nm−2 and length 2 m is stretched between two vertical rigid supports. When a mass of 2 kg is suspended at the middle it sags lower from its original position Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (06 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo making angle θ = 1 radian on the points of support. The value of A is _______ ×10−4 m2 (consider 100 x << L ). (given : g = 10 m/s2 )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "Two open organ pipes of lengths 60 cm and 90 cm resonate at 6th and 5th harmonics respectively. The difference of frequencies for the given modes is _______ Hz. (Velocity of sound in air = 333 m/s )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 740,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "A capacitor of 10μF capacitance whose plates are separated by 10 mm through air and each plate has area 4 cm2 is now filled equally with two dielectric media of K 1 = 2, K 2 = 3 respectively as shown in figure. If new force between the plates is 8 N. The supply voltage is _________ ×10−4 V. (we modified language of question to make it correct)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 93,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "In the given figure an ammeter A consists of a 240Ω coil connected in parallel to a 10Ω shunt. The reading of the ammeter is mA",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 160,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "A coil having 100 turns, area of 5×10−3 m2 , carrying current of 1 mA is placed in uniform magnetic field of 0.20 T such a way that plane of coil is perpendicular to the magnetic field. The work done in turning the coil through 90∘ is _______ μJ.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 100,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "For a given series LCR circuit it is found that maximum current is drawn when value of variable capacitance is 25nF. If resistance of 200Ω and 100mH inductor is being used in the given circuit. The frequency of ac source is ______ ×103 Hz. (given π2 = 10 )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 10,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "Two coherent monochromatic light beams of intensities I and 4I are superimposed. The difference between maximum and minimum possible intensities in the resulting beam is xI. The value of x is $_________.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "In Franck-Hertz experiment, the first dip in the current-voltage graph for hydrogen is observed at 10.2 V. The wavelength of light emitted by hydrogen atom when excited to the first excitation level is _________ nm. (Given hc = 1245eVnm,e = 1.6×10−19C ).",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 122,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) 2.79 m",
             "(4) 2.90 m"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -362,7 +362,7 @@
             "(3) RT",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) 1",
             "(4) 4"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) R f of a polar compound is smaller than that of a",
             "(4) Non-polar compounds are retained at top and"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) cis-2-butene has less dipole moment than trans-2-",
             "(4) trans-2-butene is more stable than cis-2-butene."
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -440,7 +440,7 @@
             "(3) Applying an external opposite potential greater",
             "(4) Exchanging the electrodes at anode and cathode."
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) dibromobis",
             "(4) bis[bromo"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) Both Statement I and Statement II are true",
             "(4) Both Statement I and Statement II are false"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -492,7 +492,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -509,7 +509,20 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
+        "image": null
+    },
+    {
+        "question_id": 44,
+        "question": "Consider the above chemical reaction. Product \" A \" is :",
+        "type": "MCQ",
+        "options": [
+            "(1) ",
+            "(2) ",
+            "(3) ",
+            "(4) "
+        ],
+        "answer": 3,
         "image": null
     },
     {
@@ -522,7 +535,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -535,7 +548,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -548,7 +561,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -561,7 +574,7 @@
             "(3) Cl−",
             "(4) CO 32−"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -574,7 +587,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -587,7 +600,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -595,7 +608,7 @@
         "question": "Consider the following reactions NiS+HNO 3 +HCl → A+NO+S+H 2O A+NH OH+H C−C = N−OH 4 3 | → B+NH 4Cl+H 2O The number of protons that do not involve in H C−C = N−OH 3 hydrogen bonding in the product B is ______.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 12,
         "image": null
     },
     {
@@ -603,7 +616,7 @@
         "question": "For hydrogen atom, energy of an electron in first excited state is −3.4eV,K.E. of the same electron of hydrogen atom is xeV. Value of x is ______ ×10−1eV. (Nearest integer)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 34,
         "image": null
     },
     {
@@ -611,7 +624,7 @@
         "question": "An amine (X) is prepared by ammonolysis of benzyl chloride. On adding p-toluenesulphonyl chloride to it the solution remains clear. Molar mass of the amine (X) formed is ______ gmol−1 . (Given molar mass in gmol−1C : 12,H : 1,O : 16, N : 14)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 287,
         "image": null
     },
     {
@@ -619,7 +632,7 @@
         "question": "For the reaction at 298 K,2 A+B → C.ΔH = 400 kJ mol−1 and ΔS = 0.2 kJ mol−1 K−1 . The reaction will become spontaneous above K.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2000,
         "image": null
     },
     {
@@ -630,7 +643,7 @@
             "(3) = 0.477 and log",
             "(5) = 0.699]"
         ],
-        "answer": null,
+        "answer": 17,
         "image": null
     },
     {
@@ -638,7 +651,7 @@
         "question": "Among VO+ 2,MnO− 4and Cr 2O2 7− , the spin-only magnetic moment value of the species with least oxidising ability is ______ BM (Nearest integer). (Given atomic member V = 23,Mn = 25,Cr = 24) Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ∣ ∣ J EE Main 2024 (06 Apr Shift 2) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 0,
         "image": null
     },
     {
@@ -646,7 +659,7 @@
         "question": "Number of carbocations from the following that are not stabilized by hyperconjugation is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
@@ -654,7 +667,7 @@
         "question": "When ' x ' ×10−2 mL methanol (molar mass = 32 g; density = 0.792 g/cm3 ) is added to 100 mL water (density = 1 g/cm3 ), the following diagram is obtained. x = ______ (nearest integer). [Given : Molal freezing point depression constant of water at 273.15 K is 1.86 K kg mol−1 ]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 543,
         "image": null
     },
     {
@@ -662,7 +675,7 @@
         "question": "Total number of species from the following with central atom utilising sp2 hybrid orbitals for bonding is _____. NH 3,SO 2,SiO 2,BeCl 2,C 2H 2,C 2H 4,BCl 3,HCHO,C 6H 6,BF 3,C 2H 4Cl 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -670,7 +683,7 @@
         "question": "The ratio of number of oxygen atoms to bromine atoms in the product Q is ______ ×10−1 .",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 15,
         "image": null
     },
     {
@@ -683,7 +696,7 @@
             "(3) either z 1 lies on a circle of radius 21 or z 2 lies on",
             "(4) either z 1 lies on a circle of radius 1 or z 2 lies on a"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -696,7 +709,7 @@
             "(3) 55",
             "(4) 60"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -709,7 +722,7 @@
             "(3) NRAPGU",
             "(4) NRAGPU"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -722,7 +735,7 @@
             "(3) P = 36√3Q2",
             "(4) P2 = 72√3Q"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -735,7 +748,7 @@
             "(3) 160",
             "(4) 125"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -748,7 +761,7 @@
             "(3) x2 +y2 −65 = 0",
             "(4) x2 +y2 −74 = 0"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -761,7 +774,7 @@
             "(3) -27",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -774,7 +787,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -787,7 +800,7 @@
             "(3) 26",
             "(4) 23"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -800,7 +813,7 @@
             "(3) 6",
             "(4) 4"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -813,7 +826,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -827,7 +840,7 @@
             "(3) 8",
             "(4) 3"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -840,7 +853,7 @@
             "(3) ",
             "(4) e2π <"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -853,7 +866,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -866,7 +879,7 @@
             "(3) -1",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -879,7 +892,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -892,7 +905,7 @@
             "(3) 2",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -905,7 +918,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -918,7 +931,7 @@
             "(3) 72",
             "(4) 18"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -931,7 +944,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -939,7 +952,7 @@
         "question": "Let α,β be roots of x2 +√2x−8 = 0. If U n = αn +βn , then U 10+ 2U√2U 9 is equal to______ 8",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -947,7 +960,7 @@
         "question": "If S(x) = (1+x)+2(1+x)2 +3(1+x)3 +⋯+60(1+x)60,x ≠ 0, and (60)2 S(60) = a(b)b +b, where a,b ∈ N, then (a+b) equal to ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3660,
         "image": null
     },
     {
@@ -955,7 +968,7 @@
         "question": "The length of the latus rectum and directrices of a hyperbola with eccentricity e are 9 and x = ± 4 , √13 respectively. Let the line y−√3x+√3 = 0 touch this hyperbola at (x 0,y 0). If m is the product of the focal distances of the point (x 0,y 0), then 4e2 +m is equal to ________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 61,
         "image": null
     },
     {
@@ -963,7 +976,7 @@
         "question": "In a triangle ABC,BC = 7,AC = 8,AB = α ∈ N and cosA = 2 . If 49cos(3C)+42 = m , where 3 n gcd(m,n) = 1, then m+n is equal to________ 2x+7y+λz = 3",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 39,
         "image": null
     },
     {
@@ -971,7 +984,7 @@
         "question": "If the system of equations 3x+2y+5z = 4 has infinitely many solutions, then (λ−μ) is equal x+μy+32z = −1 to________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 38,
         "image": null
     },
     {
@@ -979,7 +992,7 @@
         "question": "Let [t] denote the greatest integer less than or equal to t. Let f : [0,∞) → R be a function defined by f(x) = [x +3]−[√x]. Let S be the set of all points in the interval [0,8] at which f is not continuous. Then 2 ∑ a is equal to _______ a∈S",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 17,
         "image": null
     },
     {
@@ -987,7 +1000,7 @@
         "question": "Let [t] denote the largest integer less than or equal to t. If ∫3([x2]+[x2])dx = a+b√2−√3−√5+c√6−√7, where a,b,c ∈ Z, then a+b+c is equal 0 2 to_______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 23,
         "image": null
     },
     {
@@ -995,7 +1008,7 @@
         "question": "If the solution y(x) of the given differential equation (ey +1)cosx dx+eysinx dy = 0 passes through the point (π,0), then the value of ey(π 6) is equal to_________ 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -1003,7 +1016,7 @@
         "question": "If the shortest distance between the lines x−λ = y−2 = z−1 and x+2 = y+5 = z−4 is 44 , then the largest 3 −1 1 −3 2 4 √30 possible value of |λ| is equal to _________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 43,
         "image": null
     },
     {
@@ -1011,7 +1024,7 @@
         "question": "From a lot of 12 items containing 3 defectives, a sample of 5 items is drawn at random. Let the random variable X denote the number of defective items in the sample. Let items in the sample be drawn one by one without replacement. If variance of X is m , where gcd(m,n) = 1, then n−m is equal to _________ n Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 71,
         "image": null
     }
 ]
