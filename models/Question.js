@@ -6,21 +6,31 @@ module.exports = (collectionName) => {
         type: { type: String, required: true, enum: ["MCQ", "Integer"] }, // ✅ New field to differentiate question types
         question_text: { type: String, required: true },
         options: {
-            1: { type: String, required: function() { return this.type === "MCQ"; } },
-            2: { type: String, required: function() { return this.type === "MCQ"; } },
-            3: { type: String, required: function() { return this.type === "MCQ"; } },
-            4: { type: String, required: function() { return this.type === "MCQ"; } }
-        }, // ✅ Options are only required for MCQs
+            type: [String], // Array of strings for MCQ
+            validate: {
+                validator: function (value) {
+                    return this.type === "MCQ" ? value.length === 4 : value.length === 0;
+                },
+                message: "MCQ questions must have exactly 4 options."
+            },
+            default:undefined
+        },        
         correct_option: { 
             type: Number, 
             required: true, 
             validate: {
                 validator: function(value) {
-                    return this.type === "MCQ" ? [1, 2, 3, 4].includes(value) : (value >= 0 && value <= 99999);
+                    if (this.type === "MCQ") {
+                        return Number.isInteger(value) && value >= 1 && value <= 4;
+                    }
+                    if (this.type === "Integer") {
+                        return Number.isInteger(value);
+                    }
+                    return false;
                 },
-                message: props => `${props.value} is not a valid answer`
+                message: props => `Invalid correct answer: ${props.value}`
             }
-        }, // ✅ Allow 1-4 for MCQs, 0-99999 for Integer questions
+        },        
         image: { type: String, default: null }
     }, { collection: collectionName });
 

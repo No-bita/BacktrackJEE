@@ -1,6 +1,6 @@
 const express = require("express");
-const StudentResponse = require("../models/studentresponse");
-const Exam = require("../models/exam");
+const StudentResponse = require("../models/Attempt");
+const Exam = require("../models/Exam");
 const Question = require("../models/Question");
 const authMiddleware = require("../middleware/authmiddleware");
 
@@ -43,7 +43,7 @@ router.post("/submit", authMiddleware, async (req, res) => {
             // ✅ Ignore responses for non-existing questions
             if (!validQuestionIds.includes(question._id.toString())) continue;
 
-            const isCorrect = selectedOption === question.correct_option;
+            const isCorrect = String(selectedOption) === String(question.correct_option);
             if (isCorrect) totalCorrect++;
 
             formattedResponses.push({
@@ -61,7 +61,7 @@ router.post("/submit", authMiddleware, async (req, res) => {
             examId,
             responses: formattedResponses,
             submittedAt: new Date(),
-            totalScore: (totalCorrect / exam.questions.length) * 100 // Calculate percentage
+            totalScore: totalCorrect * 4 - (exam.questions.length - totalCorrect) * 1,
         });
 
         await studentResponse.save();
