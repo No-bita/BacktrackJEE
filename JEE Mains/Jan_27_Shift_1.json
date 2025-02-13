@@ -9,7 +9,7 @@
             "(3) Both Statement I and Statement II are true",
             "(4) Statement I is false but Statement II is true"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) 9 m s−1 in z-direction",
             "(4) 4 m s−1 in y-direction"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) 4.8 cm",
             "(4) 4.2 cm"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) 2 : 5",
             "(4) 4 : 5"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) 3",
             "(4) 5"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) g",
             "(4) 4g"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) Both Statement I and Statement II are incorrect",
             "(4) Both Statement I and Statement II are correct"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) 284 J",
             "(4) 142 J"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) 1600 K",
             "(4) 1500 K"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) 0 V",
             "(4) 3 V"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) 25R",
             "(4) 5R"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) 66",
             "(4) 35"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) +1 V",
             "(4) −1 V"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) 26.6 W m−2",
             "(4) 106.2 W m−2"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) π−A",
             "(4) π −A"
         ],
-        "answer": null,
+        "answer": 1,
         "image": "image_q16_p3_3.png"
     },
     {
@@ -217,7 +217,7 @@
             "(3) 2I",
             "(4) I"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) 3R",
             "(4) 9 R"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) Thickness of thin plates",
             "(4) Radius of curvature of convex surface"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "A particle starts from origin at t = 0 with a velocity 5ˆ i m s−1 and moves in x−y plane under action of a force which produces a constant acceleration of (3ˆ i+2ˆ j) m s−2 . If the x-coordinate of the particle at that instant is 84 m, then the speed of the particle at this time is √α m s−1 . The value of α is _______.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 673,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "Four particles, each of mass 1 kg are placed at four corners of a square of side 2 m. The moment of inertia of the system about an axis perpendicular to its plane and passing through one of its vertex is ______ kg m2 .",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "If average depth of an ocean is 4000 m and the bulk modulus of water is 2×109 N m−2 , then fractional compression ΔV of water at the bottom of ocean is α×10−2 . The value of α is _______, (Given, V g = 10 m s−2, ρ = 1000 kg m−3 )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "A particle executes simple harmonic motion with an amplitude of 4 cm. At the mean position, velocity of the particle is 10 cm s−1 . The distance of the particle from the mean position when its speed becomes 5 cm s−1 is √α cm, where α =______. Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (27 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 12,
         "image": "image_q24_p4_2.png"
     },
     {
@@ -296,7 +296,7 @@
         "question": "A thin metallic wire having cross sectional area of 10−4 m2 is used to make a ring of radius 30 cm. A positive charge of 2π C is uniformly distributed over the ring, while another positive charge of 30 pC is kept at the centre of the ring. The tension in the ring is _______ N; provided that the ring does not get deformed (neglect the influence of gravity). (Given, 1 = 9×109 SI units) 4πϵ 0",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "The charge accumulated on the capacitor connected in the following circuit is ______μC. (Given C = 150 μF)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 400,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "Two long, straight wires carry equal currents in opposite directions as shown in figure. The separation between the wires is 5.0 cm. The magnitude of the magnetic field at a point P midway between the wires is _____ μT . (Given: μ 0 = 4π×10−7 T m A−1 )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 160,
         "image": null
     },
     {
@@ -320,7 +320,7 @@
         "question": "Two coils have mutual inductance 0.002 H. The current changes in the first coil according to the relation i = i 0sinωt, where i 0 = 5 A and ω = 50π rad s−1 . The maximum value of emf in the second coil is απ V. The value of α is 8 3",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -328,7 +328,7 @@
         "question": "Two immiscible liquids of refractive indices and respectively are put in a beaker as shown in the figure. 5 2 The height of each column is 6 cm. A coin is placed at the bottom of the beaker. For near normal vision, the apparent depth of the coin is α cm. The value of α is _______. 4",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 31,
         "image": null
     },
     {
@@ -336,7 +336,7 @@
         "question": "In a nuclear fission process, a high mass nuclide (A ≈ 236) with binding energy 7.6 MeV/Nucleon dissociated into two middle mass nuclides (A ≈ 118), having binding energy of 8.6 MeV/Nucleon. The energy released in the process would be _______ MeV.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 236,
         "image": null
     },
     {
@@ -349,7 +349,7 @@
             "(3) [Xe] 4f6 6s2",
             "(4) [Xe] 4f15d16s2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": "image_q31_p5_3.png"
     },
     {
@@ -362,7 +362,7 @@
             "(3) [Ar] 3d3",
             "(4) [Ar] 3d6"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -375,7 +375,7 @@
             "(3) CH 2 = CH 2",
             "(4) CHCl 3"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -388,7 +388,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -401,7 +401,7 @@
             "(3) Both Statement I and Statement II are incorrect",
             "(4) Statement I is incorrect but Statement II is"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -414,7 +414,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -427,7 +427,7 @@
             "(3) 1−Ethyl−3, 3−dimethylcyclohexane",
             "(4) 1,1−Dimethyl−3−ethylcyclohexane"
         ],
-        "answer": null,
+        "answer": 2,
         "image": "image_q37_p6_5.png"
     },
     {
@@ -440,7 +440,7 @@
             "(3) Acyclic",
             "(4) Alicyclic"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -453,7 +453,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -466,7 +466,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -479,7 +479,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": "image_q41_p7_3.png"
     },
     {
@@ -492,7 +492,7 @@
             "(3) decreased vapour pressure, decreased boiling",
             "(4) decreased vapour pressure, increased boiling"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -505,7 +505,7 @@
             "(3) Chlorine",
             "(4) Fluorine"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -518,7 +518,7 @@
             "(3) CrO 2Cl 2, KHSO 4",
             "(4) CrO 2Cl 2, Na 2Cr 2O 7"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -531,7 +531,7 @@
             "(3) Statement I is true but Statement II is false",
             "(4) Both Statement I and Statement II are false"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -544,7 +544,7 @@
             "(3) Dianionic complex with coordination number six",
             "(4) Dianionic complex with coordination number"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -557,7 +557,7 @@
             "(3) Q < R < P",
             "(4) Q < P < R"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -570,7 +570,7 @@
             "(3) Racemisation occurs in both S N1 and S N2",
             "(4) Racemisation occurs in S N1 reaction and"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -583,7 +583,7 @@
             "(3) Both Statement I and Statement II are false",
             "(4) Statement I is false but Statement II is true"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -596,7 +596,7 @@
             "(3) Disulphide linkage",
             "(4) Peptide linkage"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -604,7 +604,7 @@
         "question": "Mass of methane required to produce 22 g of CO after complete combustion is g. (Given Molar mass in g mol- 1, C = 12.0, H = 1.0, O = 16.0)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -612,7 +612,7 @@
         "question": "The number of electrons present in all the completely filled subshells having n = 4 and s = +1 is ____ 2 (Where n = principal quantum number and s = spin quantum number)",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 16,
         "image": null
     },
     {
@@ -620,7 +620,7 @@
         "question": "Sum of bond order of CO and NO+ is",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 6,
         "image": null
     },
     {
@@ -628,7 +628,7 @@
         "question": "If three moles of an ideal gas at 300 K expand isothermally from 30dm3 to 45dm3 against a constant opposing pressure of 80kPa, then the amount of heat transferred is __________J.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1200,
         "image": null
     },
     {
@@ -636,7 +636,7 @@
         "question": "Among the following, total number of meta directing functional groups is (Integer based) −OCH 3,−NO 2,−CN,−CH 3 −NHCOCH 3, −COR,−OH,−COOH,−Cl",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -644,7 +644,7 @@
         "question": "Among the given organic compounds, the total number of aromatic compounds is Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (27 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": "image_q56_p9_0.png"
     },
     {
@@ -652,7 +652,7 @@
         "question": "3−Methylhex-2-ene on reaction with HBr in presence of peroxide forms an addition product (A). The number of possible stereoisomers for ' A ' is ________.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -660,7 +660,7 @@
         "question": "The mass of silver (Molar mass of Ag : 108gmol−1 ) displaced by a quantity of electricity which displaces 5600 mL of O 2 at S.T.P. will be _____ g.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 108,
         "image": null
     },
     {
@@ -668,7 +668,7 @@
         "question": "Consider the following data for the given reaction 2HI → H +I (g) 2( g) 2( g) HI(molL−1) 0.005 0.01 0.02 Rate (molL−1 s−1) 7.5×10−4 3.0×10−3 1.2×10−2 The order of the reaction is __________.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -676,12 +676,12 @@
         "question": "From the given list, the number of compounds with +4 oxidation state of Sulphur SO ,H SO ,SOCl ,SF ,BaSO ,H S O 3 2 3 2 4 4 2 2 7",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
         "question_id": 61,
-        "question": "If S = z ∈ C : |z−i| = |z+i| = |z−1|, then, n(S) is:",
+        "question": "61",
         "type": "MCQ",
         "options": [
             "(1) 1",
@@ -689,7 +689,7 @@
             "(3) 3",
             "(4) 2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -702,20 +702,20 @@
             "(3) 7",
             "(4) 8"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
         "question_id": 63,
-        "question": "If A denotes the sum of all the coefficients in the expansion of (1−3x+10x2) and B denotes the sum of all the coefficients in the expansion of (1+x2)n , then :",
+        "question": "63",
         "type": "MCQ",
         "options": [
-            "(1) A = B3",
-            "(2) 3 A = B",
-            "(3) B = A3",
-            "(4) A = 3 B"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -728,33 +728,33 @@
             "(3) 2√3 < k < 3√3",
             "(4) 2√2 < k < 2√3"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
         "question_id": 65,
-        "question": "The portion of the line 4x+5y = 20 in the first quadrant is trisected by the lines L 1 and L 2 passing through the origin. The tangent of an angle between the lines L 1 and L 2 is : 8 25 5 41 2 30 5 41",
+        "question": "The portion of the line 4x + 5y = 20 in the first quadrant is trisected by the lines L1 and L2 passing through the origin. The tangent of an angle between the lines L1 and L2 is :",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 8/5",
+            "(2) 25/41",
+            "(3) 2/5",
+            "(4) 30/41"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
         "question_id": 66,
-        "question": "Four distinct points (2k,3k),(1,0),(0,1) and (0,0) lie on a circle for k equal to : 2 3 13 13 5 1 13 13",
+        "question": "Four distinct points (2k, 3k), (1, 0), (0, 1) and (0, 0) lie on a circle for k equal to :",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 2/13",
+            "(2) 3/13",
+            "(3) 5/13",
+            "(4) 1/13"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -767,25 +767,25 @@
             "(3) 20",
             "(4) 36"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
         "question_id": 68,
-        "question": "The length of the chord of the ellipse x2 + y2 = 1, whose mid point is (1, 2), is equal to: 25 16 5 √1691 √2009 5 5 √1741 √1541 5 5",
+        "question": "68",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
         "question_id": 69,
-        "question": "If a = lim √ 1+√1+x4−√2 and b = lim sin2x , then the value of ab3 is : x→0 x4 x→0 √2−√1+cosx",
+        "question": "69",
         "type": "MCQ",
         "options": [
             "(1) 36",
@@ -793,12 +793,12 @@
             "(3) 25",
             "(4) 30"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
         "question_id": 70,
-        "question": "Let a 1,a 2,...,a 10 be 10 observations such that ∑1 k0 =1a k = 50 and ∑ ∀k<ja k ⋅a j = 1100. Then the standard deviation of a 1,a 2,…,a 10 is equal to :",
+        "question": "70",
         "type": "MCQ",
         "options": [
             "(1) 5",
@@ -806,12 +806,12 @@
             "(3) 10",
             "(4) √115"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
         "question_id": 71,
-        "question": "Let S = {1,2,3,…,10}. Suppose M is the set of all the subsets of S, then the relation R = {(A,B) : A∩B ≠ ϕ;A,B ∈ M} is : cosx −sinx 0",
+        "question": "71",
         "type": "MCQ",
         "options": [
             "(1) symmetric and reflexive only",
@@ -819,12 +819,12 @@
             "(3) symmetric and transitive only",
             "(4) symmetric only"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
         "question_id": 72,
-        "question": "⎡ ⎤ Consider the matrix f(x) = sinx cosx 0 . Given below are two statements : ⎣ ⎦ 0 0 1 Statement I:f(−x) is the inverse of the matrix f(x). Statement II: f(x) f(y) = f(x+y). In the light of the above statements, choose the correct answer from the options given below",
+        "question": "72",
         "type": "MCQ",
         "options": [
             "(1) Statement I is false but Statement II is true",
@@ -832,12 +832,12 @@
             "(3) Statement I is true but Statement II is false",
             "(4) Both Statement I and Statement II are true"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
         "question_id": 73,
-        "question": "The function f : N−{1} → N; defined by f(n) = the highest prime factor of n, is : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ⎪ ⎪ J EE Main 2024 (27 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo ⎧a(7x−12−x2)",
+        "question": "The function f : N − {1} → N; defined by f(n) = the highest prime factor of n, is :",
         "type": "MCQ",
         "options": [
             "(1) both one-one and onto",
@@ -845,12 +845,12 @@
             "(3) onto only",
             "(4) neither one-one nor onto"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
         "question_id": 74,
-        "question": ",x < 3 b|x2−7x+12| Consider the function f(x) =⎨ sin(x−3) ,where [x] denotes the greatest integer less than or equal 2 x−[x] ,x > 3 ⎩ b ,x = 3 to x. If S denotes the set of all ordered pairs (a, b) such that f(x) is continuous at x = 3, then the number of elements in S is :",
+        "question": "74",
         "type": "MCQ",
         "options": [
             "(1) 2",
@@ -858,12 +858,12 @@
             "(3) 4",
             "(4) 1"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
         "question_id": 75,
-        "question": "If ∫1 1 dx = a+b√2+c√3, where a,b,c are rational numbers, then 2a+3 b−4c is equal to : 0 √3+x+√1+x",
+        "question": "75",
         "type": "MCQ",
         "options": [
             "(1) 4",
@@ -871,12 +871,12 @@
             "(3) 7",
             "(4) 8"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
         "question_id": 76,
-        "question": "If (a, b) be the orthocentre of the triangle whose vertices are (1,2),(2,3) and (3,1), and I 1 = ∫ abxsin(4x−x2)dx,I 2 = ∫ absin(4x−x2)dx , then 36I I1 2 is equal to :",
+        "question": "76",
         "type": "MCQ",
         "options": [
             "(1) 72",
@@ -884,29 +884,25 @@
             "(3) 80",
             "(4) 66"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
         "question_id": 77,
-        "question": "Let x = x(t) and y = y(t) be solutions of the differential equations dx +ax = 0 and dy +by = 0 dt dt x(t) = y(t), is : 3 3 → → → → → → →→",
+        "question": "77",
         "type": "MCQ",
         "options": [
-            "(0) = 2 ; y",
-            "(0) = 1 and 3 y",
-            "(1) = 2 x",
-            "(1) , the value of t, for which",
-            "(1) log 2 2",
-            "(2) log 43",
-            "(3) log 34",
-            "(4) log 4 2"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
         "question_id": 78,
-        "question": "If a =ˆi+2ˆj+ˆk, b = 3(ˆi−ˆj+ˆk) and c be the vector such that a×c = b and a⋅c = 3, then → → → → → a⋅((c×b)−b−c) is equal to",
+        "question": "78",
         "type": "MCQ",
         "options": [
             "(1) 32",
@@ -914,12 +910,12 @@
             "(3) 20",
             "(4) 36"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
         "question_id": 79,
-        "question": "The distance, of the point (7,−2,11) from the line x−6 = y−4 = z−8 along the line x−5 = y−1 = z−5 , is : 1 0 3 2 −3 6",
+        "question": "79",
         "type": "MCQ",
         "options": [
             "(1) 12",
@@ -927,7 +923,7 @@
             "(3) 18",
             "(4) 21"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -940,87 +936,87 @@
             "(3) 7",
             "(4) 10"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
         "question_id": 81,
-        "question": "If α satisfies the equation x2 +x+1 = 0 and (1+α)7 = A+Bα+Cα2, A, B,C ≥ 0, then 5(3 A−2 B−C) is equal to",
+        "question": "81",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
         "question_id": 82,
-        "question": "If 8 = 3+ 1(3+p)+ 1 (3+2p)+ 1 (3+3p)+…∞, then the value of p is 4 42 43 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ ⎢ ⎥ J EE Main 2024 (27 Jan Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
+        "question": "82",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 9,
         "image": null
     },
     {
         "question_id": 83,
-        "question": "Let the set of all a ∈ R such that the equation cos2x+asinx = 2a−7 has a solution be [p, q] and r = tan9°−tan27°− 1 +tan81°, then pqr is equal to ________. cot63° 2 0 1 1",
+        "question": "83",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 48,
         "image": null
     },
     {
         "question_id": 84,
-        "question": "⎡ ⎤ ⎡ ⎤ Let A = 1 1 0 , B = [B 1 B 2 B 3], where B 1, B 2, B 3 are column matrices, and AB 1 = 0 , ⎣ ⎦ ⎣ ⎦ 1 0 1 0 2 3 ⎡ ⎤ ⎡ ⎤ AB = 3 ,AB = 2 2 3 ⎣ ⎦ ⎣ ⎦ 0 1 If α = |B| and β is the sum of all the diagonal elements of B, then α3 +β3 is equal to",
+        "question": "84",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 28,
         "image": null
     },
     {
         "question_id": 85,
-        "question": "Let f(x) = x3 +x2f′(1)+xf′′(2)+f′′′(3), x ∈ R. Then f′(10) is equal to",
+        "question": "85",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 202,
         "image": null
     },
     {
         "question_id": 86,
-        "question": "Let for a differentiable function f : (0,∞) → R, f(x)−f(y) ≥ log (x)+x−y,∀x,y ∈ (0,∞). Then e y ∑20 f′( 1 ) is equal to n=1 n2",
+        "question": "86",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2890,
         "image": null
     },
     {
         "question_id": 87,
-        "question": "Let the area of the region {(x,y) : x−2y+4 ≥ 0, x+2y2 ≥ 0,x+4y2 ≤ 8,y ≥ 0} be m , where m and n n are coprime numbers. Then m+n is equal to ______.",
+        "question": "87",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 119,
         "image": null
     },
     {
         "question_id": 88,
-        "question": "If the solution of the differential equation (2x+3y−2)dx+(4x+6y−7)dy = 0, y(0) = 3, is αx+βy+3log |2x+3y−γ| = 6, then α+2β+3γ is equal to ______. e",
+        "question": "88",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 29,
         "image": null
     },
     {
         "question_id": 89,
-        "question": "The least positive integral value of α, for which the angle between the vectors αˆi−2ˆj+2ˆk and αˆi+2αˆj−2ˆk is acute, is _____.",
+        "question": "89",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 5,
         "image": null
     },
     {
         "question_id": 90,
-        "question": "A fair die is tossed repeatedly until a six is obtained. Let X denote the number of tosses required and let a = P(X = 3),b = P(X ≥ 3) and c = P(X ≥ 6 ∣ X > 3). Then b+c is equal to a Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
+        "question": "A fair die is tossed repeatedly until a six is obtained. Let X denote the number of tosses required and let a = P(X = 3), b = P(X ≥ 3) and c = P(X ≥ 6 ∣ X > 3). Then (b+c)/a is equal to",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 12,
         "image": null
     }
 ]
