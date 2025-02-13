@@ -35,7 +35,9 @@ router.get("/", async (req, res) => {
     }
 
 
-    const QuestionModel = mongoose.model(formattedSlot, Question.schema, formattedSlot);
+    const QuestionModel =
+    mongoose.models[formattedSlot] || mongoose.model(formattedSlot, new mongoose.Schema(Question.schema.obj), formattedSlot);
+
     const questions = await QuestionModel.find({});
     
     console.log(`📋 Found ${questions.length} questions in ${slot}`);
