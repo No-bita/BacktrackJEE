@@ -690,7 +690,7 @@
             "(4) x2 + 10x + 16 = 0"
         ],
         "answer": 2,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q61.png"
     },
     {
         "question_id": 62,
@@ -742,7 +742,7 @@
             "(4) 633"
         ],
         "answer": 1,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q65.png"
     },
     {
         "question_id": 66,
@@ -755,7 +755,7 @@
             "(4) 4"
         ],
         "answer": 3,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q66.png"
     },
     {
         "question_id": 67,
@@ -768,7 +768,7 @@
             "(4) 156"
         ],
         "answer": 2,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q67.png"
     },
     {
         "question_id": 68,
@@ -794,7 +794,7 @@
             "(4) 49"
         ],
         "answer": 2,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q69.png"
     },
     {
         "question_id": 70,
@@ -807,7 +807,7 @@
             "(4) 4"
         ],
         "answer": 3,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q70.png"
     },
     {
         "question_id": 71,
@@ -820,7 +820,7 @@
             "(4) 98"
         ],
         "answer": 3,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q71.png"
     },
     {
         "question_id": 72,
@@ -833,7 +833,7 @@
             "(4) 182"
         ],
         "answer": 2,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q72.png"
     },
     {
         "question_id": 73,
@@ -846,7 +846,7 @@
             "(4) 6"
         ],
         "answer": 2,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q73.png"
     },
     {
         "question_id": 74,
@@ -859,7 +859,7 @@
             "(4) 16"
         ],
         "answer": 4,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q74.png"
     },
     {
         "question_id": 75,
@@ -872,7 +872,7 @@
             "(4) 2"
         ],
         "answer": 4,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q75.png"
     },
     {
         "question_id": 76,
@@ -885,7 +885,7 @@
             "(4) 32"
         ],
         "answer": 3,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q76.png"
     },
     {
         "question_id": 77,
@@ -898,7 +898,7 @@
             "(4) 4"
         ],
         "answer": 3,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q77.png"
     },
     {
         "question_id": 78,
@@ -911,7 +911,7 @@
             "(4) 4"
         ],
         "answer": 4,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q78.png"
     },
     {
         "question_id": 79,
@@ -937,7 +937,7 @@
             "(4) 4"
         ],
         "answer": 2,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q80.png"
     },
     {
         "question_id": 81,
@@ -945,7 +945,7 @@
         "type": "Integer",
         "options": [],
         "answer": 8,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q81.png"
     },
     {
         "question_id": 82,
@@ -969,7 +969,7 @@
         "type": "Integer",
         "options": [],
         "answer": 100,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q84.png"
     },
     {
         "question_id": 85,
@@ -985,7 +985,7 @@
         "type": "Integer",
         "options": [],
         "answer": 27,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q86.png"
     },
     {
         "question_id": 87,
@@ -993,7 +993,7 @@
         "type": "Integer",
         "options": [],
         "answer": 8,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q87.png"
     },
     {
         "question_id": 88,
@@ -1001,7 +1001,7 @@
         "type": "Integer",
         "options": [],
         "answer": 7,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q88.png"
     },
     {
         "question_id": 89,
@@ -1009,7 +1009,7 @@
         "type": "Integer",
         "options": [],
         "answer": 54,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q89.png"
     },
     {
         "question_id": 90,
@@ -1017,6 +1017,6 @@
         "type": "Integer",
         "options": [],
         "answer": 48,
-        "image": null
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/master/output/images/Apr_04_Shift_1/q90.png"
     }
 ]
