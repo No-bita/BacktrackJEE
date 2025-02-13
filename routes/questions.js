@@ -25,16 +25,19 @@ router.get("/", async (req, res) => {
       return res.status(400).json({ message: "Year and Slot parameters are required." });
     }
 
+    const formattedSlot = slot.replace(/\s+/g, "_"); // ✅ Replace spaces with underscores
+    console.log(`📂 Searching in MongoDB collection: ${formattedSlot}`);
+    
     // ✅ Ensure MongoDB is connected
     if (mongoose.connection.readyState !== 1) {
       console.error("❌ MongoDB is NOT connected!");
       return res.status(500).json({ message: "MongoDB is not connected." });
     }
 
-    // ✅ Use Mongoose to query collection dynamically
-    const QuestionModel = mongoose.model(slot, Question.schema, slot);
-    const questions = await QuestionModel.find({});
 
+    const QuestionModel = mongoose.model(formattedSlot, Question.schema, formattedSlot);
+    const questions = await QuestionModel.find({});
+    
     console.log(`📋 Found ${questions.length} questions in ${slot}`);
 
     if (questions.length === 0) {
