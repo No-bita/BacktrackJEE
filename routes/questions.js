@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const router = express.Router();
-const Question = require("../models/Question"); // ✅ Import Mongoose model
+const QuestionSchema = require("../models/Question"); // ✅ Import Mongoose model
 
 // ✅ Hardcoded years and slots
 const years = ["2024"];
