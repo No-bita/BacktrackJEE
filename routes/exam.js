@@ -1,6 +1,6 @@
 const express = require("express");
 const StudentResponse = require("../models/Attempt");
-const Exam = require("../models/Exam");
+const Exam = require("../models/exam");
 const Question = require("../models/Question");
 const authMiddleware = require("../middleware/authmiddleware");
 
