@@ -78,7 +78,7 @@ exports.submitExam = async (req, res) => {
 
             if (selected !== null) {
                 attemptedQuestions++;
-                isCorrect = selected === q.correctOption;
+                isCorrect = selected === Number(q.correctOption);
 
                 if (isCorrect) {
                     correctAnswers++;
@@ -94,7 +94,7 @@ exports.submitExam = async (req, res) => {
             responses.push({
                 question: q._id,
                 selectedOption: selected,
-                correctOption: q.correctOption,
+                correctOption: Number(q.correctOption),
                 isCorrect,
                 marksObtained
             });
