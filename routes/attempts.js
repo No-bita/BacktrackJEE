@@ -7,7 +7,7 @@ const authMiddleware = require("../middleware/authmiddleware");
 const router = express.Router();
 
 // ✅ Submit an Attempt
-router.post("/submit", authMiddleware, async (req, res) => {
+router.post("/exam/submit", authMiddleware, async (req, res) => {
     try {
         const { examId, answers } = req.body;
         const userId = req.user.id;
@@ -22,15 +22,16 @@ router.post("/submit", authMiddleware, async (req, res) => {
             return res.status(404).json({ error: "Exam not found." });
         }
 
-        // ✅ Process Responses
         let responses = [];
         exam.questions.forEach(q => {
+            const selected = answers[q._id] ? Number(answers[q._id]) : null;
             responses.push({
                 question: q._id,
-                selectedOption: answers[q._id] || null,
-                correctOption: q.correct_option
+                selectedOption: selected,
+                correctOption: q.correctOption,
+                isCorrect: selected === q.correctOption
             });
-        });
+        });        
 
         // ✅ Save Attempt
         const attempt = new Attempt({
@@ -38,7 +39,7 @@ router.post("/submit", authMiddleware, async (req, res) => {
             exam: examId,
             responses,
             totalQuestions: exam.questions.length,
-            startTime: new Date(),
+            endTime: new Date(),
             timeAlloted: 180 // Assume 180 minutes (3 hours)
         });
 

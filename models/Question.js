@@ -9,11 +9,11 @@ module.exports = (collectionName) => {
             type: [String], // Array of strings for MCQ
             validate: {
                 validator: function (value) {
-                    return this.type === "MCQ" ? value.length === 4 : value.length === 0;
+                    return this.type === "MCQ" ? Array.isArray(value) && value.length === 4 : value.length === 0;
                 },
                 message: "MCQ questions must have exactly 4 options."
             },
-            default:undefined
+            default:[]
         },        
         correct_option: { 
             type: Number, 
