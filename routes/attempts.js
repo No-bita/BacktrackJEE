@@ -8,7 +8,7 @@ const router = express.Router();
 router.post("/start", authMiddleware, attemptController.startAttempt);
 
 // ✅ Submit an Attempt
-router.post("/submit", authMiddleware, attemptController.submitExam);
+router.post("/attempts/submit", authMiddleware, attemptController.submitExam);
 
 // ✅ Fetch Exam Results
 router.post("/results", authMiddleware, attemptController.getExamResults);
