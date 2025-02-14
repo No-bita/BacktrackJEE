@@ -161,10 +161,10 @@ attemptSchema.virtual("accuracy").get(function () {
 });
 
 // ✅ Virtual Field to Calculate Time Taken
-attemptSchema.virtual("timeTaken").get(function () {
-    if (!this.endTime) return 0;
-    return Math.round((this.endTime - this.startTime) / (1000 * 60)); // Convert milliseconds to minutes
+AttemptSchema.virtual("timeTaken").get(function () {
+    return this.endTime ? Math.round((this.endTime - this.startTime) / (1000 * 60)) : 0;
 });
+
 
 const Attempt = mongoose.model("Attempt", attemptSchema);
 module.exports = Attempt;
