@@ -142,7 +142,7 @@ exports.submitExam = async (req, res) => {
 // ✅ Fetch Exam Results
 exports.getExamResults = async (req, res) => {
     try {
-        const { user_id, year, slot } = req.body;
+        const { user_id, year, slot } = req.query.user_id ? req.query : req.body;
 
         if (!user_id || !year || !slot) {
             return res.status(400).json({ error: "Missing required fields." });
