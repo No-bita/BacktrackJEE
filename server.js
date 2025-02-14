@@ -41,6 +41,15 @@ app.use("/api/auth", require("./routes/auth"));
 app.use("/api/attempts", require("./routes/attempts"));
 app.use("/api/questions", require("./routes/questions"));
 
+// MongoDB Connection
+mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true })
+    .then(() => console.log("✅ MongoDB Connected"))
+    .catch(err => console.error("❌ MongoDB Connection Error:", err));
+
+// Import routes
+const attemptRoutes = require("./routes/attempts");
+app.use("/api", attemptRoutes);
+
 // ✅ Test Route
 app.get("/api/test", (req, res) => {
     res.json({ message: "Hello from the server!" });
