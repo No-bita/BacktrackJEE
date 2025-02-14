@@ -2,26 +2,30 @@ const mongoose = require("mongoose");
 
 module.exports = (collectionName) => {
     const questionSchema = new mongoose.Schema({
-        exam: { type: mongoose.Schema.Types.ObjectId, ref: "Exam", required: true }, // ✅ Links to Exam
+        exam: { type: mongoose.Schema.Types.ObjectId, ref: "Exam", required: false }, // ✅ Allows linking to an exam
         question_id: { type: Number, required: true, unique: true },
         type: { type: String, required: true, enum: ["MCQ", "Integer"] }, // ✅ Differentiates question types
-        question_text: { type: String, required: true },
+        question_text: { type: String, required: true, trim: true },
 
         options: {
-            type: [String], // ✅ MCQ: Array of 4 options, Integer: Empty
+            type: Map,
+            of: String, // ✅ Accepts object instead of an array
             validate: {
                 validator: function (value) {
-                    if (this.type === "MCQ") return Array.isArray(value) && value.length === 4;
-                    return value.length === 0; // Integer questions should have no options
+                    if (this.type === "MCQ") return value && Object.keys(value).length === 4;
+                    return value === null || Object.keys(value).length === 0; // ✅ Integer questions should have no options
                 },
                 message: "MCQ questions must have exactly 4 options, Integer questions must have none."
             },
-            default: []
+            default: null
         },
 
         correct_option: { 
             type: Number, 
             required: true, 
+            default: function () {
+                return this.type === "MCQ" ? 1 : 0; // ✅ Default: 1 for MCQ, 0 for Integer
+            },
             validate: {
                 validator: function(value) {
                     if (this.type === "MCQ") return Number.isInteger(value) && value >= 1 && value <= 4;
