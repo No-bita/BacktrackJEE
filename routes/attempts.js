@@ -7,7 +7,7 @@ const authMiddleware = require("../middleware/authmiddleware");
 const router = express.Router();
 
 // ✅ Submit an Attempt
-router.post("/exam/submit", authMiddleware, async (req, res) => {
+router.post("/api/exam/submit", authMiddleware, async (req, res) => {
     try {
         const { examId, answers } = req.body;
         const userId = req.user.id;
@@ -48,24 +48,6 @@ router.post("/exam/submit", authMiddleware, async (req, res) => {
         res.json({ message: "Exam submitted successfully", attempt });
     } catch (error) {
         console.error("Error submitting attempt:", error);
-        res.status(500).json({ error: "Internal Server Error" });
-    }
-});
-
-// ✅ Fetch All Attempts for a User
-router.get("/history", authMiddleware, async (req, res) => {
-    try {
-        const attempts = await Attempt.find({ user: req.user.id })
-            .populate("exam", "name totalMarks")
-            .populate("responses.question", "question correct_option");
-
-        if (!attempts.length) {
-            return res.status(404).json({ message: "No past attempts found." });
-        }
-
-        res.json(attempts);
-    } catch (error) {
-        console.error("Error fetching attempt history:", error);
         res.status(500).json({ error: "Internal Server Error" });
     }
 });
