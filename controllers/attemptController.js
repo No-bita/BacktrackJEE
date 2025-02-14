@@ -24,12 +24,6 @@ exports.startAttempt = async (req, res) => {
             return res.status(400).json({ error: `Only ${availableQuestions} questions are available.` });
         }
 
-        // ✅ Fetch Random Questions
-        const questions = await Question.aggregate([
-            { $match: { exam: exam._id } },
-            { $sample: { size: totalQuestions } }
-        ]);
-
         // ✅ Create a New Attempt
         const attempt = new Attempt({
             user: userId,
