@@ -161,7 +161,7 @@ attemptSchema.virtual("accuracy").get(function () {
 });
 
 // ✅ Virtual Field to Calculate Time Taken
-AttemptSchema.virtual("timeTaken").get(function () {
+attemptSchema.virtual("timeTaken").get(function () {
     return this.endTime ? Math.round((this.endTime - this.startTime) / (1000 * 60)) : 0;
 });
 
