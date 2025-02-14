@@ -5,12 +5,12 @@ const authMiddleware = require("../middleware/authmiddleware");
 const router = express.Router();
 
 // ✅ Start a New Attempt
-router.post("/start", authMiddleware, startAttempt);
+router.post("/start", authMiddleware, attemptController.startAttempt);
 
 // ✅ Submit an Attempt
 router.post("/submit", authMiddleware, attemptController.submitExam);
 
 // ✅ Fetch Exam Results
-router.post("/results", authMiddleware, getExamResults);
+router.post("/results", authMiddleware, attemptController.getExamResults);
 
 module.exports = router;
