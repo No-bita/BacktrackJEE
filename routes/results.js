@@ -7,6 +7,7 @@ const authenticateUser = require('../middleware/authmiddleware');
 const router = express.Router();
 
 // 🧠 Calculate Exam Results with Negative Marking
+
 router.get('/calculate', authenticateUser, async (req, res) => {
     const { user_id, year, slot } = req.query;
 
@@ -14,9 +15,12 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         return res.status(400).json({ error: "Missing parameters: user_id, year, slot" });
     }
 
+    // 🛠️ Decode slot here
+    const decodedSlot = decodeURIComponent(slot);
+
     try {
         // 1️⃣ Fetch the user's attempt
-        const attempt = await Attempt.findOne({ user_id, year, slot }).populate('responses.question');
+        const attempt = await Attempt.findOne({ user_id, year, slot: decodedSlot }).populate('responses.question');
         if (!attempt) {
             return res.status(404).json({ error: "Attempt not found" });
         }
