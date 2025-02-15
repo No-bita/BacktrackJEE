@@ -173,12 +173,6 @@ attemptSchema.pre("save", function (next) {
     next();
 });
 
-// ✅ Virtual Field to Calculate Accuracy
-attemptSchema.virtual("accuracy").get(function () {
-    if (this.attemptedQuestions === 0) return 0;
-    return ((this.correctAnswers / this.attemptedQuestions) * 100).toFixed(2);
-});
-
 // ✅ Virtual Field to Calculate Time Taken
 attemptSchema.virtual("timeTaken").get(function () {
     return this.endTime ? Math.round((this.endTime - this.startTime) / (1000 * 60)) : 0;

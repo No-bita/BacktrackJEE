@@ -172,7 +172,6 @@ exports.getExamResults = async (req, res) => {
         // ✅ Send Final Results
         res.status(200).json({
             totalMarks: attempt.totalMarks,
-            accuracy: attempt.accuracy,
             attemptedQuestions: attempt.attemptedQuestions,
             correctAnswers: attempt.correctAnswers,
             incorrectAnswers: attempt.incorrectAnswers,

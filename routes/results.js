@@ -10,8 +10,8 @@ const router = express.Router();
 router.get('/calculate', authenticateUser, async (req, res) => {
     const { user_id, year, slot } = req.query;
 
-    if (!user || !year || !slot) {
-        return res.status(400).json({ error: "Missing parameters: user, year, slot" });
+    if (!user_id || !year || !slot) {
+        return res.status(400).json({ error: "Missing parameters: user_id, year, slot" });
     }
 
     try {
