@@ -55,9 +55,6 @@ router.get('/calculate', authenticateUser, async (req, res) => {
             };
         });
 
-        // 3️⃣ Ensure totalMarks is non-negative
-        totalMarks = Math.max(0, totalMarks);
-
         // 4️⃣ Prepare final result summary
         const resultSummary = {
             user: attempt.user,
@@ -68,7 +65,6 @@ router.get('/calculate', authenticateUser, async (req, res) => {
             incorrect,
             unattempted,
             total_marks: totalMarks,
-            accuracy: `${((correct / attempt.responses.length) * 100).toFixed(2)}%`,
             answers: detailedResults
         };
 
