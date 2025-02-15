@@ -115,16 +115,21 @@ router.post("/logout", (req, res) => {
 // 🟢 Authentication Status Check
 router.get("/status", (req, res) => {
     try {
-        const token = req.header("Authorization")?.split(" ")[1];
-        if (!token) {
+        const authHeader = req.headers.authorization;
+
+        if (!authHeader || !authHeader.startsWith("Bearer ")) {
             return res.json({ isAuthenticated: false });
         }
+
+        const token = authHeader.split(" ")[1];
 
         const decoded = jwt.verify(token, process.env.JWT_SECRET);
         res.json({ isAuthenticated: true, user: decoded });
     } catch (error) {
-        res.json({ isAuthenticated: false });
+        console.error("🔴 Token Verification Error:", error.message);
+        res.json({ isAuthenticated: false, error: error.message });
     }
 });
+
 
 module.exports = router;
