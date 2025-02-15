@@ -78,17 +78,10 @@ exports.submitExam = async (req, res) => {
 
             if (selected !== null) {
                 attemptedQuestions++;
-                isCorrect = selected === Number(q.correctOption);
-
-                if (isCorrect) {
-                    correctAnswers++;
-                    marksObtained = 4; // ✅ +4 for correct answer
-                    totalMarks += 4;
-                } else {
-                    incorrectAnswers++;
-                    marksObtained = -1; // ❌ -1 for incorrect answer
-                    totalMarks -= 1;
-                }
+                const correct = selected === Number(q.correctOption);
+                marksObtained = correct ? 4 : -1;
+                totalMarks += marksObtained;
+                correct ? correctAnswers++ : incorrectAnswers++;
             }
 
             responses.push({
