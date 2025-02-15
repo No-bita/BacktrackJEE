@@ -9,7 +9,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -22,7 +22,7 @@
             "(3) 9.2 m/s",
             "(4) 8.8 m/s"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -35,7 +35,7 @@
             "(3) 4 : 3",
             "(4) 9 : 7"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -48,7 +48,7 @@
             "(3) 2 mα2 d",
             "(4) mα2 d"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -61,7 +61,7 @@
             "(3) W",
             "(4) W sinθ"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -74,7 +74,7 @@
             "(3) 9",
             "(4) 11"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -87,7 +87,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -100,7 +100,7 @@
             "(3) RT",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -113,7 +113,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -126,7 +126,7 @@
             "(3) remains same",
             "(4) becomes zero"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -139,7 +139,7 @@
             "(3) o",
             "(4) o"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -152,7 +152,7 @@
             "(3) 0.50Ω",
             "(4) 0.10Ω"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -165,7 +165,7 @@
             "(3) 25Ω",
             "(4) 27Ω"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -178,7 +178,7 @@
             "(3) Both Statement I and Statement II are false",
             "(4) Statement I is false but Statement II is true"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -191,7 +191,7 @@
             "(3) B x = 60sin[π 2",
             "(4) B z = 2×10−7sin[π 2"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -204,7 +204,7 @@
             "(3) Statement I is true but Statement II is false",
             "(4) Statement I is false but Statement II is true"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -217,7 +217,7 @@
             "(3) λ p > λ e > λ α",
             "(4) λ p < λ e < λ α"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -230,7 +230,7 @@
             "(3) 11.2×1024MeV",
             "(4) 5.6eV"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -243,7 +243,7 @@
             "(3) 875 nm",
             "(4) 1243 nm"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -256,7 +256,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -264,7 +264,7 @@
         "question": "If a→ and → b makes an angle cos−1(5) with each other, then |a→+→ b| = √2|a→−→ b| for |a→| = n|→ b| The integer 9 value of n is ____",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -272,7 +272,7 @@
         "question": "A string is wrapped around the rim of a wheel of moment of inertia 0.40kgm2 and radius 10 cm. The wheel is free to rotate about its axis. Initially the wheel is at rest. The string is now pulled by a force of 40 N. The angular velocity of the wheel after 10 s is xrad/s, where x is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 100,
         "image": null
     },
     {
@@ -280,7 +280,7 @@
         "question": "Two persons pull a wire towards themselves. Each person exerts a force of 200 N on the wire. Young's modulus of the material of wire is 1×1011 N m−2 . Original length of the wire is 2 m and the area of cross section is 2 cm2 . The wire will extend in length by ______ μm.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 20,
         "image": null
     },
     {
@@ -288,7 +288,7 @@
         "question": "The position, velocity and acceleration of a particle executing simple harmonic motion are found to have magnitudes of 4 m,2 ms−1 and 16 ms−2 at a certain instant. The amplitude of the motion is √x, m where x is ________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 17,
         "image": null
     },
     {
@@ -296,7 +296,7 @@
         "question": "At the centre of a half ring of radius R = 10 cm and linear charge density 4nCm−1 , the potential is xπV. The value of x is _______ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (09 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 36,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         "question": "The current flowing through the 1Ω resistor is n A. The value of n is _________ 10",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 25,
         "image": null
     },
     {
@@ -312,7 +312,7 @@
         "question": "A square loop of edge length 2 m carrying current of 2 A is placed with its edges parallel to the x y axis. A → ^ magnetic field is passing through the x−y plane and expressed as B = B 0(1+4x)k, where B 0 = 5 T. The net magnetic force experienced by the loop is _______ N.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 160,
         "image": null
     },
     {
@@ -320,17 +320,15 @@
         "question": "When a coil is connected across a 20 V dc supply, it draws a current of 5 A. When it is connected across 20 V,50 Hz ac supply, it draws a current of 4 A. The self inductance of the coil is ______ mH. ( Take π = 3 )",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 10,
         "image": null
     },
     {
         "question_id": 29,
         "question": "In a Young's double slit experiment, the intensity at a point is of the maximum intensity, the minimum 4 distance of the point from the central maximum is ________ μm. (Given : λ = 600 nm, d = 1.0 mm,D = 1.0 m )",
-        "type": "MCQ",
-        "options": [
-            "(1) th"
-        ],
-        "answer": null,
+        "type": "Integer",
+        "options": [],
+        "answer": 200,
         "image": null
     },
     {
@@ -338,7 +336,7 @@
         "question": "A star has 100% helium composition. It starts to convert three 4He into one 12C via triple alpha process as 4He+4He+4He → 12C+Q. The mass of the star is 2.0×1032 kg and it generates energy at the rate of 5.808×1030 W. The rate of converting these 4He to 12C is n×1042 s−1 , where n is _________ [ Take, mass of 4He = 4.0026u, mass of 12C = 12u ]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 15,
         "image": null
     },
     {
@@ -351,7 +349,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -364,7 +362,7 @@
             "(3) Statement I is incorrect but Statement II is",
             "(4) Statement I is correct but Statement II is"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -377,7 +375,7 @@
             "(3) NH− 2 and H 2O",
             "(4) NH− 2 and BF 3"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -390,7 +388,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -403,7 +401,7 @@
             "(3) nature of compound only.",
             "(4) presence of impurity only."
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -416,7 +414,7 @@
             "(3) Pyridine > Piperidine > Pyrrole",
             "(4) Piperidine > Pyridine > Pyrrole"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -429,7 +427,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -442,7 +440,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -455,7 +453,7 @@
             "(3) A−CH 3CH 2CH 2 −OH B−CH 3CH 2CH 2 −OH",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -468,7 +466,7 @@
             "(3) A: weak electrolyte ; B: strong electrolyte",
             "(4) A: strong electrolyte ; B: strong electrolyte"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -481,7 +479,7 @@
             "(3) Both",
             "(4) Both"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -494,7 +492,7 @@
             "(3) Lead nitrate",
             "(4) Sulphur"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -507,7 +505,7 @@
             "(3) Green colour formation observed on side Y.",
             "(4) Green colour formation observed on side X."
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -520,7 +518,7 @@
             "(3) Cu",
             "(4) Cu"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -533,7 +531,7 @@
             "(3) [3",
             "(4) [3"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -546,7 +544,7 @@
             "(3) Both",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -559,7 +557,7 @@
             "(3) Both",
             "(4) Both"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -572,7 +570,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -585,7 +583,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -598,7 +596,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -606,7 +604,7 @@
         "question": "Molarity (M) of an aqueous solution containing x g of anhyd. CuSO 4 in 500 mL solution at 32∘C is 2×10−1M. Its molality will be ______ ×10−3 m. (nearest integer). [Given density of the solution = 1.25 g/mL]",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 164,
         "image": null
     },
     {
@@ -614,7 +612,7 @@
         "question": "The total number of species from the following in which one unpaired electron is present, is _______ N ,O ,C−,O−,O2−,H+,CN−,He+ 2 2 2 2 2 2 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -622,7 +620,7 @@
         "question": "When equal volume of 1MHCl and 1MH 2SO 4 are separately neutralised by excess volume of 1M NaOH solution. x and y kJ of heat is liberated respectively. The value of y/x is _______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -630,7 +628,7 @@
         "question": "The heat of solution of anhydrous CuSO 4 and CuSO 4 ⋅5H 2O are −70 kJ mol−1 and +12 kJ mol−1 respectively. The heat of hydration of CuSO 4 to CuSO 4 ⋅5H 2O is −x kJ. The value of x is ______ (nearest integer).",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 82,
         "image": null
     },
     {
@@ -638,7 +636,7 @@
         "question": "How many compounds among the following compounds show inductive, mesomeric as well as hyperconjugation effects?",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -646,7 +644,7 @@
         "question": "The standard reduction potentials at 298 K for the following half cells are given below : Cr O2− +14H+ +6e− → 2Cr3+ +7H O,E∘ = 1.33 V 2 7 2 Fe3+(aq)+3e− → Fe E∘ = −0.04 V Ni2+(aq)+2e− → Ni E∘ = −0.25 V Consider the given electrochemical reactions, The Ag+(aq)+e− → Ag E∘ = 0.80 V Au3+(aq)+3e− → Au E∘ = 1.40 V number of metal(s) which will be oxidized be Cr 2O2 7− , in aqueous solution is ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -654,7 +652,7 @@
         "question": "Given below are two statements : Statement I: The rate law for the reaction A+B → C is rate (r) = k[A]2[B] . When the concentration of both A and B is doubled, the reaction rate is increased \" x \" times. Statement II : Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN J EE Main 2024 (09 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo The figure is showing \"the variation in concentration against time plot\" for a \" y \" order reaction. The Value of x+y is ______",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 8,
         "image": null
     },
     {
@@ -662,7 +660,7 @@
         "question": "Number of colourless lanthanoid ions among the following is ________ Eu3+,Lu3+,Nd3+,La3+,Sm3+",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -670,7 +668,7 @@
         "question": "Number of ambidentate ligands among the following is ______ NO− 2,SCN−,C 2O2 4−,NH 3,CN−,SO2 4−,H 2O.",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -678,7 +676,7 @@
         "question": "Total number of essential amino acid among the given list of amino acids is _______ Arginine, Phenylalanine, Aspartic acid, Cysteine, Histidine, Valine, Proline",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -691,7 +689,7 @@
             "(3) x2 −195x+9506 = 0",
             "(4) x2 −195x+9466 = 0"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -704,7 +702,7 @@
             "(3) 15",
             "(4) 20"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -717,7 +715,7 @@
             "(3) 61",
             "(4) 68"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -730,7 +728,7 @@
             "(3) 6π",
             "(4) 9π"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -743,7 +741,7 @@
             "(3) 60",
             "(4) 90"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -756,7 +754,7 @@
             "(3) 5x2 +5y2 −4x−2y−12 = 0",
             "(4) 25x2 +25y2 −20x+2y−60 = 0"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -769,7 +767,7 @@
             "(3) 6",
             "(4) 12"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -782,7 +780,7 @@
             "(3) 44",
             "(4) 47"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -795,7 +793,7 @@
             "(3) 22",
             "(4) 27"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -808,7 +806,7 @@
             "(3) 24",
             "(4) 36"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -821,7 +819,7 @@
             "(3) 51",
             "(4) 54"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -834,7 +832,7 @@
             "(3) 40",
             "(4) 35"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -847,7 +845,7 @@
             "(3) 1",
             "(4) 3"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -860,7 +858,7 @@
             "(3) 2 +5sin−1",
             "(4) 2 +√5sin−1"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -873,7 +871,7 @@
             "(3) 2x+3y = −6",
             "(4) 2x+3y = 6"
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -886,7 +884,7 @@
             "(3) x2 −4y2 5 = x2",
             "(4) x2 −2y2 5 = x2"
         ],
-        "answer": null,
+        "answer": 3,
         "image": null
     },
     {
@@ -899,7 +897,7 @@
             "(3) 12",
             "(4) 10"
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -912,7 +910,7 @@
             "(3) 38",
             "(4) 35"
         ],
-        "answer": null,
+        "answer": 4,
         "image": null
     },
     {
@@ -925,7 +923,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -938,7 +936,7 @@
             "(3) ",
             "(4) "
         ],
-        "answer": null,
+        "answer": 2,
         "image": null
     },
     {
@@ -946,7 +944,7 @@
         "question": "The sum of the square of the modulus of the elements in the set {z = a+ib : a,b ∈ Z,z ∈ C,|z−1| ≤ 1,|z−5| ≤ |z−5i|} is ________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 9,
         "image": null
     },
     {
@@ -954,7 +952,7 @@
         "question": "The remainder when 4282024 is divided by 21 is__________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 1,
         "image": null
     },
     {
@@ -962,7 +960,7 @@
         "question": "Let the centre of a circle, passing through the points (0,0),(1,0) and touching the circle x2 +y2 = 9, be (h,k) . Then for all possible values of the coordinates of the centre (h,k),4(h2 +k2) is equal to_________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 9,
         "image": null
     },
     {
@@ -970,7 +968,7 @@
         "question": "Let lim n→∞( √nn 4+1 − (n2+12 )√n n4+1 + √nn 4+16 − (n2+4)8 √n n4+16 +…+ √n4n +n4 − (n2+n2 2n )√⋅n2 n4+n4) be π k, using only the principal values of the inverse trigonometric functions. Then k2 is equal to ________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 32,
         "image": null
     },
     {
@@ -978,7 +976,7 @@
         "question": "Let A = {2,3,6,7} and B = {4,5,6,8}. Let R be a relation defined on A×B by (a 1,b 1)R(a 2,b 2) if and only if a 1 +a 2 = b 1 +b 2. Then the number of elements in R is _________",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 25,
         "image": null
     },
     {
@@ -986,17 +984,15 @@
         "question": "Let A be a non-singular matrix of order 3 . If det(3adj(2adj((detA)A))) = 3−13 ⋅2−10 and det(3adj(2 A)) = 2m ⋅3n , then |3 m+2n| is equal to",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 14,
         "image": null
     },
     {
         "question_id": 87,
         "question": "If a function f satisfies f( m+n) = f( m)+f(n) for all m,n ∈ N and f(1) = 1, then the largest natural k=1 Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN ⎪ ⎪ J EE Main 2024 (09 Apr Shift 1) JEE Main Previous Year Paper Question Paper MathonGo ⎧ tan8x",
-        "type": "MCQ",
-        "options": [
-            "(2022) 2 is equal to _________"
-        ],
-        "answer": null,
+        "type": "Integer",
+        "options": [],
+        "answer": 1010,
         "image": null
     },
     {
@@ -1004,7 +1000,7 @@
         "question": "(8)tan7x, 0 < x < π 7 2 Let f : (0,π) → R be a function given by f(x) = ⎨ a−8, x = π 2 ⎩ (1+|cotx|)b|tanx|, π < x < π 2 where a,b ∈ Z. If f is continuous at x = π , then a2 +b2 is equal to 2",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 81,
         "image": null
     },
     {
@@ -1012,7 +1008,7 @@
         "question": "Let the set of all positive values of λ, for which the point of local minimum of the function (1+x(λ2 −x2)) satisfies x2+x+2 < 0, be (α,β). Then α2 +β2 is equal to _________ x2+5x+6",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 39,
         "image": null
     },
     {
@@ -1020,7 +1016,7 @@
         "question": "Let a,b and c denote the outcome of three independent rolls of a fair tetrahedral die, whose four faces are marked 1,2,3,4. If the probability that ax2 +bx+c = 0 has all real roots is m , gcd(m,n) = 1, then m+n n is equal to ________ Join the Most Relevant Test Series for JEE Main with Most Detailed & Advanced Analysis here: https://links.mathongo.com/mWN",
         "type": "Integer",
         "options": [],
-        "answer": null,
+        "answer": 19,
         "image": null
     }
 ]
