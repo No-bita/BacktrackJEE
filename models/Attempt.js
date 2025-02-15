@@ -3,14 +3,14 @@ const { options } = require("../server");
 const Schema = mongoose.Schema;
 
 const attemptSchema = new Schema({
-    user: {
-        type: Schema.Types.ObjectId,
+    user_id: {
+        type: String,
         ref: "User",
         required: true
     }, // ✅ Stores which user attempted the exam
 
     year: {
-        type: Schema.Types.ObjectId,
+        type: String,
         ref: "Year",
         required: true
     }, // e.g., "2024"
@@ -113,6 +113,7 @@ const attemptSchema = new Schema({
 
     timeAlloted: {
         type: Number,
+        default: 180,
         required: true
     } // ✅ Stores the total allowed time in minutes
 }, {
@@ -153,6 +154,7 @@ attemptSchema.pre("save", function (next) {
                 // ⚪ Question was skipped
                 q.isCorrect = null;
                 q.marksObtained = 0;
+                unattempted++;
             }
         });
 
