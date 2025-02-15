@@ -16,7 +16,7 @@ const attemptSchema = new Schema({
     }, // e.g., "2024"
     
     slot: {
-        type: Schema.Types.ObjectId,
+        type: String,
         ref: "Slot",
         required: true
     }, // e.g., "Jan 30 Shift 1"    
