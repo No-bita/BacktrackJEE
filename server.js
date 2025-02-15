@@ -46,6 +46,9 @@ app.get("/api/test", (req, res) => {
     res.json({ message: "Hello from the server!" });
 });
 
+const resultsRoutes = require('./routes/results');
+app.use('/api/results', resultsRoutes);
+
 // ✅ Error Handling Middleware
 app.use((err, req, res, next) => {
     console.error(err.stack);
