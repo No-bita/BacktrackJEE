@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+const { options } = require("../server");
 const Schema = mongoose.Schema;
 
 const attemptSchema = new Schema({
@@ -8,11 +9,17 @@ const attemptSchema = new Schema({
         required: true
     }, // ✅ Stores which user attempted the exam
 
-    exam: {
+    year: {
         type: Schema.Types.ObjectId,
-        ref: "Exam",
+        ref: "Year",
         required: true
-    }, // ✅ Stores which exam was attempted
+    }, // e.g., "2024"
+    
+    slot: {
+        type: Schema.Types.ObjectId,
+        ref: "Slot",
+        required: true
+    }, // e.g., "Jan 30 Shift 1"    
 
     responses: [
         {
@@ -32,6 +39,11 @@ const attemptSchema = new Schema({
                 type: Number,
                 default: null
             },
+
+            options: {
+                type: Map,
+                of: String
+            }, // ✅ Stores the options for MCQs
 
             correctOption: {
                 type: Number,
@@ -65,6 +77,11 @@ const attemptSchema = new Schema({
     }, // ✅ Stores how many questions were in the exam
 
     attemptedQuestions: {
+        type: Number,
+        default: 0
+    }, // ✅ Number of questions answered
+
+    unattemptedAnswers: {
         type: Number,
         default: 0
     }, // ✅ Number of questions answered
@@ -108,6 +125,7 @@ attemptSchema.pre("save", function (next) {
         let correct = 0;
         let incorrect = 0;
         let attempted = 0;
+        let unattempted = 0;
         let totalMarks = 0;
 
         this.responses.forEach(q => {
@@ -142,6 +160,7 @@ attemptSchema.pre("save", function (next) {
         this.attemptedQuestions = attempted;
         this.correctAnswers = correct;
         this.incorrectAnswers = incorrect;
+        this.unattemptedAnswers = unattempted;
         this.totalMarks = Math.max(0, totalMarks); // Ensure totalMarks doesn't go negative
 
         // ✅ If no questions were attempted, set all to 0
