@@ -7,8 +7,8 @@ const authMiddleware = require("../middleware/authmiddleware"); // Ensure user i
 const AttemptSchema = new mongoose.Schema({
     user_id: { type: String, required: true },
     user_name: { type: String, required: true },
-    exam_year: { type: String, required: true },
-    exam_slot: { type: String, required: true },
+    year: { type: String, required: true },
+    slot: { type: String, required: true },
     answers: { type: Object, required: true },
     timestamp: { type: Date, default: Date.now }
 });
@@ -18,14 +18,14 @@ const AttemptModel = mongoose.model("UserAttempts", AttemptSchema);
 // API to save user attempts
 router.post("/save-attempt", authMiddleware, async (req, res) => {
     try {
-        const { user_id, user_name, exam_year, exam_slot, answers } = req.body;
+        const { user_id, user_name, year, slot, answers } = req.body;
 
-        if (!user_id || !exam_year || !exam_slot || !answers) {
+        if (!user_id || !year || !slot || !answers) {
             return res.status(400).json({ message: "Missing required fields" });
         }
 
         // Save attempt in MongoDB
-        const attemptRecord = new AttemptModel({ user_id, user_name, exam_year, exam_slot, answers });
+        const attemptRecord = new AttemptModel({ user_id, user_name, year, slot, answers });
         await attemptRecord.save();
 
         return res.status(201).json({ message: "Attempt saved successfully" });

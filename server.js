@@ -41,10 +41,6 @@ app.use("/api/auth", require("./routes/auth"));
 app.use("/api/attempts", require("./routes/attempts"));
 app.use("/api/questions", require("./routes/questions"));
 
-// Import routes
-const attemptRoutes = require("./routes/attempts");
-app.use("/api", attemptRoutes);
-
 // ✅ Test Route
 app.get("/api/test", (req, res) => {
     res.json({ message: "Hello from the server!" });
