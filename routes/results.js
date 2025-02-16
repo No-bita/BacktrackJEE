@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const Attempt = require('../models/Attempt');
-const Question = require('../models/Question');
+const Question = require('../models/questionss');
 const authenticateUser = require('../middleware/authmiddleware');
 
 const router = express.Router();

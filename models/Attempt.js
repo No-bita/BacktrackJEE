@@ -25,7 +25,7 @@ const attemptSchema = new Schema({
         {
             question: {
                 type: Schema.Types.ObjectId,
-                ref: "Question",
+                ref: "questionss",
                 required: true
             }, // ✅ Links each question
 

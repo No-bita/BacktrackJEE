@@ -1,6 +1,6 @@
 const Attempt = require("../models/Attempt");
 const Exam = require("../models/exam");
-const Question = require("../models/Question");
+const Question = require("../models/questionss");
 
 // ✅ Start a New Exam Attempt
 exports.startAttempt = async (req, res) => {
