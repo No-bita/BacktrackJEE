@@ -44,7 +44,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         const detailedResults = questions.map((question) => {
             const questionId = question._id.toString();
             const correctAnswer = question.correct_option;
-            const userAnswer = answers?.[questionId];  // ✅ Works for objects
+            const userAnswer = answers?.get(questionId) ?? null;
 
             let status;
 
