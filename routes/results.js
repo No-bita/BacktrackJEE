@@ -69,16 +69,27 @@ router.get('/calculate', authenticateUser, async (req, res) => {
 
                     const correctAnswer = question.correct_option;
 
-                    // Calculate status
-                    // Calculate status with strict validation
+                    // Calculate status with type-based validation
                     let status;
 
-                    // Normalize user answer
+                    // Normalize user answer (handle whitespace)
                     const normalizedAnswer = userAnswer?.trim();
 
-                    // Validate if the answer is a number between 1 and 4
-                    const isValidAnswer = /^[1-4]$/.test(normalizedAnswer);
+                    // Fetch question type (MCQ or INTEGER)
+                    const questionType = question.type;
 
+                    // Determine valid answer based on question type
+                    let isValidAnswer = false;
+
+                    if (questionType === 'MCQ') {
+                        // Validate MCQ (1 to 4)
+                        isValidAnswer = /^[1-4]$/.test(normalizedAnswer);
+                    } else if (questionType === 'INTEGER') {
+                        // Validate Integer (-99999 to 99999)
+                        isValidAnswer = /^-?\d{1,5}$/.test(normalizedAnswer) && parseInt(normalizedAnswer) >= -99999 && parseInt(normalizedAnswer) <= 99999;
+                    }
+
+                    // Apply logic based on validation
                     if (!normalizedAnswer || !isValidAnswer) {
                         // Unattempted if empty, invalid, or non-numeric
                         status = 'unattempted';
@@ -94,6 +105,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
                         incorrect++;
                         totalMarks -= 1;
                     }
+
 
 
                     return {
