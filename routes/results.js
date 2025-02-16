@@ -23,7 +23,18 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         }
 
         const answers = attempt.answers;
-        const totalQuestions = answers.size; // ✅ Correctly handle Map size
+        // Dynamically determine the correct collection
+        const collectionName = `${slot.replace(/\s+/g, "_")}`;
+        let QuestionModel;
+        if (mongoose.models[collectionName]) {
+            QuestionModel = mongoose.models[collectionName];
+        } else {
+            QuestionModel = mongoose.model(collectionName, new mongoose.Schema({}, { strict: false, collection: collectionName }));
+        }
+
+        // Get total question count directly from the Questions collection
+        const totalQuestions = await QuestionModel.countDocuments({});
+
 
         let correct = 0;
         let incorrect = 0;
@@ -60,10 +71,10 @@ router.get('/calculate', authenticateUser, async (req, res) => {
 
                     // Calculate status
                     let status;
-                    if (userAnswer === null || userAnswer === undefined) {
+                    if (!userAnswer) {
                         status = 'unattempted';
                         unattempted++;
-                    } else if (userAnswer === correctAnswer) {
+                    } else if (parseInt(userAnswer) === correctAnswer) {
                         status = 'correct';
                         correct++;
                         totalMarks += 4;
