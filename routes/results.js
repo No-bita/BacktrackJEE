@@ -30,51 +30,67 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         let unattempted = 0;
         let totalMarks = 0;
 
+        // 2️⃣ Process each answer
         const detailedResults = await Promise.all(
             Object.entries(answers).map(async ([questionId, userAnswer]) => {
-                // Dynamically determine the correct collection based on the year and slot
-                const collectionName = `${year}_${slot.replace(/\s+/g, "_")}_questions`.toLowerCase();
+                try {
+                    // Validate and convert questionId to ObjectId
+                    if (!mongoose.Types.ObjectId.isValid(questionId)) {
+                        throw new Error(`Invalid ObjectId: ${questionId}`);
+                    }
+                    const objectId = new mongoose.Types.ObjectId(questionId);
 
-                // Dynamically create a Mongoose model
-                const QuestionModel = mongoose.models[collectionName] || mongoose.model(collectionName, new mongoose.Schema({}, { strict: false, collection: collectionName }));
+                    // Dynamically determine the correct collection
+                    const collectionName = `${year}_${slot.replace(/\s+/g, "_")}_questions`.toLowerCase();
+                    const QuestionModel = mongoose.models[collectionName] || mongoose.model(collectionName, new mongoose.Schema({}, { strict: false, collection: collectionName }));
 
-                // Fetch the correct question document
-                const question = await QuestionModel.findById(questionId);
+                    // Fetch the question document
+                    const question = await QuestionModel.findById(objectId);
+                    if (!question) {
+                        return {
+                            question_id: questionId,
+                            question_text: "Question not found",
+                            user_answer: userAnswer,
+                            correct_answer: "Unknown",
+                            status: "error"
+                        };
+                    }
 
-                if (!question) {
+                    const correctAnswer = question.correct_option;
+
+                    // Calculate status
+                    let status;
+                    if (userAnswer === null || userAnswer === undefined) {
+                        status = 'unattempted';
+                        unattempted++;
+                    } else if (userAnswer === correctAnswer) {
+                        status = 'correct';
+                        correct++;
+                        totalMarks += 4;
+                    } else {
+                        status = 'incorrect';
+                        incorrect++;
+                        totalMarks -= 1;
+                    }
+
+                    return {
+                        question_id: question._id,
+                        question_text: question.question_text || "N/A",
+                        user_answer: userAnswer,
+                        correct_answer: correctAnswer,
+                        status
+                    };
+
+                } catch (err) {
+                    console.error(`⚠️ Error fetching question for ID ${questionId}:`, err.message);
                     return {
                         question_id: questionId,
-                        question_text: "Question not found",
+                        question_text: "Error retrieving question",
                         user_answer: userAnswer,
                         correct_answer: "Unknown",
                         status: "error"
                     };
                 }
-
-                const correctAnswer = question.correct_option;
-
-                // Calculate the status based on user response
-                let status;
-                if (userAnswer === null || userAnswer === undefined) {
-                    status = 'unattempted';
-                    unattempted++;
-                } else if (userAnswer === correctAnswer) {
-                    status = 'correct';
-                    correct++;
-                    totalMarks += 4;
-                } else {
-                    status = 'incorrect';
-                    incorrect++;
-                    totalMarks -= 1;
-                }
-
-                return {
-                    question_id: question._id,
-                    question_text: question.question_text,
-                    user_answer: userAnswer,
-                    correct_answer: correctAnswer,
-                    status
-                };
             })
         );
 
