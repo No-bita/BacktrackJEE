@@ -41,7 +41,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
                     const objectId = new mongoose.Types.ObjectId(questionId);
 
                     // Dynamically determine the correct collection
-                    const collectionName = `${year}_${slot.replace(/\s+/g, "_")}_questions`.toLowerCase();
+                    const collectionName = `${slot.replace(/\s+/g, "_")}`.toLowerCase();
                     const QuestionModel = mongoose.models[collectionName] || mongoose.model(collectionName, new mongoose.Schema({}, { strict: false, collection: collectionName }));
 
                     // Fetch the question document
