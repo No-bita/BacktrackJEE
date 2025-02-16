@@ -51,8 +51,8 @@ router.get('/calculate', authenticateUser, async (req, res) => {
             }
 
             return {
-                question_id: question._id,
-                question_text: question.question_text,
+                question_id: question,
+                // question_text: question.question_text,
                 user_answer: userAnswer,
                 correct_answer: correctAnswer,
                 status
