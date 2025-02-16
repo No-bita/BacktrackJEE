@@ -20,7 +20,12 @@ router.get('/calculate', authenticateUser, async (req, res) => {
 
     try {
         // 1️⃣ Fetch the user's attempt
-        const attempt = await Attempt.findOne({ user_id, year, slot: decodedSlot }).populate('responses.question');
+        const attempt = await Attempt.findOne({
+            user_id,
+            year,
+            slot: { $regex: `^${decodedSlot.trim()}$`, $options: 'i' } // Case-insensitive match with space trimming
+        }).populate('responses.question');
+        
         if (!attempt) {
             return res.status(404).json({ error: "Attempt not found" });
         }
