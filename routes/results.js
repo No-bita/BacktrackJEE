@@ -70,19 +70,31 @@ router.get('/calculate', authenticateUser, async (req, res) => {
                     const correctAnswer = question.correct_option;
 
                     // Calculate status
+                    // Calculate status with strict validation
                     let status;
-                    if (!userAnswer) {
+
+                    // Normalize user answer
+                    const normalizedAnswer = userAnswer?.trim();
+
+                    // Validate if the answer is a number between 1 and 4
+                    const isValidAnswer = /^[1-4]$/.test(normalizedAnswer);
+
+                    if (!normalizedAnswer || !isValidAnswer) {
+                        // Unattempted if empty, invalid, or non-numeric
                         status = 'unattempted';
                         unattempted++;
-                    } else if (parseInt(userAnswer) === correctAnswer) {
+                    } else if (parseInt(normalizedAnswer) === correctAnswer) {
+                        // Correct answer
                         status = 'correct';
                         correct++;
                         totalMarks += 4;
                     } else {
+                        // Incorrect answer
                         status = 'incorrect';
                         incorrect++;
                         totalMarks -= 1;
                     }
+
 
                     return {
                         question_id: question._id,
