@@ -56,7 +56,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
                         };
                     }
 
-                    const correctAnswer = question.correct_option;
+                    const correctAnswer = question.answer;
 
                     // Calculate status
                     let status;
