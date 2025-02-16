@@ -23,16 +23,16 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         }
 
         const answers = attempt.answers;
-        const totalQuestions = Object.keys(answers).length;
+        const totalQuestions = answers.size; // ✅ Correctly handle Map size
 
         let correct = 0;
         let incorrect = 0;
         let unattempted = 0;
         let totalMarks = 0;
 
-        // 2️⃣ Process each answer
+        // 2️⃣ Process each answer using Map.entries()
         const detailedResults = await Promise.all(
-            Object.entries(answers).map(async ([questionId, userAnswer]) => {
+            Array.from(answers.entries()).map(async ([questionId, userAnswer]) => {
                 try {
                     // Validate and convert questionId to ObjectId
                     if (!mongoose.Types.ObjectId.isValid(questionId)) {
