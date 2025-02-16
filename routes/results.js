@@ -75,7 +75,8 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         res.json(resultSummary);
     } catch (error) {
         console.error("❌ Error calculating results:", error);
-        res.status(500).json({ error: "Internal server error" });
+        
+        res.status(500).json({ error: error });
     }
 });
 
