@@ -73,7 +73,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
                     let status;
 
                     // Normalize user answer (handle whitespace)
-                    const normalizedAnswer = userAnswer?.trim();
+                    const normalizedAnswer = userAnswer;
 
                     // Fetch question type (MCQ or INTEGER)
                     const questionType = question.type;
