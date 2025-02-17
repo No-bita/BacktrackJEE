@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const Question = require('../models/Question');
-const authMiddleware = require('../middleware/authMiddleware');
+const authMiddleware = require('../middleware/authmiddleware');
 
 // Get question paper metadata
 router.get('/boundaries', authMiddleware, async (req, res) => {

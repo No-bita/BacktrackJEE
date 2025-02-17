@@ -4,7 +4,7 @@ const User = require("../models/user");
 require("dotenv").config();
 const userController = require('../controllers/userController');
 const { registerValidation } = require('../middleware/validation');
-const authenticateUser = require('../middleware/authMiddleware');
+const authenticateUser = require('../middleware/authmiddleware');
 const { body, validationResult } = require('express-validator');
 
 const router = express.Router();

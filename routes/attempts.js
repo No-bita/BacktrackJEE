@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const attemptController = require('../controllers/attemptController');
-const authMiddleware = require('../middleware/authMiddleware');
+const authMiddleware = require('../middleware/authmiddleware');
 
 // Start new attempt
 router.post('/start', authMiddleware, attemptController.startAttempt);
