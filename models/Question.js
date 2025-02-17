@@ -5,7 +5,7 @@ module.exports = (collectionName) => {
         //exam: { type: mongoose.Schema.Types.ObjectId, ref: "Exam", required: false }, // ✅ Allows linking to an exam
         question_id: { type: Number, required: true, unique: true },
         type: { type: String, required: true, enum: ["MCQ", "Integer"] }, // ✅ Differentiates question types
-        question_text: { type: String, required: true, trim: true },
+        question_text: { type: String, required: false, trim: true },
         year: { type: mongoose.Schema.Types.ObjectId, ref: "Year", required: false }, // ✅ Year of the question
         slot: { type: mongoose.Schema.Types.ObjectId, ref: "Slot", required: false }, // ✅ Slot of the question
 

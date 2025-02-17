@@ -1,1024 +1,1003 @@
 [
     {
         "question_id": 1,
-        "question": "The equation of state of a real gas is given by 𝑃+ 𝑎 \u0000𝑉-𝑏\u0000 = 𝑅𝑇, where 𝑃, 𝑉 and 𝑇 are pressure, volume 𝑉2 a and temperature respectively and 𝑅 is the universal gas constant. The dimensions of is similar to that of : 2 b",
-        "type": "MCQ",
-        "options": [
-            "(1) 𝑃𝑉",
-            "(2) 𝑃",
-            "(3) 𝑅𝑇",
-            "(4) 𝑅"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 2,
-        "question": "A bullet is fired into a fixed target looses one third of its velocity after travelling 4 cm. It penetrates further 𝐷×10-3 m before coming to rest. The value of 𝐷 is :",
-        "type": "MCQ",
-        "options": [
-            "(1) 32",
-            "(2) 5",
-            "(3) 3",
-            "(4) 4"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 3,
-        "question": "Given below are two statements : Statement (I) : The limiting force of static friction depends on the area of contact and independent of materials. Statement (II) : The limiting force of kinetic friction is independent of the area of contact and depends on materials. In the light of the above statements, choose the most appropriate answer from the options given below :",
-        "type": "MCQ",
-        "options": [
-            "(1) Statement I is correct but Statement II is incorrect",
-            "(2) Statement I is incorrect but Statement II is correct",
-            "(3) Both Statement I and Statement II are incorrect",
-            "(4) Both Statement I and Statement II are correct"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 4,
-        "question": "A ball suspended by a thread swings in a vertical plane so that its magnitude of acceleration in the extreme position and lowest position are equal. The angle (θ) of thread deflection in the extreme position will be : 2 2 √5",
-        "type": "MCQ",
-        "options": [
-            "(1) tan-1\u0000√2\u0000",
-            "(2) 2tan-11",
-            "(3) tan-11",
-            "(4) 2tan-1 1"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 5,
-        "question": "A heavy iron bar of weight 12 kg is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle 60° with the horizontal, the normal force applied by the man on bar is:",
-        "type": "MCQ",
-        "options": [
-            "(1) 6 kg-wt",
-            "(2) 12 kg-wt",
-            "(3) 3 kg-wt",
-            "(4) 6√3 kg-wt"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 6,
-        "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : The angular speed of the moon in its orbit about the earth is more than the angular speed of the earth in its orbit about the sun. Reason (R): The moon takes less time to move around the earth than the time taken by the earth to move around the sun. In the light of the above statements, choose the most appropriate answer from the options given below : explanation of A. correct explanation of A.",
-        "type": "MCQ",
-        "options": [
-            "(1) ",
-            "(2) Both",
-            "(3) Both",
-            "(4) "
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 7,
-        "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R) Assertion (A) : The property of body, by virtue of which it tends to regain its original shape when the external force is removed, is Elasticity. Reason (R) : The restoring force depends upon the bonded inter atomic and inter molecular force of solid. In the light of the above statements, choose the correct answer from the options given below : explanation (A) correct explanation of (A)",
-        "type": "MCQ",
-        "options": [
-            "(1) ",
-            "(2) ",
-            "(3) Both",
-            "(4) Both"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 8,
-        "question": "During an adiabatic process, the pressure of a gas is found to be proportional to the cube of its absolute temperature. The ratio of 𝐶𝑝 for the gas is : 𝐶𝑣 5 3 3 2 7 9 5 7",
-        "type": "MCQ",
-        "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 9,
-        "question": "The total kinetic energy of 1 mole of oxygen at 27°C is : [Use universal gas constant \u0000R\u0000 = 8.31 J mol-1 K-1 ]",
-        "type": "MCQ",
-        "options": [
-            "(1) 6845.5 J",
-            "(2) 5942.0 J",
-            "(3) 6232.5 J",
-            "(4) 5670.5 J"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 10,
-        "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason(R) Assertion (A) : Work done by electric field on moving a positive charge on an equipotential surface is always zero. Reason (R) : Electric lines of forces are always perpendicular to equipotential surfaces. In the light of the above statements, choose the most appropriate answer from the options given below : correct explanation of (A) correct explanation of (A)",
-        "type": "MCQ",
-        "options": [
-            "(1) Both",
-            "(2) ",
-            "(3) ",
-            "(4) Both"
-        ],
-        "answer": null,
-        "image": null
-    },
-    {
-        "question_id": 11,
-        "question": "Wheatstone bridge principle is used to measure the specific resistance 𝑆 of given wire, having length 𝐿, radius 1 𝜋𝑟2 𝑟. If X is the resistance of wire, then specific resistance is : 𝑆 = 𝑋 . If the length of the wire gets doubled 1 𝐿 then the value of specific resistance will be : 𝑆 1 4 𝑆 1 2",
+        "question": "",
         "type": "MCQ",
         "options": [
             "(1) 1",
-            "(2) 2 S",
-            "(3) 1",
-            "(4) 𝑆"
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q1.png"
+    },
+    {
+        "question_id": 2,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q2.png"
+    },
+    {
+        "question_id": 3,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q3.png"
+    },
+    {
+        "question_id": 4,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q4.png"
+    },
+    {
+        "question_id": 5,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q5.png"
+    },
+    {
+        "question_id": 6,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q6.png"
+    },
+    {
+        "question_id": 7,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q7.png"
+    },
+    {
+        "question_id": 8,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q8.png"
+    },
+    {
+        "question_id": 9,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q9.png"
+    },
+    {
+        "question_id": 10,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q10.png"
+    },
+    {
+        "question_id": 11,
+        "question": "",
+        "type": "MCQ",
+        "options": [
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
+        ],
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q11.png"
     },
     {
         "question_id": 12,
-        "question": "A current of 200 μA deflects the coil of a moving coil galvanometer through 60°. The current to cause 𝜋 deflection through radian is 10",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 30 μA",
-            "(2) 120 μA",
-            "(3) 60 μA",
-            "(4) 180 μA"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q12.png"
     },
     {
         "question_id": 13,
-        "question": "Three voltmeters, all having different internal resistances are joined as shown in figure. When some potential difference is applied across A and B, their readings are 𝑉 ,𝑉 and 𝑉 . Choose the correct option.",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 𝑉 = 𝑉",
-            "(2) 𝑉 ≠ 𝑉 -𝑉",
-            "(3) 𝑉 +𝑉 > 𝑉",
-            "(4) 𝑉 +𝑉 = 𝑉"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": "image_q13_p3_1.png"
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q13.png"
     },
     {
-        "question_id": 14,
-        "question": "The primary side of a transformer is connected to 230 V, 50 Hz supply. The turn ratio of primary to secondary winding is 10 : 1. Load resistance connected to the secondary side is 46 Ω. The power consumed in it is:",
+        "question_id": 144,
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 12.5 W",
-            "(2) 10.0 W",
-            "(3) 11.5 W",
-            "(4) 12.0 W"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q14.png"
+    },    
     {
         "question_id": 15,
-        "question": "An object is placed in a medium of refractive index 3. An electromagnetic wave of intensity 6×108 W m-2 falls normally on the object and it is absorbed completely. The radiation pressure on the object would be (speed of light in free space = 3×108 m s-1 ):",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 36 N m-2",
-            "(2) 18 N m-2",
-            "(3) 6 N m-2",
-            "(4) 2 N m-2"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q15.png"
+    },    
     {
         "question_id": 16,
-        "question": "When a polaroid sheet is rotated between two crossed polaroids then the transmitted light intensity will be maximum for a rotation of :",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 60°",
-            "(2) 30°",
-            "(3) 90°",
-            "(4) 45°"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q16.png"
+    },    
     {
         "question_id": 17,
-        "question": "The threshold frequency of a metal with work function 6.63 eV is :",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 16×1015 Hz",
-            "(2) 16×1012 Hz",
-            "(3) 1.6×1012 Hz",
-            "(4) 1.6×1015 Hz"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q17.png"
+    },    
     {
         "question_id": 18,
-        "question": "The atomic mass of C12 is 12.000000 u and that of C13 is 13.003354 u. The required energy to 6 6 remove a neutron from C13 , if mass of neutron is 1.008665 u, will be: 6",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 62.5MeV",
-            "(2) 6.25MeV",
-            "(3) 4.95MeV",
-            "(4) 49.5MeV"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q18.png"
+    },    
     {
         "question_id": 19,
-        "question": "The truth table of the given circuit diagram is : ",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) A B Y",
-            "(2) A B Y",
-            "(3) A B Y",
-            "(4) A B Y"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q19.png"
+    },    
     {
         "question_id": 20,
-        "question": "Given below are two statements: one is labelled as Assertion(A) and the other is labelled as Reason (R). Assertion (A) : In Vernier calliper if positive zero error exists, then while taking measurements, the reading taken will be more than the actual reading. Reason (R) : The zero error in Vernier Calliper might have happened due to manufacturing defect or due to rough handling. In the light of the above statements, choose the correct answer from the options given below : correct explanation of (A) correct explanation of (A)",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Both",
-            "(2) Both",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q20.png"
+    },    
     {
         "question_id": 21,
-        "question": "A body falling under gravity covers two points A and B separated by 80 m in 2 s. The distance of upper point A from the starting point is _____m. Use g = 10 m s-2",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 2521,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q21.png"
     },
     {
         "question_id": 22,
-        "question": "A ring and a solid sphere roll down the same inclined plane without slipping. They start from rest. The radii of 7 both bodies are identical and the ratio of their kinetic energies is , where x is ______. x",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 304,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q22.png"
     },
     {
         "question_id": 23,
-        "question": "The reading of pressure metre attached with a closed pipe is 4.5×104 N m-2. On opening the valve, water starts flowing and the reading of pressure metre falls to 2.0×104 N m-2. The velocity of water is found to be √𝑉 m s-1. The value of 𝑉 is _________.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 10,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q23.png"
     },
     {
         "question_id": 24,
-        "question": "A closed organ pipe 150 cm long gives 7 beats per second with an open organ pipe of length 350 cm, both vibrating in fundamental mode. The velocity of sound is ______ m s-1.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 32,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q24.png"
     },
     {
         "question_id": 25,
-        "question": "The electric potential at the surface of an atomic nucleus (𝑍 = 50) of radius 9×10-13 cm is 𝛼×106 V. What is the value of 𝛼? (Charge of proton 1.6×10-19 C)",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 0,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q25.png"
     },
     {
         "question_id": 26,
-        "question": "Two charges of -4 μC and +4 μC are placed at the points 𝐴(1, 0, 4) m and 𝐵(2, -1, 5) m \u0000\u0000 ^ located in an electric field 𝐸 = 0.20i V cm-1. The magnitude of the torque acting on the dipole is 8 𝛼 ×10-5 N m, where 𝛼 = _________. √",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 11,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q26.png"
     },
     {
         "question_id": 27,
-        "question": "The magnetic field at the centre of a wire loop formed by two semicircular wires of radii 𝑅 = 2𝜋 m and 1 𝑅 = 4𝜋 m carrying current 𝐼 = 4 A as per figure given below is 𝛼×10-7 T. The value of 𝛼 is _____. 2 (Centre O is common for all segments)",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": "image_q27_p5_4.png"
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q27.png"
     },
     {
         "question_id": 28,
-        "question": "100 10-3 A series LCR circuit with 𝐿 = mH,𝐶 = F and 𝑅 = 10 Ω, is connected across an AC source of 𝜋 𝜋 220 V,50 Hz supply. The power factor of the circuit would be ____. o",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 100,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q28.png"
     },
     {
         "question_id": 29,
-        "question": "A parallel beam of monochromatic light of wavelength 5000 A is incident normally on a single narrow slit of width 0.001 mm. The light is focused by convex lens on screen, placed on its focal plane. The first minima will be formed for the angle of diffraction of ______ (degree). 𝛼",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 108,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q29.png"
     },
     {
         "question_id": 30,
-        "question": "If Rydberg's constant is R, the longest wavelength of radiation in Paschen series will be , where 𝛼 = ______. 7𝑅",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 20,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q30.png"
     },
     {
         "question_id": 31,
-        "question": "Which of the following cannot function as an oxidising agent? 4 3 4",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) N3-",
-            "(2) SO2-",
-            "(3) BrO-",
-            "(4) MnO-"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q31.png"
+    },     
     {
         "question_id": 32,
-        "question": "The molecular formula of second homologue in the homologous series of mono carboxylic acids is _________. 3 6 2 2 4 2 2 2 2 2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) C H O",
-            "(2) C H O",
-            "(3) CH O",
-            "(4) C H O"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q32.png"
+    },     
     {
         "question_id": 33,
-        "question": "Bond line formula of HOCH(CN) is: 2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q33.png"
+    },     
     {
         "question_id": 34,
-        "question": "The order of relative stability of the contributing structure is: Choose the correct answer from the options given below:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) I > II > III",
-            "(2) II > I > III",
-            "(3) I = II = III",
-            "(4) III > II > I"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": "image_q34_p6_3.png"
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q34.png"
+    }, 
     {
         "question_id": 35,
-        "question": "The incorrect statement regarding conformations of ethane is: 60° conformation. to one-another",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Ethane has infinite number of conformations",
-            "(2) The dihedral angle in staggered conformation is",
-            "(3) Eclipsed conformation is the most stable",
-            "(4) The conformations of ethane are interconvertible"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q35.png"
+    }, 
     {
         "question_id": 36,
-        "question": "The technique used for purification of steam volatile water immiscible substance is:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Fractional distillation",
-            "(2) Fractional distillation under reduced pressure",
-            "(3) Distillation",
-            "(4) Steam distillation"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q36.png"
+    }, 
     {
         "question_id": 37,
-        "question": "The final product A, formed in the following reaction sequence is: 2 2 3 2 2 2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Ph-CH -CH -CH",
-            "(2) ",
-            "(3) ",
-            "(4) Ph-CH -CH -CH -OH"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q37.png"
+    }, 
     {
         "question_id": 38,
-        "question": "The quantity which changes with temperature is:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Molarity",
-            "(2) Mass percentage",
-            "(3) Molality",
-            "(4) Mole fraction"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q38.png"
+    }, 
     {
         "question_id": 39,
-        "question": "Which of the following statements is not correct about rusting of iron?",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Coating of iron surface by tin prevents rusting, even if the tin coating is peeling off.",
-            "(2) When pH lies above 9 or 10 , rusting of iron does not take place.",
-            "(3) Dissolved acidic oxides SO2, NO2 in water act asc atalyst in the process of rusting",
-            "(4) Rusting of iron is envisaged as setting up of electrochemical cell on the surface of iron object."
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": "image_q39_p7_1.png"
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q39.png"
+    }, 
     {
         "question_id": 40,
-        "question": "Given below are two statements: Statement (I) : Oxygen being the first member of group 16 exhibits only – 2 oxidation state. Statement (II) : Down the group 16 stability of +4 oxidation state decreases and +6 oxidation state increases. In the light of the above statements, choose the most appropriate answer from the options given below: incorrect correct",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Statement I is correct but Statement II is",
-            "(2) Both Statement I and Statement II are correct",
-            "(3) Both Statement I and Statement II are incorrect",
-            "(4) Statement I is incorrect but Statement II is"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q40.png"
+    }, 
     {
         "question_id": 41,
-        "question": "Choose the correct option having all the elements with d10 electronic configuration from the following:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 27Co,28Ni,26Fe,24Cr",
-            "(2) 29Cu,30Zn,48Cd,47Ag",
-            "(3) 46Pd,28Ni,26Fe,24Cr",
-            "(4) 28Ni,24Cr,26Fe,29Cu"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q41.png"
+    }, 
     {
         "question_id": 42,
-        "question": "Given below are two statements: Statement (I) : In the Lanthanoids, the formation of Ce+4 is favoured by its noble gas configuration. Statement (II) : Ce+4 is a strong oxidant reverting to the common +3 state. In the light of the above statements, choose the most appropriate answer from the options given below:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Statement I is false but Statement II is true",
-            "(2) Both Statement I and Statement II are true",
-            "(3) Statement I is true but Statement II is false",
-            "(4) Both Statement I and Statement II are false"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q42.png"
+    }, 
     {
         "question_id": 43,
-        "question": "Identity the incorrect pair from the following: 4 33 2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Photography - AgBr",
-            "(2) Polythene preparation - TiCl ,AlCH",
-            "(3) Haber process - Iron",
-            "(4) Wacker process - PtCl"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q43.png"
+    }, 
     {
         "question_id": 44,
-        "question": "Identify from the following species in which d2sp3 hybridization is shown by central atom: 36 5 2- ) 6 4",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) CoNH 3+",
-            "(2) BrF",
-            "(3) Pt",
-            "(4) SF"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q44.png"
+    }, 
     {
         "question_id": 45,
-        "question": "Which among the following halide/s will not show S 1 reaction: N 2 2 3",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) H C = CH-CH Cl",
-            "(2) CH -CH = CH-Cl",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q45.png"
+    }, 
     {
         "question_id": 46,
-        "question": "Identify B formed in the reaction. excess NH NaOH 3 Cl-CH -Cl\u0000⎯⎯⎯⎯⎯⎯⎯\u0000 A\u0000⎯⎯\u0000 B+H O+NaCl",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) H N-CH -NH",
-            "(3) -ClH N+-CH -NH Cl-",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": "image_q46_p8_6.png"
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q46.png"
+    }, 
     {
         "question_id": 47,
-        "question": "Phenolic group can be identified by a positive:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Phthalein dye test",
-            "(2) Lucas test",
-            "(3) Tollen’s test",
-            "(4) Carbylamine test"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q47.png"
+    }, 
     {
         "question_id": 48,
-        "question": "Match List-I with List-II. List I (Reaction) List II (Reagent(s)) (A) (I) Na Cr O /H SO 2 2 7 2 4 (B) (II) (i) NaOH (ii) CH Cl 3 (i)NaOH,CHCl 3 (C) (III) (ii) NaOH (iii) HCl (i) NaOH (ii) CO 2 (D) (IV) (iii) HCl Choose the correct answer from the options given below:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q8.png"
+    }, 
     {
         "question_id": 49,
-        "question": "Major product formed in the following reaction is a mixture of:",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": "image_q49_p9_5.png"
-    },
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q49.png"
+    }, 
     {
         "question_id": 50,
-        "question": "Which structure of protein remains intact after coagulation of egg white on boiling?",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) Primary",
-            "(2) Tertiary",
-            "(3) Secondary",
-            "(4) Quaternary"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q50.png"
     },
     {
         "question_id": 51,
-        "question": "Volume of 3M NaOH (formula weight 40 g mol-1 ) which can be prepared from 84 g of NaOH is ____ ×10-1dm3.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q51.png"
     },
     {
         "question_id": 52,
-        "question": "9.3 g of aniline is subjected to reaction with excess of acetic anhydride to prepare acetanilide. The mass of acetanilide produced if the reaction is 100% completed is _____×10-1 g. (Given molar mass in g mol-1 N = 14,O = 16,C = 12,H = 1)",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q52.png"
     },
     {
         "question_id": 53,
-        "question": "1 mole of PbS is oxidised by X moles of O to get Y moles of O . X+Y = 3 2",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 294,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q53.png"
     },
     {
         "question_id": 54,
-        "question": "Total number of ions from the following with noble gas configuration is Sr2+ \u0000Z = 38\u0000,Cs+\u0000Z = 55\u0000,La2+ \u0000Z = 57\u0000Pb2+ \u0000Z = 82\u0000,Yb2+ \u0000Z = 70\u0000 and Fe2+ \u0000Z = 26\u0000",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 45,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q54.png"
     },
     {
         "question_id": 55,
-        "question": "The number of non-polar molecules from the following is HF,H O,SO ,H ,CO ,CH ,NH ,HCl,CHCl ,BF 2 2 2 2 4 3 3 3",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 50,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q55.png"
     },
     {
         "question_id": 56,
-        "question": "For a certain thermochemical reaction M → N at T = 400 K,ΔHo = 77.2 kJ mol-1, ΔSo = 122JK-1, log equilibrium constant \u0000logK\u0000 is - _____×10-1.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 7,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q56.png"
     },
     {
         "question_id": 57,
-        "question": "Total number of compounds with Chiral carbon atoms from following is CH -CH -CHNO -COOH 3 2 2 CH -CH\u0000I\u0000 -CH -NO 3 2 2 CH -CH -CHBr-CH -CH 3 2 2 3 CH -CH -CH\u0000OH\u0000 -CH OH",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 30,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q57.png"
     },
     {
         "question_id": 58,
-        "question": "The hydrogen electrode is dipped in a solution of pH = 3 at 25°C. The potential of the electrode will be - ______×10-2 V. 2.303RT = 0.059 V Round off the answer to the nearest integer. F",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 8,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q58.png"
     },
     {
         "question_id": 59,
-        "question": "Time required for completion of 99.9% of first order reaction is ________ times of half life \u0000t \u0000 of the 1/2 reaction",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 144,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q59.png"
     },
     {
         "question_id": 60,
-        "question": "The Spin only magnetic moment value of square planar complex PtNH ClNH CH Cl is _______ B.M. 32 2 3 (Nearest integer) ( Given atomic number for Pt = 78)",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q60.png"
     },
     {
         "question_id": 61,
-        "question": "If 𝛼,𝛽 are the roots of the equation, x2-x-1 = 0 and S = 2023𝛼n+2024𝛽n, then n 12 11 10 12 11 10 11 12 10 11 10 12 (4!)! (5!)!",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 2 S = S +S",
-            "(2) S = S +S",
-            "(3) 2 S = S +S",
-            "(4) S = S +S"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q61.png"
+    },     {
         "question_id": 62,
-        "question": "Let 𝛼 = and 𝛽 = . Then : (4!)3! (5!)4!",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 𝛼 ∈ N and 𝛽 ∉ N",
-            "(2) 𝛼 ∉ N and 𝛽 ∈ N",
-            "(3) 𝛼 ∈ N and 𝛽 ∈ N",
-            "(4) 𝛼 ∉ N and 𝛽 ∉ N"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q62.png"
+    },     {
         "question_id": 63,
-        "question": "The 20th term from the end of the progression 20,191 ,181 ,173 , … , -1291 is :- 4 2 4 4",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) -118",
-            "(2) -110",
-            "(3) -115",
-            "(4) -100"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q63.png"
+    },     {
         "question_id": 64,
-        "question": "If 2tan2𝜃-5sec𝜃 = 1 has exactly 7 solutions in the interval 0,n𝜋 , for the least value of n ∈ N then ∑n k is 2 k=1 2k equal to : 215 214 213 213",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 1 214-14",
-            "(2) 1 215-15",
-            "(3) 1- 15",
-            "(4) 1 214-15"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q64.png"
+    },     {
         "question_id": 65,
-        "question": "Let 𝐴 and 𝐵 be two finite sets with 𝑚 and 𝑛 elements respectively. The total number of subsets of the set 𝐴 is 56 more than the total number of subsets of 𝐵. Then the distance of the point P(m,n) from the point Q\u0000 -2, -3\u0000 is",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 10",
-            "(2) 6",
-            "(3) 4",
-            "(4) 8"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q65.png"
+    },     {
         "question_id": 66,
-        "question": "Let R be the interior region between the lines 3x-y+1 = 0 and x+2y-5 = 0 containing the origin. The set of all values of 𝑎, for which the points a2,a+1 lie in R, is : 1 1 3 3 2 1 3 3",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) \u0000 -3, -1\u0000 ∪- ,1",
-            "(2) \u0000 -3,0\u0000 ∪ ,1",
-            "(3) \u0000 -3,0\u0000 ∪ ,1",
-            "(4) \u0000 -3, -1\u0000 ∪ ,1"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q66.png"
+    },     {
         "question_id": 67,
-        "question": "Let e be the eccentricity of the hyperbola x2 - y2 = 1 and e be the eccentricity of the ellipse 1 2 16 9 x2 y2 + = 1, a > b, which passes through the foci of the hyperbola. If e e = 1, then the length of the chord a2 b2 1 2 of the ellipse parallel to the x-axis and passing through (0,2) is :",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 4√5",
-            "(2) 8√5",
-            "(3) 10√5",
-            "(4) 3√5"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q67.png"
+    },     {
         "question_id": 68,
-        "question": "If lim 3+𝛼sin𝑥+𝛽cos𝑥+log 𝑒\u00001-𝑥\u0000 = 1 , then 2𝛼-𝛽 is equal to : 𝑥→0 3tan2𝑥 3",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 2",
-            "(2) 7",
-            "(3) 5",
-            "(4) 1"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q68.png"
+    },     {
         "question_id": 69,
-        "question": "1 3 𝛼+ 3 2 2 The values of 𝛼, for which 1 1 = 0, lie in the interval 1 𝛼+ 3 3 2𝛼+3 3𝛼+1 0 3 3 2 2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) - ,",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q69.png"
+    },     {
         "question_id": 70,
-        "question": "Considering only the principal values of inverse trigonometric functions, the number of positive real values of 𝑥 satisfying tan-1\u0000x\u0000 +tan-1\u00002x\u0000 = π is : 4",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) More than 2",
-            "(2) 1",
-            "(3) 2",
-            "(4) 0"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q70.png"
+    },     {
         "question_id": 71,
-        "question": "Let f:R- -1 → R and g:R- -5 → R be defined as fx = 2x+3 and gx = \u0000x| +1 . Then the domain of the function 2 2 2x+1 2x+5 fog is : 5 2 7 5 7 4 2 4 x 2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) R--",
-            "(2) 𝑅",
-            "(3) R--",
-            "(4) R-- , -"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q71.png"
+    },     {
         "question_id": 72,
-        "question": "Consider the function f: (0,2) → R defined by f\u0000x\u0000 = + and the function g\u0000x\u0000 defined by 2 x min{f(t) }, 0 < t ≤ x and 0 < x ≤ 1 gx = . Then 3 +x, 1 < x < 2 2 x ∈ (0,2)",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) g is continuous but not differentiable at x = 1",
-            "(2) g is not continuous for all x ∈",
-            "(3) g is neither continuous nor differentiable at x = 1",
-            "(4) g is continuous and differentiable for all"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q72.png"
+    },     {
         "question_id": 73,
-        "question": "Let g\u0000x\u0000 = 3fx +f\u00003-x\u0000 and f\"\u0000x\u0000 > 0 for all x ∈ (0,3). If g is decreasing in (0,α) and increasing in 3 (α,3), then 8α is",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 24",
-            "(2) 0",
-            "(3) 18",
-            "(4) 20"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q73.png"
+    },     {
         "question_id": 74,
-        "question": "The integral ∫ x8-x2dx is equal to : x12+3x6+1tan-1x3+ 1 x3 1 1 logtan-1x3+ 1 3 +C log tan-1x3+ 1 2 +C x3 e x3 e x3 e x3 𝜋 𝑑𝑥",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) log tan-1x3+ 1 +C",
-            "(4) log tan-1x3+ 13 +C"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q74.png"
+    },     {
         "question_id": 75,
-        "question": "For 0 < a < 1, the value of the integral ∫ is : 0 1-2𝑎cos𝑥+𝑎2 𝜋2 𝜋2 𝜋+𝑎2 𝜋-𝑎2 𝜋 𝜋 1-𝑎2 1+𝑎2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q75.png"
+    },     {
         "question_id": 76,
-        "question": "If y = y\u0000x\u0000 is the solution curve of the differential equation x2-4dy-y2-3ydx = 0, x > 2,y\u00004\u0000 = 3 and 2 the slope of the curve is never zero, then the value of y\u000010\u0000 equals : 3 3 1 1+2√2 3 3 1-2√2 1 ^ ^ ^ ^ ^ ^ ^ ^ ^",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(8) 4",
-            "(3) ",
-            "(4) ",
-            "(8) 4"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q76.png"
+    },     {
         "question_id": 77,
-        "question": "The position vectors of the vertices A, B and C of a triangle are 2i -3j +3k, 2i +2j +3k and -i + j +3k respectively. Let 𝑙 denotes the length of the angle bisector AD of ∠BAC where D is on the line segment BC, then 2𝑙2 equals : ^ ^ ^ ^ ^ ^ ^ ^ ^",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) 49",
-            "(2) 42",
-            "(3) 50",
-            "(4) 45"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q77.png"
+    },     {
         "question_id": 78,
-        "question": "Let the position vectors of the vertices A, B and C of a triangle be 2i +2j +k, i +2j +2k and 2i + j +2k respectively. Let l ,l and l be the lengths of perpendiculars drawn from the ortho centre of the triangle on the 1 2 3 sides AB,BC and CA respectively, then l2+l2+l2 equals : 1 2 3 1 1 5 2 1 1 4 3 x y-1 z-2",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 1,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q78.png"
+    },     {
         "question_id": 79,
-        "question": "Let the image of the point (1,0,7) in the line = = be the point \u0000α,β,γ\u0000. Then which one of the 1 2 3 2π 3π following points lies on the line passing through \u0000α,β,γ\u0000 and making angles and with y-axis and z- 3 4 axis respectively and an acute angle with x-axis?",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) \u00001, -2,1+√2\u0000",
-            "(2) \u00001,2,1-√2\u0000",
-            "(3) \u00003,4,3-2√2\u0000",
-            "(4) \u00003, -4,3+2√2\u0000"
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
-    {
+        "answer": 3,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q79.png"
+    },     {
         "question_id": 80,
-        "question": "An urn contains 6 white and 9 black balls. Two successive draws of 4 balls are made without replacement. The probability, that the first draw gives all white balls and the second draw gives all black balls, is : 5 5 256 715 3 3 715 256 1",
+        "question": "",
         "type": "MCQ",
         "options": [
-            "(1) ",
-            "(2) ",
-            "(3) ",
-            "(4) "
+            "(1) 1",
+            "(2) 2",
+            "(3) 3",
+            "(4) 4"
         ],
-        "answer": null,
-        "image": null
-    },
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q80.png"
+    }, 
     {
         "question_id": 81,
-        "question": "Let the complex numbers α and lie on the circles z-z 2 = 4 and z-z 2 = 16 respectively, where z = 1+i. 0 0 0 α¯ Then, the value of 100 | α|2 is__________.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 2,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q81.png"
     },
     {
         "question_id": 82,
-        "question": "The coefficient of x2012 in the expansion of 1-x20081+x+x22007 is equal to _____.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 4,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q82.png"
     },
     {
         "question_id": 83,
-        "question": "If the sum of squares of all real values of α, for which the lines 2x-y+3 = 0, 6x+3y+1 = 0 and αx+2y-2 = 0 do not form a triangle is p, then the greatest integer less than or equal to p is ________.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 10,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q83.png"
     },
     {
         "question_id": 84,
-        "question": "Consider a circle 𝑥-𝛼2+𝑦-𝛽2 = 50, where 𝛼,𝛽 > 0. If the circle touches the line 𝑦+𝑥 = 0 at the point P, whose distance from the origin is 4√2 , then \u0000𝛼+𝛽)2 is equal to _______.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 0,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q84.png"
     },
     {
         "question_id": 85,
-        "question": "The mean and standard deviation of 15 observations were found to be 12 and 3 respectively. On rechecking it was found that an observation was read as 10 in place of 12. If 𝜇 and 𝜎2 denote the mean and variance of the correct observations respectively, then 15𝜇+𝜇2+𝜎2 is equal to _________.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 37,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q85.png"
     },
     {
         "question_id": 86,
-        "question": "Let A be a 2×2 real matrix and I be the identity matrix of order 2. If the roots of the equation \u0000A-xI | = 0 be -1 and 3, then the sum of the diagonal elements of the matrix A2 is _____. π",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 7,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q86.png"
     },
     {
         "question_id": 87,
-        "question": "x 1-t x2cosx π2 Let fx = ∫ gtlog dt, where g is a continuous odd function. If ∫2 fx+ dx = -α, then α is equal 0 e1+t -π 1+ex α 2 to _____.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 8,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q87.png"
     },
     {
         "question_id": 88,
-        "question": "If the area of the region \u0000x,y\u0000:0 ≤ y ≤ min2x,6x-x2 is A, then 12 A is equal to _______. 𝑑𝑦 𝑥+𝑦-2",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 18,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q88.png"
     },
     {
         "question_id": 89,
-        "question": "If the solution curve, of the differential equation = passing through the point (2,1) is 𝑑𝑥 𝑥-𝑦 2 tan-1𝑦-1 - 1 log 𝛼+ 𝑦-1 = log 𝑥-1, then 5𝛽+𝛼 is equal to 𝑥-1 𝛽 𝑒 𝑥-1 𝑒 x-2 y z-7 x+3 y+2 z+2",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 135,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q89.png"
     },
     {
         "question_id": 90,
-        "question": "The lines = = and = = intersect at the point P. If the distance of P from the line 2 -2 16 4 3 1 x+1 = y-1 = z-1 is 𝑙, then 14𝑙2 is equal to _____.",
+        "question": "",
         "type": "Integer",
         "options": [],
-        "answer": null,
-        "image": null
+        "answer": 5,
+        "image": "https://raw.githubusercontent.com/No-bita/BacktrackJEE/refs/heads/master/output/Jan_27_Shift_1/q90.png"
     }
 ]
