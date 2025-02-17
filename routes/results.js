@@ -43,7 +43,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         // 4️⃣ Process each question from the database
         const detailedResults = questions.map((question) => {
             const questionId = question._id.toString();
-            const correctAnswer = question.correct_option;
+            const correctAnswer = question.correct_answer;
             const userAnswer = answers?.get(questionId) ?? null;
 
             let status;

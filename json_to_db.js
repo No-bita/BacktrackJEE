@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 // ✅ Get JSON file name (without extension) and format collection name
-const jsonFilePath = "/Users/aaryanshah/Desktop/Project/BacktrackJEE-master/JEE Mains/Jan_27_Shift_1.json";
+const jsonFilePath = "/Users/aaryanshah/Desktop/Project/BacktrackJEE-master/JEE Mains/Jan_27_Shift_2.json";
 const collectionName = path.basename(jsonFilePath, ".json").replace(/\s+/g, "_"); // ✅ Replace spaces with underscores
 
 const Question = require("./models/Question")(collectionName);
