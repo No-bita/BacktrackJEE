@@ -18,6 +18,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
     try {
         // 1️⃣ Fetch the user's attempt
         const attempt = await Attempt.findOne({ user_id, year, slot: decodedSlot });
+        console.log(attempt);
         if (!attempt) {
             return res.status(404).json({ error: "Attempt not found" });
         }
