@@ -1,42 +1,22 @@
-// 📂 models/Attempt.js
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
-const Schema = mongoose.Schema;
-
-const attemptSchema = new Schema({
-    user_id: {
-        type: String,
-        required: true
-    }, // Stores the user's ID
-
-    user_name: {
-        type: String,
-        required: true
-    }, // Stores the user's name
-
-    year: {
-        type: String,
-        required: true
-    }, // e.g., "2024"
-
-    slot: {
-        type: String,
-        required: true
-    }, // e.g., "Jan 29 Shift 1"
-
-    answers: {
-        type: Map,
-        of: Number,
-        required: true
-    }, // Map of question_id -> selected answer
-
-    timestamp: {
-        type: Date,
-        default: Date.now
-    } // Automatically logs when the attempt is stored
-}, {
-    collection: "userattempts" // Matches your DB collection name
+const attemptSchema = new mongoose.Schema({
+  user: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
+  questions: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Question', required: true }],
+  responses: [{
+    questionId: { type: mongoose.Schema.Types.ObjectId, required: true },
+    answer: { type: mongoose.Schema.Types.Mixed } // Number or null
+  }],
+  score: { type: Number, default: 0 },
+  year: { type: Number, required: true },
+  shift: { type: String, required: true },
+  startedAt: { type: Date, default: Date.now },
+  completedAt: Date,
+  subjectBoundaries: {
+    Mathematics: { start: Number, end: Number },
+    Physics: { start: Number, end: Number },
+    Chemistry: { start: Number, end: Number }
+  }
 });
 
-const Attempt = mongoose.model("Attempt", attemptSchema);
-module.exports = Attempt;
+module.exports = mongoose.model('Attempt', attemptSchema);

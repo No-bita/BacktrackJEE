@@ -1,80 +1,112 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
+const helmet = require("helmet");
+const rateLimit = require("express-rate-limit");
 require("dotenv").config();
-const connectDB = require("./config/db"); // ✅ Import database connection
+const connectDB = require("./config/db");
 
-// ✅ Validate environment variables before running
-if (!process.env.MONGODB_URI) {
-    console.error("❌ MONGODB_URI is missing in .env");
+// Validate essential environment variables
+const requiredEnvVars = ["MONGODB_URI", "JWT_SECRET"];
+requiredEnvVars.forEach(varName => {
+  if (!process.env[varName]) {
+    console.error(`❌ Missing required environment variable: ${varName}`);
     process.exit(1);
-}
-
-// Initialize app
-const app = express();
-
-// ✅ CORS Configuration
-const corsOptions = {
-    origin: "*", // ✅ Define allowed origins
-    credentials: true,
-    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    allowedHeaders: ["Content-Type", "Authorization"]
-};
-
-// Middleware
-app.use(express.json());
-app.use(cors(corsOptions));
-app.options("*", cors());
-app.use(express.urlencoded({ extended: false }));
-
-// ✅ Security headers
-app.use((req, res, next) => {
-    res.header("Strict-Transport-Security", "max-age=31536000; includeSubDomains");
-    next();
+  }
 });
 
-// ✅ Trust first proxy (needed for cookies)
+// Initialize Express
+const app = express();
+
+// Enhanced security middleware
+app.use(helmet());
+app.use(helmet.hsts({
+  maxAge: 31536000,
+  includeSubDomains: true,
+  preload: true
+}));
+
+// Rate limiting configuration
+const apiLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 500, // Limit each IP to 500 requests per windowMs
+  message: "Too many requests from this IP, please try again later"
+});
+
+// CORS configuration
+const corsOptions = {
+  origin: process.env.CORS_ORIGIN || "*",
+  methods: ["GET", "POST", "PUT", "DELETE"],
+  allowedHeaders: ["Content-Type", "Authorization", "X-Requested-With"],
+  credentials: true,
+  optionsSuccessStatus: 200
+};
+
+// Middleware pipeline
+app.use(cors(corsOptions));
+app.use(express.json({ limit: "10kb" }));
+app.use(express.urlencoded({ extended: true, limit: "10kb" }));
 app.set("trust proxy", 1);
 
-// ✅ Routes
+// Apply rate limiting to API routes
+app.use("/api/", apiLimiter);
+
+// Routes
 app.use("/api/auth", require("./routes/auth"));
 app.use("/api/attempts", require("./routes/attempts"));
 app.use("/api/questions", require("./routes/questions"));
 
-// ✅ Test Route
-app.get("/api/test", (req, res) => {
-    res.json({ message: "Hello from the server!" });
+// Health check endpoint
+app.get("/api/health", (req, res) => {
+  res.status(200).json({
+    status: "ok",
+    timestamp: new Date().toISOString(),
+    dbStatus: mongoose.connection.readyState === 1 ? "connected" : "disconnected"
+  });
 });
 
-const resultsRoutes = require('./routes/results');
-app.use('/api/results', resultsRoutes);
-
-// ✅ Error Handling Middleware
+// Error handling middleware
 app.use((err, req, res, next) => {
-    console.error(err.stack);
-    res.status(500).json({ message: "Something went wrong!", error: process.env.NODE_ENV === "development" ? err.message : undefined });
+  console.error(`🚨 [${new Date().toISOString()}] Error: ${err.message}`);
+  
+  const statusCode = err.statusCode || 500;
+  const response = {
+    status: "error",
+    message: err.message || "An unexpected error occurred"
+  };
+
+  if (process.env.NODE_ENV === "development") {
+    response.stack = err.stack;
+  }
+
+  res.status(statusCode).json(response);
 });
 
-// ✅ 404 Handler
-app.use((req, res) => {
-    res.status(404).json({ message: "Route not found" });
+// 404 handler
+app.use("*", (req, res) => {
+  res.status(404).json({
+    status: "fail",
+    message: "Endpoint not found"
+  });
 });
 
-// ✅ Start Server Only After MongoDB is Connected
+// Server initialization
 const PORT = process.env.PORT || 5001;
 const startServer = async () => {
-    try {
-        await connectDB(); // ✅ Ensure DB connection before running server
-
-        app.listen(PORT, () => {
-            console.log(`🚀 Server running on port ${PORT}`);
-        });
-    } catch (error) {
-        console.error("❌ Failed to start server:", error);
-        process.exit(1); // Stop process if DB fails
-    }
+  try {
+    await connectDB();
+    
+    app.listen(PORT, () => {
+      console.log(`🚀 Server running in ${process.env.NODE_ENV || "development"} mode`);
+      console.log(`🔗 Port: ${PORT}`);
+      console.log(`📅 ${new Date().toLocaleString()}`);
+    });
+  } catch (error) {
+    console.error("❌ Failed to start server:", error.message);
+    process.exit(1);
+  }
 };
 
-startServer(); // ✅ Start server only if MongoDB connects successfully
+startServer();
 
 module.exports = app;
