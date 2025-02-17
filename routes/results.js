@@ -31,7 +31,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         } else {
             QuestionModel = mongoose.model(collectionName, new mongoose.Schema({}, { strict: false, collection: collectionName }));
         }
-                
+
         const questions = await QuestionModel.find({});
         const totalQuestions = questions.length;
 
@@ -44,7 +44,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         const detailedResults = questions.map((question) => {
             const questionId = question._id.toString();
             const correctAnswer = question.answer;
-            const userAnswer = answers?.get(questionId) ?? null;
+            const userAnswer = answers?.[questionId] ?? null;
 
             let status;
 
@@ -52,7 +52,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
                 // User didn't provide an answer
                 status = 'unattempted';
                 unattempted++;
-            } else if (parseInt(userAnswer) === correctAnswer) {
+            } else if (parseInt(userAnswer) === parseInt(correctAnswer)) {
                 // Correct answer
                 status = 'correct';
                 correct++;
