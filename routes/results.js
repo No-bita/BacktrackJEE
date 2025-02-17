@@ -22,7 +22,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
             return res.status(404).json({ error: "Attempt not found" });
         }
 
-        const answers = attempt.answers;
+        const answers = attempt.answers || {};
         // Dynamically determine the correct collection
         const collectionName = `${slot.replace(/\s+/g, "_")}`;
         let QuestionModel;
@@ -43,7 +43,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         // 4️⃣ Process each question from the database
         const detailedResults = questions.map((question) => {
             const questionId = question._id.toString();
-            const correctAnswer = question.answer;
+            const correctAnswer = question.correct_option;
             const userAnswer = answers?.[questionId] ?? null;
 
             let status;
