@@ -26,7 +26,12 @@ router.get('/calculate', authenticateUser, async (req, res) => {
         // Dynamically determine the correct collection
         const collectionName = `${slot.replace(/\s+/g, "_")}`;
         let QuestionModel;
-        QuestionModel = mongoose.models[collectionName];
+        if (mongoose.models[collectionName]) {
+            QuestionModel = mongoose.models[collectionName];
+        } else {
+            QuestionModel = mongoose.model(collectionName, new mongoose.Schema({}, { strict: false, collection: collectionName }));
+        }
+                
         const questions = await QuestionModel.find({});
         const totalQuestions = questions.length;
 
@@ -61,7 +66,6 @@ router.get('/calculate', authenticateUser, async (req, res) => {
 
             return {
                 question_id: question._id,
-                question_text: question.question_text || question.question || "N/A",
                 user_answer: userAnswer,
                 correct_answer: correctAnswer,
                 status
