@@ -26,8 +26,7 @@ const corsOptions = {
 
 // Middleware
 app.use(express.json());
-app.use(cors(corsOptions));
-app.options("*", cors());
+app.use(cors({ origin: "*" })); 
 app.use(express.urlencoded({ extended: false }));
 
 // ✅ Security headers

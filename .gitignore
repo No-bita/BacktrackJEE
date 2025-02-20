@@ -15,7 +15,8 @@ pm2.log
 logs/
 
 # Environment Variables
-.env 
+.env
+
 .env.local
 .env.*.local
 
