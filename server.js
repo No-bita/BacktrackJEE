@@ -8,8 +8,8 @@ import connectDB from "./config/db.js"; // ✅ Import database connection
 dotenv.config();
 
 // ✅ Validate environment variables before running
-if (!process.env.MONGODB_URI) {
-    console.error("❌ MONGODB_URI is missing in .env");
+if (!process.env.MONGO_URI) {
+    console.error("❌ MONGO_URI is missing in .env");
     process.exit(1);
 }
 

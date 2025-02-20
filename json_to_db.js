@@ -1,72 +1,74 @@
-require("dotenv").config();
-const mongoose = require("mongoose");
-const fs = require("fs");
-const path = require("path");
+import dotenv from "dotenv";
+import mongoose from "mongoose";
+import fs from "fs";
+import path from "path";
+import { fileURLToPath } from "url";
+import getQuestionModel from "./models/Question.js"; // ✅ Ensure `.js` extension
 
-// ✅ Get JSON file name (without extension) and format collection name
-const jsonFilePath = "/Users/aaryanshah/Desktop/Project/BacktrackJEE-master/JEE Mains/Jan_27_Shift_2.json";
-const collectionName = path.basename(jsonFilePath, ".json").replace(/\s+/g, "_"); // ✅ Replace spaces with underscores
+// ✅ Load environment variables
+dotenv.config();
 
-const Question = require("./models/Question")(collectionName);
+// ✅ Get JSON file path and extract collection name
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const jsonFilePath = path.resolve(__dirname, "JEE Mains/2024_Jan_27_Shift_2.json");
+const collectionName = path.basename(jsonFilePath, ".json"); // ✅ Directly use the filename without modification
 
 // ✅ Fix: Use Correct MONGO_URI with Explicit Database Name
 const MONGO_URI = process.env.MONGO_URI;
 
-if (!MONGO_URI) { // ✅ Ensure MONGO_URI is defined
+if (!MONGO_URI) {
     console.error("❌ MONGO_URI is not set in .env file!");
     process.exit(1);
 }
 
 // ✅ Connect to MongoDB with the Correct Database
-mongoose.connect(MONGO_URI)
-    .then(() => {
-        console.log(`✅ Connected to MongoDB`);
-        console.log(`🛠️ Connected to Database: ${mongoose.connection.name}`); // ✅ Debugging Line
-        console.log(`📂 Collection Name: ${collectionName}`); // ✅ Debugging Line
-    })
-    .catch(err => {
-        console.error("❌ MongoDB Connection Error:", err);
+const connectDB = async () => {
+    try {
+        await mongoose.connect(MONGO_URI);
+        console.log(`✅ Connected to MongoDB: ${mongoose.connection.name}`);
+    } catch (error) {
+        console.error("❌ MongoDB Connection Error:", error);
         process.exit(1);
-    });
+    }
+};
 
 // ✅ Function to Load JSON and Push to MongoDB
 const pushJSONToMongo = async () => {
     try {
+        // ✅ Connect to MongoDB
+        await connectDB();
+
+        // ✅ Get the correct Question model dynamically (based on filename)
+        const Question = await getQuestionModel(collectionName);
+
+        // ✅ Delete all existing documents before inserting new ones
+        await Question.deleteMany({});
+        console.log(`🗑️ Cleared previous data from ${collectionName}`);
+
+        // ✅ Read JSON data
         const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
 
-        const formattedData = jsonData.map(q => {
-            const answer = parseInt(q.answer);
-            const isMCQ = Array.isArray(q.options) && q.options.length === 4;
+        // ✅ Format data
+        const formattedData = jsonData.map(q => ({
+            question_id: q.question_id, // ✅ Ensure question_id is included
+            type: q.type,
+            options: Array.isArray(q.options) && q.options.length === 4 ? q.options : [],
+            answer: q.answer,
+            image: q.image || null,
+            subject: q.subject,
+        }));
 
-            return {
-                question_id: q.question_id,
-                type: isMCQ ? "MCQ" : "Integer",
-                question_text: q.question,
-                options: isMCQ
-                    ? {
-                        1: q.options[0] || "N/A",
-                        2: q.options[1] || "N/A",
-                        3: q.options[2] || "N/A",
-                        4: q.options[3] || "N/A"
-                    }
-                    : null,
-                correct_option: isMCQ 
-                    ? ([1, 2, 3, 4].includes(answer) ? answer : 1)  // ✅ Default MCQ answer if missing
-                    : (Number.isInteger(answer) ? answer : 0),  // ✅ Default Integer answer if missing
-                image: q.image || null
-            };
-        });
-
-        await Question.deleteMany({});
-        console.log(`🗑️ Cleared old data from ${collectionName}`);
-
+        // ✅ Insert all questions after deletion
         await Question.insertMany(formattedData);
         console.log(`✅ Successfully inserted ${formattedData.length} questions into MongoDB collection: ${collectionName}`);
 
     } catch (error) {
         console.error("❌ Error inserting JSON data into MongoDB:", error);
     } finally {
-        mongoose.connection.close();
+        // ✅ Close connection only after all operations complete
+        await mongoose.connection.close();
         console.log("🔌 MongoDB Connection Closed");
     }
 };
