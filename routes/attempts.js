@@ -1,10 +1,9 @@
 import express from "express";
 import mongoose from "mongoose";
-import authMiddleware from "../middleware/authmiddleware.js"; // ✅ Ensure file extension `.js`
+import authMiddleware from "../middleware/authmiddleware.js"; // ✅ Ensure file extension `.js`;
+import Attempt from "../models/Attempt.js"
 
 const router = express.Router();
-
-const AttemptModel = mongoose.model("UserAttempts", AttemptSchema);
 
 // ✅ API to save user attempts
 router.post("/save-attempt", authMiddleware, async (req, res) => {
@@ -16,7 +15,7 @@ router.post("/save-attempt", authMiddleware, async (req, res) => {
         }
 
         // ✅ Save attempt in MongoDB
-        const attemptRecord = new AttemptModel({ user_id, user_name, year, slot, answers });
+        const attemptRecord = new Attempt({ user_id, user_name, year, slot, answers });
         await attemptRecord.save();
 
         return res.status(201).json({ message: "Attempt saved successfully" });

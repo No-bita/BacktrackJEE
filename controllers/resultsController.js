@@ -1,8 +1,8 @@
-const Attempt = require('../models/Attempt');
-const mongoose = require('mongoose');
+import Attempt from "../models/Attempt.js";
+import mongoose from "mongoose";
 
 // 🧠 Calculate Results
-exports.calculateResults = async (req, res) => {
+export const calculateResults = async (req, res) => {
     const { user_id, year, slot } = req.query;
 
     if (!user_id || !year || !slot) {

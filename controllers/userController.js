@@ -1,8 +1,11 @@
-const User = require("../models/user");
-const { validationResult } = require("express-validator");
-const jwt = require("jsonwebtoken");
-require("dotenv").config();
+import User from "../models/user.js";
+import { validationResult } from "express-validator";
+import jwt from "jsonwebtoken";
+import dotenv from "dotenv";
 
+dotenv.config(); // Load environment variables
+
+// ✅ Generate JWT Token
 const generateToken = (user) => {
     return jwt.sign(
         { id: user._id, email: user.email, role: user.role },
@@ -11,6 +14,7 @@ const generateToken = (user) => {
     );
 };
 
+// ✅ User Controller
 const userController = {
     // 🟢 Register new user (JWT-based)
     register: async (req, res) => {
@@ -87,4 +91,4 @@ const userController = {
     }
 };
 
-module.exports = userController;
+export default userController; // ✅ Use ES module export

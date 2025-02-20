@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const { Schema } = mongoose;
 
-const attemptSchema = new Schema({
+const AttemptSchema = new Schema({
     user_id: { 
         type: String, 
         required: true, 
@@ -37,6 +37,6 @@ const attemptSchema = new Schema({
 });
 
 // ✅ Prevent duplicate model definition
-const Attempt = mongoose.models.Attempt || mongoose.model("Attempt", attemptSchema);
+const Attempt = mongoose.models.Attempt || mongoose.model("Attempt", AttemptSchema);
 
 export default Attempt;

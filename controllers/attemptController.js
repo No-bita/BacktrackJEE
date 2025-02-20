@@ -1,9 +1,9 @@
-const Attempt = require("../models/Attempt");
-const Exam = require("../models/exam");
-const Question = require("../models/questionss");
+import Attempt from "../models/Attempt.js";
+import Exam from "../models/exam.js";
+import Question from "../models/questionss.js";
 
 // ✅ Start a New Exam Attempt
-exports.startAttempt = async (req, res) => {
+export const startAttempt = async (req, res) => {
     try {
         const { year, slot, totalQuestions, timeAlloted } = req.body;
         const userId = req.user.id;
@@ -53,7 +53,7 @@ exports.startAttempt = async (req, res) => {
 };
 
 // ✅ Submit Exam
-exports.submitExam = async (req, res) => {
+export const submitExam = async (req, res) => {
     try {
         const { year, slot, answers } = req.body;
         const userId = req.user.id;
@@ -127,7 +127,7 @@ exports.submitExam = async (req, res) => {
 };
 
 // ✅ Fetch Exam Results
-exports.getExamResults = async (req, res) => {
+export const getExamResults = async (req, res) => {
     try {
         const { user_id, year, slot } = req.query.user_id ? req.query : req.body;
 

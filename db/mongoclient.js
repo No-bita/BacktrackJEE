@@ -1,7 +1,9 @@
-const mongoose = require('mongoose');
-require('dotenv').config();  // Load environment variables
+import mongoose from "mongoose";
+import dotenv from "dotenv";
 
-// MongoDB Connection Function
+dotenv.config(); // Load environment variables
+
+// ✅ MongoDB Connection Function
 const connectDB = async () => {
     try {
         await mongoose.connect(process.env.MONGO_URI);
@@ -12,15 +14,15 @@ const connectDB = async () => {
     }
 };
 
-// Handle MongoDB Errors & Disconnections
-mongoose.connection.on('error', (err) => {
+// ✅ Handle MongoDB Errors & Disconnections
+mongoose.connection.on("error", (err) => {
     console.error("⚠️ MongoDB Connection Error:", err);
 });
 
-mongoose.connection.on('disconnected', () => {
+mongoose.connection.on("disconnected", () => {
     console.warn("⚠️ MongoDB Disconnected! Attempting to reconnect...");
     connectDB(); // Auto-reconnect
 });
 
-// Export function to use in `server.js`
-module.exports = connectDB;
+// ✅ Export function for use in `server.js`
+export default connectDB;
