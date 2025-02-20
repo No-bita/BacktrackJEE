@@ -1,6 +1,8 @@
-const mongoose = require('mongoose');
+import mongoose from "mongoose";
 
-const userSchema = new mongoose.Schema({
+const { Schema } = mongoose;
+
+const userSchema = new Schema({
     name: {
         type: String,
         required: true,
@@ -16,19 +18,12 @@ const userSchema = new mongoose.Schema({
     password: {
         type: String,
         required: true
-    },
-    role: {
-        type: String,
-        enum: ['user', 'admin'],
-        default: 'user'
-    },
-    createdAt: {
-        type: Date,
-        default: Date.now
     }
 }, {
-    timestamps: true
+    timestamps: true // ✅ Auto-adds `createdAt` & `updatedAt`
 });
 
-const User = mongoose.model('User', userSchema);
-module.exports = User;
+// ✅ Prevent duplicate model definition
+const User = mongoose.models.User || mongoose.model("User", userSchema);
+
+export default User;

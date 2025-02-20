@@ -1,12 +1,12 @@
-const express = require('express');
-const mongoose = require('mongoose');
-const Attempt = require('../models/Attempt');
-const authenticateUser = require('../middleware/authmiddleware');
+import express from "express";
+import mongoose from "mongoose";
+import Attempt from "../models/Attempt.js"; // ✅ Ensure file extension `.js`
+import authenticateUser from "../middleware/authmiddleware.js"; // ✅ Ensure file extension `.js`
 
 const router = express.Router();
 
 // 🧠 Calculate Exam Results with Negative Marking
-router.get('/calculate', authenticateUser, async (req, res) => {
+router.get("/calculate", authenticateUser, async (req, res) => {
     const { user_id, year, slot } = req.query;
 
     if (!user_id || !year || !slot) {
@@ -42,24 +42,21 @@ router.get('/calculate', authenticateUser, async (req, res) => {
 
         // 4️⃣ Process each question from the database
         const detailedResults = questions.map((question) => {
-            const questionId = questions._id.toString();
-            const correctAnswer = questions.correct_option;
+            const questionId = question._id.toString();
+            const correctAnswer = question.correct_option;
             const userAnswer = answers?.get(questionId) ?? null;
 
             let status;
 
             if (userAnswer === null || userAnswer === undefined || userAnswer === "") {
-                // User didn't provide an answer
-                status = 'unattempted';
+                status = "unattempted";
                 unattempted++;
             } else if (parseInt(userAnswer) === parseInt(correctAnswer)) {
-                // Correct answer
-                status = 'correct';
+                status = "correct";
                 correct++;
                 totalMarks += 4;
             } else {
-                // Incorrect answer
-                status = 'incorrect';
+                status = "incorrect";
                 incorrect++;
                 totalMarks -= 1;
             }
@@ -68,10 +65,9 @@ router.get('/calculate', authenticateUser, async (req, res) => {
                 question_id: question._id,
                 user_answer: userAnswer,
                 correct_answer: correctAnswer,
-                status
+                status,
             };
         });
-
 
         // 4️⃣ Prepare the final result summary
         const resultSummary = {
@@ -84,7 +80,7 @@ router.get('/calculate', authenticateUser, async (req, res) => {
             incorrect,
             unattempted,
             total_marks: totalMarks,
-            answers: detailedResults
+            answers: detailedResults,
         };
 
         res.json(resultSummary);
@@ -94,4 +90,4 @@ router.get('/calculate', authenticateUser, async (req, res) => {
     }
 });
 
-module.exports = router;
+export default router; // ✅ Use ES Modules export

@@ -1,8 +1,11 @@
-const express = require("express");
-const mongoose = require("mongoose");
-const cors = require("cors");
-require("dotenv").config();
-const connectDB = require("./config/db"); // ✅ Import database connection
+import express from "express";
+import mongoose from "mongoose";
+import cors from "cors";
+import dotenv from "dotenv";
+import connectDB from "./config/db.js"; // ✅ Import database connection
+
+// ✅ Load environment variables
+dotenv.config();
 
 // ✅ Validate environment variables before running
 if (!process.env.MONGODB_URI) {
@@ -37,17 +40,20 @@ app.use((req, res, next) => {
 app.set("trust proxy", 1);
 
 // ✅ Routes
-app.use("/api/auth", require("./routes/auth"));
-app.use("/api/attempts", require("./routes/attempts"));
-app.use("/api/questions", require("./routes/questions"));
+import authRoutes from "./routes/auth.js";
+import attemptsRoutes from "./routes/attempts.js";
+import questionsRoutes from "./routes/questions.js";
+import resultsRoutes from "./routes/results.js";
+
+app.use("/api/auth", authRoutes);
+app.use("/api/attempts", attemptsRoutes);
+app.use("/api/questions", questionsRoutes);
+app.use("/api/results", resultsRoutes);
 
 // ✅ Test Route
 app.get("/api/test", (req, res) => {
     res.json({ message: "Hello from the server!" });
 });
-
-const resultsRoutes = require('./routes/results');
-app.use('/api/results', resultsRoutes);
 
 // ✅ Error Handling Middleware
 app.use((err, req, res, next) => {
@@ -77,4 +83,4 @@ const startServer = async () => {
 
 startServer(); // ✅ Start server only if MongoDB connects successfully
 
-module.exports = app;
+export default app;

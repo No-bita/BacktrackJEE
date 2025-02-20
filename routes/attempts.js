@@ -1,21 +1,12 @@
-const express = require("express");
-const router = express.Router();
-const mongoose = require("mongoose");
-const authMiddleware = require("../middleware/authmiddleware"); // Ensure user is authenticated
+import express from "express";
+import mongoose from "mongoose";
+import authMiddleware from "../middleware/authmiddleware.js"; // ✅ Ensure file extension `.js`
 
-// Define MongoDB schema
-const AttemptSchema = new mongoose.Schema({
-    user_id: { type: String, required: true },
-    user_name: { type: String, required: true },
-    year: { type: String, required: true },
-    slot: { type: String, required: true },
-    answers: { type: Object, required: true },
-    timestamp: { type: Date, default: Date.now }
-});
+const router = express.Router();
 
 const AttemptModel = mongoose.model("UserAttempts", AttemptSchema);
 
-// API to save user attempts
+// ✅ API to save user attempts
 router.post("/save-attempt", authMiddleware, async (req, res) => {
     try {
         const { user_id, user_name, year, slot, answers } = req.body;
@@ -24,7 +15,7 @@ router.post("/save-attempt", authMiddleware, async (req, res) => {
             return res.status(400).json({ message: "Missing required fields" });
         }
 
-        // Save attempt in MongoDB
+        // ✅ Save attempt in MongoDB
         const attemptRecord = new AttemptModel({ user_id, user_name, year, slot, answers });
         await attemptRecord.save();
 
@@ -35,4 +26,4 @@ router.post("/save-attempt", authMiddleware, async (req, res) => {
     }
 });
 
-module.exports = router;
+export default router; // ✅ Use ES Modules export

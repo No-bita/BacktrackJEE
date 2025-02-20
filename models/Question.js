@@ -1,47 +1,54 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
-module.exports = (collectionName) => {
-    const questionSchema = new mongoose.Schema({
-        //exam: { type: mongoose.Schema.Types.ObjectId, ref: "Exam", required: false }, // ✅ Allows linking to an exam
-        question_id: { type: Number, required: true, unique: true },
-        type: { type: String, required: true, enum: ["MCQ", "Integer"] }, // ✅ Differentiates question types
-        question_text: { type: String, required: false, trim: true },
-        year: { type: mongoose.Schema.Types.ObjectId, ref: "Year", required: false }, // ✅ Year of the question
-        slot: { type: mongoose.Schema.Types.ObjectId, ref: "Slot", required: false }, // ✅ Slot of the question
+const { Schema } = mongoose;
 
-        options: {
-            type: Map,
-            of: String, // ✅ Accepts object instead of an array
-            validate: {
-                validator: function (value) {
-                    if (this.type === "MCQ") return value && Object.keys(value).length === 4;
-                    return value === null || Object.keys(value).length === 0; // ✅ Integer questions should have no options
-                },
-                message: "MCQ questions must have exactly 4 options, Integer questions must have none."
+// ✅ Updated Question Schema (No `question_id`)
+const questionSchema = new Schema({
+    type: { type: String, required: true, enum: ["MCQ", "Integer"] },
+
+    options: { 
+        type: Array, 
+        default: [],
+        validate: {
+            validator: function (value) {
+                if (this.type === "MCQ") return Array.isArray(value) && value.length === 4;
+                return value.length === 0; // Integer questions should have no options
             },
-            default: null
-        },
+            message: "MCQ must have exactly 4 options, Integer questions must have none."
+        }
+    },
 
-        correct_option: { 
-            type: Number, 
-            required: true, 
-            default: function () {
-                return this.type === "MCQ" ? 1 : 0; // ✅ Default: 1 for MCQ, 0 for Integer
+    answer: { 
+        type: Number, 
+        required: true,
+        validate: {
+            validator: function(value) {
+                if (this.type === "MCQ") return Number.isInteger(value) && value >= 1 && value <= 4; // ✅ MCQs must be 1-4
+                if (this.type === "Integer") return Number.isInteger(value); // ✅ Integer answers can be any number
+                return false;
             },
-            validate: {
-                validator: function(value) {
-                    if (this.type === "MCQ") return Number.isInteger(value) && value >= 1 && value <= 4;
-                    if (this.type === "Integer") return Number.isInteger(value); // Allow negatives
-                    return false;
-                },
-                message: props => `Invalid correct answer: ${props.value}`
-            }
-        },
+            message: props => `Invalid answer: ${props.value}`
+        }
+    },
 
-        marks: { type: Number, default: 4 }, // ✅ Allows variable marks per question
-        image: { type: String, default: null } // ✅ Optional image URL
+    image: { type: String, default: null }, // ✅ Stores image URL if available
+    subject: { type: String, required: true } // ✅ Subject of the question (Mathematics, Physics, etc.)
 
-    }, { collection: collectionName });
+}, { timestamps: true }); // ✅ Adds `createdAt` & `updatedAt`
 
-    return mongoose.models[collectionName] || mongoose.model(collectionName, questionSchema, collectionName);
+// ✅ Function to Find and Use Existing Collections
+const getQuestionModel = async (collectionName) => {
+    const collections = await mongoose.connection.db.listCollections().toArray();
+    
+    // ✅ Check if the requested collection exists
+    const collectionExists = collections.some(col => col.name === collectionName);
+    
+    if (!collectionExists) {
+        throw new Error(`❌ Collection '${collectionName}' does not exist in the database.`);
+    }
+
+    // ✅ If the collection exists, return the model reference
+    return mongoose.connection.db.collection(collectionName);
 };
+
+export default getQuestionModel;

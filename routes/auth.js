@@ -1,26 +1,28 @@
-const express = require("express");
-const jwt = require("jsonwebtoken");
-const User = require("../models/user");
-require("dotenv").config();
-const userController = require('../controllers/userController');
-const { registerValidation } = require('../middleware/validation');
-const authenticateUser = require('../middleware/authmiddleware');
-const { body, validationResult } = require('express-validator');
+import express from "express";
+import jwt from "jsonwebtoken";
+import dotenv from "dotenv";
+import { body, validationResult } from "express-validator";
+import User from "../models/user.js"; // ✅ Ensure file extension `.js`
+import userController from "../controllers/userController.js"; // ✅ Ensure file extension `.js`
+import authenticateUser from "../middleware/authmiddleware.js"; // ✅ Ensure file extension `.js`
+
+dotenv.config();
 
 const router = express.Router();
-router.get("/profile", authenticateUser, userController.getProfile);
-router.put("/profile", authenticateUser, userController.updateProfile);
 
-// Generate JWT Token
+// ✅ Generate JWT Token
 const generateToken = (user) => {
     return jwt.sign(
         { id: user._id, email: user.email, role: user.role },
         process.env.JWT_SECRET,
-        { expiresIn: "1h" } // Token expires in 1 hour
+        { expiresIn: "4h" } // Token expires in 4 hours
     );
 };
 
-// 🟢 User Registration (with JWT)
+// ✅ GET Profile (Protected Route)
+router.get("/profile", authenticateUser, userController.getProfile);
+
+// ✅ User Registration (with JWT)
 router.post(
     "/register",
     [
@@ -63,7 +65,7 @@ router.post(
     }
 );
 
-// 🟢 User Login (with JWT)
+// ✅ User Login (with JWT)
 router.post(
     "/login",
     [
@@ -107,12 +109,12 @@ router.post(
     }
 );
 
-// 🟢 Logout (Handled on the frontend by deleting token)
+// ✅ Logout (Handled on the frontend by deleting token)
 router.post("/logout", (req, res) => {
     res.json({ message: "Logout successful (Clear token from frontend)" });
 });
 
-// 🟢 Authentication Status Check
+// ✅ Authentication Status Check
 router.get("/status", (req, res) => {
     try {
         const authHeader = req.headers.authorization;
@@ -131,5 +133,4 @@ router.get("/status", (req, res) => {
     }
 });
 
-
-module.exports = router;
+export default router; // ✅ Use ES Modules export
